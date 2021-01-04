@@ -1,0 +1,150 @@
+{
+    "last_reported_time": 1603795559,
+    "name": "pmsvc0013.anim.dreamworks.com",
+    "is_muted": false,
+    "mute_timeout": null,
+    "apps": [
+      "ntp",
+      "agent",
+      "http",
+      "chef"
+    ],
+    "tags_by_source": {
+      "Chef": [
+        "chef_env:prod"
+      ],
+      "Datadog": [
+        "team:pe",
+        "host:pmsvc0013.anim.dreamworks.com"
+      ],
+      "Users": [
+        "env:prod",
+        "environment:prod",
+        "role:sbjvm",
+        "site:gld"
+      ]
+    },
+    "up": true,
+    "metrics": {
+      "load": 0.018552631,
+      "iowait": 0.029078947,
+      "cpu": 5.9484863
+    },
+    "sources": [
+      "agent"
+    ],
+    "meta": {
+      "nixV": [
+        "redhat",
+        "6.5",
+        "Santiago"
+      ],
+      "agent_checks": [
+        [
+          "pso_endpoint_check",
+          "pso_endpoint_check",
+          0,
+          "OK",
+          "",
+          {
+            
+          }
+        ],
+        [
+          "disk",
+          "disk",
+          0,
+          "OK",
+          "",
+          {
+            
+          }
+        ],
+        [
+          "network",
+          "system",
+          0,
+          "OK",
+          "",
+          {
+            
+          }
+        ]
+      ],
+      "cpuCores": 2,
+      "timezones": [
+        "PST",
+        "PDT"
+      ],
+      "machine": "x86_64",
+      "platform": "linux2",
+      "gohai": {
+        "cpu": {
+          "cache_size": "4096 KB",
+          "family": "6",
+          "mhz": "2699.998",
+          "model": "44",
+          "model_name": "Westmere E56xx/L56xx/X56xx (Nehalem-C)",
+          "stepping": "1",
+          "vendor_id": "GenuineIntel"
+        },
+        "filesystem": [
+          null,
+          {
+            "kb_size": "32866168",
+            "mounted_on": "/",
+            "name": ""
+          },
+          {
+            "kb_size": "6097424",
+            "mounted_on": "/dev/shm",
+            "name": "tmpfs"
+          },
+          {
+            "kb_size": "126931",
+            "mounted_on": "/boot",
+            "name": "/dev/vda1"
+          }
+        ],
+        "gohai": {
+          "build_date": "Thu May 10 14:54:26 UTC 2018",
+          "git_branch": "last-stable",
+          "git_hash": "c0c41b5",
+          "go_version": "go version go1.3.3 linux/amd64"
+        },
+        "memory": {
+          "swap_total": "4194296kB",
+          "total": "12194852kB"
+        },
+        "network": {
+          "ipaddress": "192.168.44.193",
+          "ipaddressv6": "fe80::21a:4aff:feaa:6cd8",
+          "macaddress": "00:1a:4a:aa:6c:d8"
+        },
+        "platform": {
+          "GOOARCH": "amd64",
+          "GOOS": "linux",
+          "goV": "1.3.3",
+          "hardware_platform": "x86_64",
+          "hostname": "pmsvc0013.anim.dreamworks.com",
+          "kernel_name": "Linux",
+          "kernel_release": "2.6.32-431.23.3.el6.x86_64",
+          "kernel_version": "#1 SMP Wed Jul 16 06:12:23 EDT 2014",
+          "machine": "x86_64",
+          "os": "GNU/Linux",
+          "processor": "x86_64",
+          "pythonV": "2.7.14"
+        }
+      },
+      "host_id": 61758526,
+      "pythonV": "2.7.14",
+      "processor": "x86_64",
+      "socket-fqdn": "pmsvc0013.anim.dreamworks.com",
+      "agent_version": "5.24.0"
+    },
+    "host_name": "pmsvc0013.anim.dreamworks.com",
+    "id": 61758526,
+    "aliases": [
+      "pmsvc0013.anim.dreamworks.com"
+    ]
+  }

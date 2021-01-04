@@ -1,0 +1,1724 @@
+[
+    {
+      "name": "Afghanistan",
+      "dial_code": "+93",
+      "code": "AF",
+      "flag": "🇦🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/afghanistan-32928.svg"
+    },
+    {
+      "name": "Åland Islands",
+      "dial_code": "+358",
+      "code": "AX",
+      "flag": "🇦🇽",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/aland-islands-32908.svg"
+    },
+    {
+      "name": "Albania",
+      "dial_code": "+355",
+      "code": "AL",
+      "flag": "🇦🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/albania-32909.svg"
+    },
+    {
+      "name": "Algeria",
+      "dial_code": "+213",
+      "code": "DZ",
+      "flag": "🇩🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/algeria-32972.svg"
+    },
+    {
+      "name": "American Samoa",
+      "dial_code": "+1684",
+      "code": "AS",
+      "flag": "🇺🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/american-samoa-32917.svg"
+    },
+    {
+      "name": "Andorra",
+      "dial_code": "+376",
+      "code": "AD",
+      "flag": "🇦🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/andorra-32921.svg"
+    },
+    {
+      "name": "Angola",
+      "dial_code": "+244",
+      "code": "AO",
+      "flag": "🇦🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/angola-32914.svg"
+    },
+    {
+      "name": "Anguilla",
+      "dial_code": "+1264",
+      "code": "AI",
+      "flag": "🇦🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/anguilla-32924.svg"
+    },
+    {
+      "name": "Antarctica",
+      "dial_code": "+672",
+      "code": "AQ",
+      "flag": "🇦🇶",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/antarctica-33151.svg"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "dial_code": "+1268",
+      "code": "AG",
+      "flag": "🇦🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/antigua-and-barbuda-32910.svg"
+    },
+    {
+      "name": "Argentina",
+      "dial_code": "+54",
+      "code": "AR",
+      "flag": "🇦🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/argentina-32919.svg"
+    },
+    {
+      "name": "Armenia",
+      "dial_code": "+374",
+      "code": "AM",
+      "flag": "🇦🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/armenia-32925.svg"
+    },
+    {
+      "name": "Aruba",
+      "dial_code": "+297",
+      "code": "AW",
+      "flag": "🇦🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/aruba-32923.svg"
+    },
+    {
+      "name": "Australia",
+      "dial_code": "+61",
+      "code": "AU",
+      "flag": "🇦🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/austallia-32912.svg"
+    },
+    {
+      "name": "Austria",
+      "dial_code": "+43",
+      "code": "AT",
+      "flag": "🇦🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/austria-32920.svg"
+    },
+    {
+      "name": "Azerbaijan",
+      "dial_code": "+994",
+      "code": "AZ",
+      "flag": "🇦🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/azerbaijan-32926.svg"
+    },
+    {
+      "name": "Bahamas",
+      "dial_code": "+1242",
+      "code": "BS",
+      "flag": "🇧🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bahamas-32915.svg"
+    },
+    {
+      "name": "Bahrain",
+      "dial_code": "+973",
+      "code": "BH",
+      "flag": "🇧🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bahrain-32974.svg"
+    },
+    {
+      "name": "Bangladesh",
+      "dial_code": "+880",
+      "code": "BD",
+      "flag": "🇧🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bangladesh-32916.svg"
+    },
+    {
+      "name": "Barbados",
+      "dial_code": "+1246",
+      "code": "BB",
+      "flag": "🇧🇧",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/barbados-32913.svg"
+    },
+    {
+      "name": "Belarus",
+      "dial_code": "+375",
+      "code": "BY",
+      "flag": "🇧🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/belarus-32918.svg"
+    },
+    {
+      "name": "Belgium",
+      "dial_code": "+32",
+      "code": "BE",
+      "flag": "🇧🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/belgium-32911.svg"
+    },
+    {
+      "name": "Belize",
+      "dial_code": "+501",
+      "code": "BZ",
+      "flag": "🇧🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/belize-32927.svg"
+    },
+    {
+      "name": "Benin",
+      "dial_code": "+229",
+      "code": "BJ",
+      "flag": "🇧🇯",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/benin-32922.svg"
+    },
+    {
+      "name": "Bermuda",
+      "dial_code": "+1441",
+      "code": "BM",
+      "flag": "🇧🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bermuda-32929.svg"
+    },
+    {
+      "name": "Bhutan",
+      "dial_code": "+975",
+      "code": "BT",
+      "flag": "🇧🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bhutan-32931.svg"
+    },
+    {
+      "name": "Bolivia, Plurinational State of bolivia",
+      "dial_code": "+591",
+      "code": "BO",
+      "flag": "🇧🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bolivia-state-of-plurinationalflag-empire-32945.svg"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "dial_code": "+387",
+      "code": "BA",
+      "flag": "🇧🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bosnia-and-herzegovina-32932.svg"
+    },
+    {
+      "name": "Botswana",
+      "dial_code": "+267",
+      "code": "BW",
+      "flag": "🇧🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bostwana-32933.svg"
+    },
+    {
+      "name": "Bouvet Island",
+      "dial_code": "+47",
+      "code": "BV",
+      "flag": "🏳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bouvet-island-33156.svg"
+    },
+    {
+      "name": "Brazil",
+      "dial_code": "+55",
+      "code": "BR",
+      "flag": "🇧🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/brazil-32937.svg"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "dial_code": "+246",
+      "code": "IO",
+      "flag": "🇮🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/british-indian-ocean-territory-33159.svg"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "dial_code": "+673",
+      "code": "BN",
+      "flag": "🇧🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/brunei-darussalam-32944.svg"
+    },
+    {
+      "name": "Bulgaria",
+      "dial_code": "+359",
+      "code": "BG",
+      "flag": "🇧🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/bulgaria-32973.svg"
+    },
+    {
+      "name": "Burkina Faso",
+      "dial_code": "+226",
+      "code": "BF",
+      "flag": "🇧🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/burkina-faso-32934.svg"
+    },
+    {
+      "name": "Burundi",
+      "dial_code": "+257",
+      "code": "BI",
+      "flag": "🇧🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/burundi-32935.svg"
+    },
+    {
+      "name": "Cambodia",
+      "dial_code": "+855",
+      "code": "KH",
+      "flag": "🇰🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cambodia-32978.svg"
+    },
+    {
+      "name": "Cameroon",
+      "dial_code": "+237",
+      "code": "CM",
+      "flag": "🇨🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cameroon-32936.svg"
+    },
+    {
+      "name": "Canada",
+      "dial_code": "+1",
+      "code": "CA",
+      "flag": "🇨🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/canada-32938.svg"
+    },
+    {
+      "name": "Cape Verde",
+      "dial_code": "+238",
+      "code": "CV",
+      "flag": "🇨🇻",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cabo-verde-32941.svg"
+    },
+    {
+      "name": "Cayman Islands",
+      "dial_code": "+ 345",
+      "code": "KY",
+      "flag": "🇰🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cayman-islands-32986.svg"
+    },
+    {
+      "name": "Central African Republic",
+      "dial_code": "+236",
+      "code": "CF",
+      "flag": "🇨🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/central-african-republic-32940.svg"
+    },
+    {
+      "name": "Chad",
+      "dial_code": "+235",
+      "code": "TD",
+      "flag": "🇹🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/chad-32985.svg"
+    },
+    {
+      "name": "Chile",
+      "dial_code": "+56",
+      "code": "CL",
+      "flag": "🇨🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/chile-32939.svg"
+    },
+    {
+      "name": "China",
+      "dial_code": "+86",
+      "code": "CN",
+      "flag": "🇨🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/china-32942.svg"
+    },
+    {
+      "name": "Christmas Island",
+      "dial_code": "+61",
+      "code": "CX",
+      "flag": "🇨🇽",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/christmas-island-32943.svg"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "dial_code": "+61",
+      "code": "CC",
+      "flag": "🇨🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cocos-islands-32947.svg"
+    },
+    {
+      "name": "Colombia",
+      "dial_code": "+57",
+      "code": "CO",
+      "flag": "🇨🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/colombia-32946.svg"
+    },
+    {
+      "name": "Comoros",
+      "dial_code": "+269",
+      "code": "KM",
+      "flag": "🇰🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/comoros-32981.svg"
+    },
+    {
+      "name": "Congo",
+      "dial_code": "+242",
+      "code": "CG",
+      "flag": "🇨🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/congo.svg"
+    },
+    {
+      "name": "Congo, The Democratic Republic of the Congo",
+      "dial_code": "+243",
+      "code": "CD",
+      "flag": "🇨🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/democratic-republic-of-the-congo-32952.svg"
+    },
+    {
+      "name": "Cook Islands",
+      "dial_code": "+682",
+      "code": "CK",
+      "flag": "🇨🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cook-islands-32954.svg"
+    },
+    {
+      "name": "Costa Rica",
+      "dial_code": "+506",
+      "code": "CR",
+      "flag": "🇨🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/costa-rica-32948.svg"
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "dial_code": "+225",
+      "code": "CI",
+      "flag": "🇨🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cote-dlvoire-32949.svg"
+    },
+    {
+      "name": "Croatia",
+      "dial_code": "+385",
+      "code": "HR",
+      "flag": "🇭🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/croatia-32995.svg"
+    },
+    {
+      "name": "Cuba",
+      "dial_code": "+53",
+      "code": "CU",
+      "flag": "🇨🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cuba-32951.svg"
+    },
+    {
+      "name": "Cyprus",
+      "dial_code": "+357",
+      "code": "CY",
+      "flag": "🇨🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/cyprus-32953.svg"
+    },
+    {
+      "name": "Czech Republic",
+      "dial_code": "+420",
+      "code": "CZ",
+      "flag": "🇨🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/czech-republic-32956.svg"
+    },
+    {
+      "name": "Denmark",
+      "dial_code": "+45",
+      "code": "DK",
+      "flag": "🇩🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/denmark-32955.svg"
+    },
+    {
+      "name": "Djibouti",
+      "dial_code": "+253",
+      "code": "DJ",
+      "flag": "🇩🇯",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/djibouti-32957.svg"
+    },
+    {
+      "name": "Dominica",
+      "dial_code": "+1767",
+      "code": "DM",
+      "flag": "🇩🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/dominica-32960.svg"
+    },
+    {
+      "name": "Dominican Republic",
+      "dial_code": "+1849",
+      "code": "DO",
+      "flag": "🇨🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/dominican-republic-32993.svg"
+    },
+    {
+      "name": "Ecuador",
+      "dial_code": "+593",
+      "code": "EC",
+      "flag": "🇪🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/ecuador-32962.svg "
+    },
+    {
+      "name": "Egypt",
+      "dial_code": "+20",
+      "code": "EG",
+      "flag": "🇪🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/egypt-32961.svg "
+    },
+    {
+      "name": "El Salvador",
+      "dial_code": "+503",
+      "code": "SV",
+      "flag": "🇸🇻",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/el-salvador-33011.svg "
+    },
+    {
+      "name": "Equatorial Guinea",
+      "dial_code": "+240",
+      "code": "GQ",
+      "flag": "🇬🇶",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/equatorial-guinea-32971.svg "
+    },
+    {
+      "name": "Eritrea",
+      "dial_code": "+291",
+      "code": "ER",
+      "flag": "🇪🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/eritrea-32964.svg "
+    },
+    {
+      "name": "Estonia",
+      "dial_code": "+372",
+      "code": "EE",
+      "flag": "🇪🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/estoniaflag-empire-32959.svg "
+    },
+    {
+      "name": "Ethiopia",
+      "dial_code": "+251",
+      "code": "ET",
+      "flag": "🇪🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/ethiopia-32958.svg "
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "dial_code": "+500",
+      "code": "FK",
+      "flag": "🇫🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/falkland-islands-32963.svg "
+    },
+    {
+      "name": "Faroe Islands",
+      "dial_code": "+298",
+      "code": "FO",
+      "flag": "🇫🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/faroe-islands-32965.svg "
+    },
+    {
+      "name": "Fiji",
+      "dial_code": "+679",
+      "code": "FJ",
+      "flag": "🇫🇯",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/fiji-32970.svg "
+    },
+    {
+      "name": "Finland",
+      "dial_code": "+358",
+      "code": "FI",
+      "flag": "🇫🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/finland-32966.svg "
+    },
+    {
+      "name": "France",
+      "dial_code": "+33",
+      "code": "FR",
+      "flag": "🇫🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/france-32967.svg "
+    },
+    {
+      "name": "French Guiana",
+      "dial_code": "+594",
+      "code": "GF",
+      "flag": "🇬🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/french-guiana-32975.svg "
+    },
+    {
+      "name": "French Polynesia",
+      "dial_code": "+689",
+      "code": "PF",
+      "flag": "🇵🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/french-polynesia-33024.svg "
+    },
+    {
+      "name": "French Southern Territories",
+      "dial_code": "+262",
+      "code": "TF",
+      "flag": "🇹🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/french-southern-territories-32977.svg"
+    },
+    {
+      "name": "Gabon",
+      "dial_code": "+241",
+      "code": "GA",
+      "flag": "🇬🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/gabon-32968.svg "
+    },
+    {
+      "name": "Gambia",
+      "dial_code": "+220",
+      "code": "GM",
+      "flag": "🇬🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/gambia-32976.svg "
+    },
+    {
+      "name": "Georgia",
+      "dial_code": "+995",
+      "code": "GE",
+      "flag": "🇬🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/georgia-32979.svg "
+    },
+    {
+      "name": "Germany",
+      "dial_code": "+49",
+      "code": "DE",
+      "flag": "🇩🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/germany-32989.svg "
+    },
+    {
+      "name": "Ghana",
+      "dial_code": "+233",
+      "code": "GH",
+      "flag": "🇬🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/ghana-32990.svg "
+    },
+    {
+      "name": "Gibraltar",
+      "dial_code": "+350",
+      "code": "GI",
+      "flag": "🇬🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/gibraltar-32992.svg "
+    },
+    {
+      "name": "Greece",
+      "dial_code": "+30",
+      "code": "GR",
+      "flag": "🇬🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/greece-32991.svg "
+    },
+    {
+      "name": "Greenland",
+      "dial_code": "+299",
+      "code": "GL",
+      "flag": "🇬🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/greenland-33003.svg "
+    },
+    {
+      "name": "Grenada",
+      "dial_code": "+1473",
+      "code": "GD",
+      "flag": "🇬🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/grenada-33002.svg "
+    },
+    {
+      "name": "Guadeloupe",
+      "dial_code": "+590",
+      "code": "GP",
+      "flag": "🇬🇵",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guadeloupe-32982.svg "
+    },
+    {
+      "name": "Guam",
+      "dial_code": "+1671",
+      "code": "GU",
+      "flag": "🇬🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guam-33006.svg "
+    },
+    {
+      "name": "Guatemala",
+      "dial_code": "+502",
+      "code": "GT",
+      "flag": "🇬🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guatemala-33009.svg "
+    },
+    {
+      "name": "Guernsey",
+      "dial_code": "+44",
+      "code": "GG",
+      "flag": "🇬🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guernsey-32980.svg "
+    },
+    {
+      "name": "Guinea",
+      "dial_code": "+224",
+      "code": "GN",
+      "flag": "🇬🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guinea-33008.svg "
+    },
+    {
+      "name": "Guinea-Bissau",
+      "dial_code": "+245",
+      "code": "GW",
+      "flag": "🇬🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guinea-bissau-32983.svg "
+    },
+    {
+      "name": "Guyana",
+      "dial_code": "+592",
+      "code": "GY",
+      "flag": "🇬🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/guyana-33007.svg "
+    },
+    {
+      "name": "Haiti",
+      "dial_code": "+509",
+      "code": "HT",
+      "flag": "🇭🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/haiti-32984.svg "
+    },
+    {
+      "name": "Heard Island and Mcdonald Islands",
+      "dial_code": "+0",
+      "code": "HM",
+      "flag": "🏳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/heard-and-mcdonald-islands-33153.svg "
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "dial_code": "+379",
+      "code": "VA",
+      "flag": "🇻🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/holy-see-33136.svg "
+    },
+    {
+      "name": "Honduras",
+      "dial_code": "+504",
+      "code": "HN",
+      "flag": "🇭🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/honduras-33020.svg "
+    },
+    {
+      "name": "Hong Kong",
+      "dial_code": "+852",
+      "code": "HK",
+      "flag": "🇭🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/hong-kong-32987.svg "
+    },
+    {
+      "name": "Hungary",
+      "dial_code": "+36",
+      "code": "HU",
+      "flag": "🇭🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/hungary-33019.svg "
+    },
+    {
+      "name": "Iceland",
+      "dial_code": "+354",
+      "code": "IS",
+      "flag": "🇮🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/iceland-33152.svg "
+    },
+    {
+      "name": "India",
+      "dial_code": "+91",
+      "code": "IN",
+      "flag": "🇮🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/india-32988.svg "
+    },
+    {
+      "name": "Indonesia",
+      "dial_code": "+62",
+      "code": "ID",
+      "flag": "🇮🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/indonesia-32994.svg "
+    },
+    {
+      "name": "Iran, Islamic Republic of Persian Gulf",
+      "dial_code": "+98",
+      "code": "IR",
+      "flag": "🇮🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/iran-33022.svg "
+    },
+    {
+      "name": "Iraq",
+      "dial_code": "+964",
+      "code": "IQ",
+      "flag": "🇮🇶",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/iraq-33017.svg "
+    },
+    {
+      "name": "Ireland",
+      "dial_code": "+353",
+      "code": "IE",
+      "flag": "🇮🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/ireland-32996.svg "
+    },
+    {
+      "name": "Isle of Man",
+      "dial_code": "+44",
+      "code": "IM",
+      "flag": "🇮🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/isle-of-man-32998.svg "
+    },
+    {
+      "name": "Israel",
+      "dial_code": "+972",
+      "code": "IL",
+      "flag": "🇮🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/israel-32997.svg "
+    },
+    {
+      "name": "Italy",
+      "dial_code": "+39",
+      "code": "IT",
+      "flag": "🇮🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/italy-32999.svg "
+    },
+    {
+      "name": "Jamaica",
+      "dial_code": "+1876",
+      "code": "JM",
+      "flag": "🇯🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/jamaica-33000.svg "
+    },
+    {
+      "name": "Japan",
+      "dial_code": "+81",
+      "code": "JP",
+      "flag": "🇯🇵",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/japan-33001.svg "
+    },
+    {
+      "name": "Jersey",
+      "dial_code": "+44",
+      "code": "JE",
+      "flag": "🇯🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/jersey-33004.svg "
+    },
+    {
+      "name": "Jordan",
+      "dial_code": "+962",
+      "code": "JO",
+      "flag": "🇯🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/jordan-33005.svg "
+    },
+    {
+      "name": "Kazakhstan",
+      "dial_code": "+7",
+      "code": "KZ",
+      "flag": "🇰🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/kazakhstan-33021.svg "
+    },
+    {
+      "name": "Kenya",
+      "dial_code": "+254",
+      "code": "KE",
+      "flag": "🇰🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/kenya-33010.svg "
+    },
+    {
+      "name": "Kiribati",
+      "dial_code": "+686",
+      "code": "KI",
+      "flag": "🇰🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/kiribati-33012.svg "
+    },
+    {
+      "name": "Korea, Democratic People's Republic of Korea",
+      "dial_code": "+850",
+      "code": "KP",
+      "flag": "🇰🇵",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/north-korea-33045.svg"
+    },
+    {
+      "name": "Korea, Republic of South Korea",
+      "dial_code": "+82",
+      "code": "KR",
+      "flag": "🇰🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/south-korea-33086.svg"
+    },
+    {
+      "name": "Kosovo",
+      "dial_code": "+383",
+      "code": "XK",
+      "flag": "🇽🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/kosovo.svg"
+    },
+    {
+      "name": "Kuwait",
+      "dial_code": "+965",
+      "code": "KW",
+      "flag": "🇰🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/kuwait-33013.svg "
+    },
+    {
+      "name": "Kyrgyzstan",
+      "dial_code": "+996",
+      "code": "KG",
+      "flag": "🇰🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/kyrgyzstan-33014.svg "
+    },
+    {
+      "name": "Laos",
+      "dial_code": "+856",
+      "code": "LA",
+      "flag": "🇱🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/laos-33018.svg "
+    },
+    {
+      "name": "Latvia",
+      "dial_code": "+371",
+      "code": "LV",
+      "flag": "🇱🇻",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/latvia-33031.svg "
+    },
+    {
+      "name": "Lebanon",
+      "dial_code": "+961",
+      "code": "LB",
+      "flag": "🇱🇧",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/lebanon-33015.svg "
+    },
+    {
+      "name": "Lesotho",
+      "dial_code": "+266",
+      "code": "LS",
+      "flag": "🇱🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/lesotho-33029.svg "
+    },
+    {
+      "name": "Liberia",
+      "dial_code": "+231",
+      "code": "LR",
+      "flag": "🇱🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/liberia-33032.svg "
+    },
+    {
+      "name": "Libyan Arab Jamahiriya",
+      "dial_code": "+218",
+      "code": "LY",
+      "flag": "🇱🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/libya-33026.svg "
+    },
+    {
+      "name": "Liechtenstein",
+      "dial_code": "+423",
+      "code": "LI",
+      "flag": "🇱🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/liechtenstein-33016.svg "
+    },
+    {
+      "name": "Lithuania",
+      "dial_code": "+370",
+      "code": "LT",
+      "flag": "🇱🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/lithuania-33043.svg "
+    },
+    {
+      "name": "Luxembourg",
+      "dial_code": "+352",
+      "code": "LU",
+      "flag": "🇱🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/luxembourg-33041.svg "
+    },
+    {
+      "name": "Macao",
+      "dial_code": "+853",
+      "code": "MO",
+      "flag": "🇲🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/macao.svg"
+    },
+    {
+      "name": "Macedonia",
+      "dial_code": "+389",
+      "code": "MK",
+      "flag": "🇲🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/former-yugoslav-republic-of-macedonia-33023.svg"
+    },
+    {
+      "name": "Madagascar",
+      "dial_code": "+261",
+      "code": "MG",
+      "flag": "🇲🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/madagascar-33042.svg "
+    },
+    {
+      "name": "Malawi",
+      "dial_code": "+265",
+      "code": "MW",
+      "flag": "🇲🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/malawi-33116.svg "
+    },
+    {
+      "name": "Malaysia",
+      "dial_code": "+60",
+      "code": "MY",
+      "flag": "🇲🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/malaysia-33134.svg "
+    },
+    {
+      "name": "Maldives",
+      "dial_code": "+960",
+      "code": "MV",
+      "flag": "🇲🇻",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/maldives-33122.svg "
+    },
+    {
+      "name": "Mali",
+      "dial_code": "+223",
+      "code": "ML",
+      "flag": "🇲🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mali-33025.svg "
+    },
+    {
+      "name": "Malta",
+      "dial_code": "+356",
+      "code": "MT",
+      "flag": "🇲🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/malta-33120.svg "
+    },
+    {
+      "name": "Marshall Islands",
+      "dial_code": "+692",
+      "code": "MH",
+      "flag": "🇲🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/marshall-islands-33054.svg "
+    },
+    {
+      "name": "Martinique",
+      "dial_code": "+596",
+      "code": "MQ",
+      "flag": "🇲🇶",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/martinique-33119.svg "
+    },
+    {
+      "name": "Mauritania",
+      "dial_code": "+222",
+      "code": "MR",
+      "flag": "🇲🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mauritania-33125.svg "
+    },
+    {
+      "name": "Mauritius",
+      "dial_code": "+230",
+      "code": "MU",
+      "flag": "🇲🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mauritius-33121.svg "
+    },
+    {
+      "name": "Mayotte",
+      "dial_code": "+262",
+      "code": "YT",
+      "flag": "🇾🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mayotte-33123.svg "
+    },
+    {
+      "name": "Mexico",
+      "dial_code": "+52",
+      "code": "MX",
+      "flag": "🇲🇽",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mexico-33133.svg "
+    },
+    {
+      "name": "Micronesia, Federated States of Micronesia",
+      "dial_code": "+691",
+      "code": "FM",
+      "flag": "🇫🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mn-33117.svg "
+    },
+    {
+      "name": "Moldova",
+      "dial_code": "+373",
+      "code": "MD",
+      "flag": "🇲🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/moldova-33055.svg "
+    },
+    {
+      "name": "Monaco",
+      "dial_code": "+377",
+      "code": "MC",
+      "flag": "🇲🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/monaco-33053.svg "
+    },
+    {
+      "name": "Mongolia",
+      "dial_code": "+976",
+      "code": "MN",
+      "flag": "🇲🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mo-33127.svg "
+    },
+    {
+      "name": "Montenegro",
+      "dial_code": "+382",
+      "code": "ME",
+      "flag": "🇲🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/montenegro-33056.svg "
+    },
+    {
+      "name": "Montserrat",
+      "dial_code": "+1664",
+      "code": "MS",
+      "flag": "🇲🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/montserrat-33126.svg "
+    },
+    {
+      "name": "Morocco",
+      "dial_code": "+212",
+      "code": "MA",
+      "flag": "🇲🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/morocco-33027.svg "
+    },
+    {
+      "name": "Mozambique",
+      "dial_code": "+258",
+      "code": "MZ",
+      "flag": "🇲🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/mozambique-33033.svg "
+    },
+    {
+      "name": "Myanmar",
+      "dial_code": "+95",
+      "code": "MM",
+      "flag": "🇲🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/myanmar-33118.svg "
+    },
+    {
+      "name": "Namibia",
+      "dial_code": "+264",
+      "code": "NA",
+      "flag": "🇳🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/namibia-33132.svg "
+    },
+    {
+      "name": "Nauru",
+      "dial_code": "+674",
+      "code": "NR",
+      "flag": "🇳🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/nauru-33030.svg "
+    },
+    {
+      "name": "Nepal",
+      "dial_code": "+977",
+      "code": "NP",
+      "flag": "🇳🇵",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/nepal-33028.svg "
+    },
+    {
+      "name": "Netherlands",
+      "dial_code": "+31",
+      "code": "NL",
+      "flag": "🇳🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/netherlands-33035.svg "
+    },
+    {
+      "name": "Netherlands Antilles",
+      "dial_code": "+599",
+      "code": "AN",
+      "flag": "🇳🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/netherlands_antilles.svg"
+    },
+    {
+      "name": "New Caledonia",
+      "dial_code": "+687",
+      "code": "NC",
+      "flag": "🇳🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/new-caledonia-33065.svg "
+    },
+    {
+      "name": "New Zealand",
+      "dial_code": "+64",
+      "code": "NZ",
+      "flag": "🇳🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/new-zealand-33036.svg "
+    },
+    {
+      "name": "Nicaragua",
+      "dial_code": "+505",
+      "code": "NI",
+      "flag": "🇳🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/nicaragua-33037.svg "
+    },
+    {
+      "name": "Niger",
+      "dial_code": "+227",
+      "code": "NE",
+      "flag": "🇳🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/niger-33038.svg "
+    },
+    {
+      "name": "Nigeria",
+      "dial_code": "+234",
+      "code": "NG",
+      "flag": "🇳🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/nigeria-33039.svg "
+    },
+    {
+      "name": "Niue",
+      "dial_code": "+683",
+      "code": "NU",
+      "flag": "🇳🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/niue-33040.svg "
+    },
+    {
+      "name": "Norfolk Island",
+      "dial_code": "+672",
+      "code": "NF",
+      "flag": "🇳🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/norfolk-island-33044.svg "
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "dial_code": "+1670",
+      "code": "MP",
+      "flag": "🏳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/northern-mariana-islands-33128.svg "
+    },
+    {
+      "name": "Norway",
+      "dial_code": "+47",
+      "code": "NO",
+      "flag": "🇳🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/norway-33155.svg "
+    },
+    {
+      "name": "Oman",
+      "dial_code": "+968",
+      "code": "OM",
+      "flag": "🇴🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/oman-33046.svg "
+    },
+    {
+      "name": "Pakistan",
+      "dial_code": "+92",
+      "code": "PK",
+      "flag": "🇵🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/pakistan-33047.svg "
+    },
+    {
+      "name": "Palau",
+      "dial_code": "+680",
+      "code": "PW",
+      "flag": "🇵🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/palau-33048.svg "
+    },
+    {
+      "name": "Palestinian Territory, Occupied",
+      "dial_code": "+970",
+      "code": "PS",
+      "flag": "🇵🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/palestinian-territory.svg"
+    },
+    {
+      "name": "Panama",
+      "dial_code": "+507",
+      "code": "PA",
+      "flag": "🇵🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/panama-33049.svg "
+    },
+    {
+      "name": "Papua New Guinea",
+      "dial_code": "+675",
+      "code": "PG",
+      "flag": "🇵🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/papua-new-guinea-33050.svg "
+    },
+    {
+      "name": "Paraguay",
+      "dial_code": "+595",
+      "code": "PY",
+      "flag": "🇵🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/paraguay-33066.svg "
+    },
+    {
+      "name": "Peru",
+      "dial_code": "+51",
+      "code": "PE",
+      "flag": "🇵🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/peru-33051.svg "
+    },
+    {
+      "name": "Philippines",
+      "dial_code": "+63",
+      "code": "PH",
+      "flag": "🇵🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/philippines-33052.svg "
+    },
+    {
+      "name": "Pitcairn",
+      "dial_code": "+64",
+      "code": "PN",
+      "flag": "🇵🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/pitcairn-islands.svg"
+    },
+    {
+      "name": "Poland",
+      "dial_code": "+48",
+      "code": "PL",
+      "flag": "🇵🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/poland-33057.svg"
+    },
+    {
+      "name": "Portugal",
+      "dial_code": "+351",
+      "code": "PT",
+      "flag": "🇵🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/portugal-33058.svg"
+    },
+    {
+      "name": "PuertoRico",
+      "dial_code": "+1939",
+      "code": "PR",
+      "flag": "🇵🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/puerto-rico-33059.svg"
+    },
+    {
+      "name": "Qatar",
+      "dial_code": "+974",
+      "code": "QA",
+      "flag": "🇶🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/qatar-33060.svg"
+    },
+    {
+      "name": "Romania",
+      "dial_code": "+40",
+      "code": "RO",
+      "flag": "🇷🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/romania-33063.svg"
+    },
+    {
+      "name": "Russia",
+      "dial_code": "+7",
+      "code": "RU",
+      "flag": "🇷🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/russia-33064.svg"
+    },
+    {
+      "name": "Rwanda",
+      "dial_code": "+250",
+      "code": "RW",
+      "flag": "🇷🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/rwanda-33067.svg"
+    },
+    {
+      "name": "Reunion",
+      "dial_code": "+262",
+      "code": "RE",
+      "flag": "🇫🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/runion-33062.svg"
+    },
+    {
+      "name": "SaintBarthelemy",
+      "dial_code": "+590",
+      "code": "BL",
+      "flag": "🇧🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-barthlemy-33068.svg"
+    },
+    {
+      "name": "SaintHelena,AscensionandTristanDaCunha",
+      "dial_code": "+290",
+      "code": "SH",
+      "flag": "🇸🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-helena-ascension-and-tristan-da-cunha-33069.svg"
+    },
+    {
+      "name": "SaintKittsandNevis",
+      "dial_code": "+1869",
+      "code": "KN",
+      "flag": "🇰🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-kitts-and-nevis-33070.svg"
+    },
+    {
+      "name": "SaintLucia",
+      "dial_code": "+1758",
+      "code": "LC",
+      "flag": "🇱🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-lucia-33071.svg"
+    },
+    {
+      "name": "SaintMartin",
+      "dial_code": "+590",
+      "code": "MF",
+      "flag": "🏳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-martin-33072.svg"
+    },
+    {
+      "name": "SaintPierreandMiquelon",
+      "dial_code": "+508",
+      "code": "PM",
+      "flag": "🇵🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-pierre-and-miquelon-33073.svg"
+    },
+    {
+      "name": "SaintVincentandtheGrenadines",
+      "dial_code": "+1784",
+      "code": "VC",
+      "flag": "🇻🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saint-vincent-and-the-grenadines-33131.svg"
+    },
+    {
+      "name": "Samoa",
+      "dial_code": "+685",
+      "code": "WS",
+      "flag": "🇼🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/samoa-33124.svg"
+    },
+    {
+      "name": "SanMarino",
+      "dial_code": "+378",
+      "code": "SM",
+      "flag": "🇸🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/san-marino-33074.svg"
+    },
+    {
+      "name": "SaoTomeandPrincipe",
+      "dial_code": "+239",
+      "code": "ST",
+      "flag": "🇸🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/sao-tome-and-principe-33075.svg"
+    },
+    {
+      "name": "SaudiArabia",
+      "dial_code": "+966",
+      "code": "SA",
+      "flag": "🇸🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/saudi-arabia-33076.svg"
+    },
+    {
+      "name": "Senegal",
+      "dial_code": "+221",
+      "code": "SN",
+      "flag": "🇸🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/senegal-33077.svg"
+    },
+    {
+      "name": "Serbia",
+      "dial_code": "+381",
+      "code": "RS",
+      "flag": "🇷🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/serbia-33099.svg"
+    },
+    {
+      "name": "Seychelles",
+      "dial_code": "+248",
+      "code": "SC",
+      "flag": "🇸🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/seychelles-33078.svg"
+    },
+    {
+      "name": "SierraLeone",
+      "dial_code": "+232",
+      "code": "SL",
+      "flag": "🇸🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/sierra-leone-33079.svg"
+    },
+    {
+      "name": "Singapore",
+      "dial_code": "+65",
+      "code": "SG",
+      "flag": "🇸🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/singapore-33080.svg"
+    },
+    {
+      "name": "Slovakia",
+      "dial_code": "+421",
+      "code": "SK",
+      "flag": "🇸🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/slovakia-33082.svg"
+    },
+    {
+      "name": "Slovenia",
+      "dial_code": "+386",
+      "code": "SI",
+      "flag": "🇸🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/slovenia-33084.svg"
+    },
+    {
+      "name": "SolomonIslands",
+      "dial_code": "+677",
+      "code": "SB",
+      "flag": "🇸🇧",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/solomon-islands-33083.svg"
+    },
+    {
+      "name": "Somalia",
+      "dial_code": "+252",
+      "code": "SO",
+      "flag": "🇸🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/somalia-33085.svg"
+    },
+    {
+      "name": "SouthAfrica",
+      "dial_code": "+27",
+      "code": "ZA",
+      "flag": "🇿🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/south-africa-33130.svg"
+    },
+    {
+      "name": "SouthSudan",
+      "dial_code": "+211",
+      "code": "SS",
+      "flag": "🇸🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/south-sudan-33087.svg"
+    },
+    {
+      "name": "SouthGeorgiaandtheSouthSandwichIslands",
+      "dial_code": "+500",
+      "code": "GS",
+      "flag": "🇬🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/south-georgia-and-the-sandwich-islands-33088.svg"
+    },
+    {
+      "name": "Spain",
+      "dial_code": "+34",
+      "code": "ES",
+      "flag": "🇪🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/spain-33105.svg"
+    },
+    {
+      "name": "SriLanka",
+      "dial_code": "+94",
+      "code": "LK",
+      "flag": "🇱🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/sri-lanka-srilanka-33091.svg"
+    },
+    {
+      "name": "Sudan",
+      "dial_code": "+249",
+      "code": "SD",
+      "flag": "🇸🇩",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/sudan-33090.svg"
+    },
+    {
+      "name": "Suriname",
+      "dial_code": "+597",
+      "code": "SR",
+      "flag": "🇸🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/suriname-33092.svg"
+    },
+    {
+      "name": "SvalbardandJanMayen",
+      "dial_code": "+47",
+      "code": "SJ",
+      "flag": "🇩🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/svalbard-and-jan-mayen-33093.svg"
+    },
+    {
+      "name": "Swaziland",
+      "dial_code": "+268",
+      "code": "SZ",
+      "flag": "🇸🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/swaziland-33094.svg"
+    },
+    {
+      "name": "Sweden",
+      "dial_code": "+46",
+      "code": "SE",
+      "flag": "🇸🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/sweden-33096.svg"
+    },
+    {
+      "name": "Switzerland",
+      "dial_code": "+41",
+      "code": "CH",
+      "flag": "🇨🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/switzerland-33095.svg"
+    },
+    {
+      "name": "SyrianArabRepublic",
+      "dial_code": "+963",
+      "code": "SY",
+      "flag": "🇸🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/syrian-arab-republic-33097.svg"
+    },
+    {
+      "name": "Taiwan",
+      "dial_code": "+886",
+      "code": "TW",
+      "flag": "🇹🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/taiwan-33098.svg"
+    },
+    {
+      "name": "Tajikistan",
+      "dial_code": "+992",
+      "code": "TJ",
+      "flag": "🇹🇯",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/tajikistan-33100.svg"
+    },
+    {
+      "name": "Tanzania,UnitedRepublicofTanzania",
+      "dial_code": "+255",
+      "code": "TZ",
+      "flag": "🇹🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/tanzania-33101.svg"
+    },
+    {
+      "name": "Thailand",
+      "dial_code": "+66",
+      "code": "TH",
+      "flag": "🇹🇭",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/thailand-33102.svg"
+    },
+    {
+      "name": "Timor-Leste",
+      "dial_code": "+670",
+      "code": "TL",
+      "flag": "🇹🇱",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/timor-leste-33103.svg"
+    },
+    {
+      "name": "Togo",
+      "dial_code": "+228",
+      "code": "TG",
+      "flag": "🇹🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/togo-33106.svg"
+    },
+    {
+      "name": "Tokelau",
+      "dial_code": "+690",
+      "code": "TK",
+      "flag": "🇹🇰",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/tokelau-33104.svg"
+    },
+    {
+      "name": "Tonga",
+      "dial_code": "+676",
+      "code": "TO",
+      "flag": "🇹🇴",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/tonga-33107.svg"
+    },
+    {
+      "name": "TrinidadandTobago",
+      "dial_code": "+1868",
+      "code": "TT",
+      "flag": "🇹🇹",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/trinidad-and-tobago-33108.svg"
+    },
+    {
+      "name": "Tunisia",
+      "dial_code": "+216",
+      "code": "TN",
+      "flag": "🇹🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/tunisia-33110.svg"
+    },
+    {
+      "name": "Turkey",
+      "dial_code": "+90",
+      "code": "TR",
+      "flag": "🇹🇷",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/turkey-33109.svg"
+    },
+    {
+      "name": "Turkmenistan",
+      "dial_code": "+993",
+      "code": "TM",
+      "flag": "🇹🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/turkmenistan-33111.svg"
+    },
+    {
+      "name": "TurksandCaicosIslands",
+      "dial_code": "+1649",
+      "code": "TC",
+      "flag": "🇹🇨",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/turks-and-caicos-islands-33112.svg"
+    },
+    {
+      "name": "Tuvalu",
+      "dial_code": "+688",
+      "code": "TV",
+      "flag": "🇹🇻",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/tuvalu-33113.svg"
+    },
+    {
+      "name": "Uganda",
+      "dial_code": "+256",
+      "code": "UG",
+      "flag": "🇺🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/uganda-33129.svg"
+    },
+    {
+      "name": "Ukraine",
+      "dial_code": "+380",
+      "code": "UA",
+      "flag": "🇺🇦",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/ukraine-33145.svg"
+    },
+    {
+      "name": "UnitedArabEmirates",
+      "dial_code": "+971",
+      "code": "AE",
+      "flag": "🇦🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/united-arab-emirates-33114.svg"
+    },
+    {
+      "name": "UnitedKingdom",
+      "dial_code": "+44",
+      "code": "GB",
+      "flag": "🇬🇧",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/united-kingdom-33115.svg"
+    },
+    {
+      "name": "UnitedStates",
+      "dial_code": "+1",
+      "code": "US",
+      "flag": "🇺🇸",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/united-states-of-america-33135.svg"
+    },
+    {
+      "name": "Uruguay",
+      "dial_code": "+598",
+      "code": "UY",
+      "flag": "🇺🇾",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/uruguay-33140.svg"
+    },
+    {
+      "name": "Uzbekistan",
+      "dial_code": "+998",
+      "code": "UZ",
+      "flag": "🇺🇿",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/uzbekistan-33141.svg"
+    },
+    {
+      "name": "Vanuatu",
+      "dial_code": "+678",
+      "code": "VU",
+      "flag": "🇻🇺",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/vanuatu-33142.svg"
+    },
+    {
+      "name": "Venezuela,BolivarianRepublicofVenezuela",
+      "dial_code": "+58",
+      "code": "VE",
+      "flag": "🇻🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/venezuela-bolivarian-republic-of-33138.svg"
+    },
+    {
+      "name": "Vietnam",
+      "dial_code": "+84",
+      "code": "VN",
+      "flag": "🇻🇳",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/vietnam-33148.svg"
+    },
+    {
+      "name": "VirginIslands,British",
+      "dial_code": "+1284",
+      "code": "VG",
+      "flag": "🇻🇬",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/virgin-islands-british-33147.svg"
+    },
+    {
+      "name": "VirginIslands,U.S.",
+      "dial_code": "+1340",
+      "code": "VI",
+      "flag": "🇻🇮",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/virgin-islands-33149.svg"
+    },
+    {
+      "name": "WallisandFutuna",
+      "dial_code": "+681",
+      "code": "WF",
+      "flag": "🇼🇫",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/wallis-and-futuna-33144.svg"
+    },
+    {
+      "name": "Yemen",
+      "dial_code": "+967",
+      "code": "YE",
+      "flag": "🇾🇪",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/yemen-33143.svg"
+    },
+    {
+      "name": "Zambia",
+      "dial_code": "+260",
+      "code": "ZM",
+      "flag": "🇿🇲",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/zambia-33146.svg"
+    },
+    {
+      "name": "Zimbabwe",
+      "dial_code": "+263",
+      "code": "ZW",
+      "flag": "🇿🇼",
+      "svg_flag": "https://hyperloop-flags-dev.s3.ap-south-1.amazonaws.com/static/images/zimbabwe-33150.svg"
+    }
+  ]

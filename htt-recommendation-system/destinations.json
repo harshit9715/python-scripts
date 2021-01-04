@@ -1,0 +1,3634 @@
+[
+    {
+      "code": "BTR",
+      "name": "Berat District"
+    },
+    {
+      "code": "DRR",
+      "name": "Durres District"
+    },
+    {
+      "code": "LEZ",
+      "name": "Lezhe District"
+    },
+    {
+      "code": "PGR",
+      "name": "Progradec District"
+    },
+    {
+      "code": "SDE",
+      "name": "Sarande District"
+    },
+    {
+      "code": "SHK",
+      "name": "Shkoder District"
+    },
+    {
+      "code": "TIA",
+      "name": "Tirana District"
+    },
+    {
+      "code": "VOE",
+      "name": "Vlore District"
+    },
+    {
+      "code": "AND",
+      "name": "Andorra"
+    },
+    {
+      "code": "LAD",
+      "name": "Luanda"
+    },
+    {
+      "code": "AXA",
+      "name": "Anguilla"
+    },
+    {
+      "code": "ANU",
+      "name": "Antigua"
+    },
+    {
+      "code": "BCH",
+      "name": "Bariloche"
+    },
+    {
+      "code": "BUE",
+      "name": "Buenos Aires"
+    },
+    {
+      "code": "CFE",
+      "name": "Calafate"
+    },
+    {
+      "code": "CRD",
+      "name": "Cordoba"
+    },
+    {
+      "code": "FMA",
+      "name": "Formosa"
+    },
+    {
+      "code": "IGU",
+      "name": "Iguazu"
+    },
+    {
+      "code": "JUJ",
+      "name": "Jujuy"
+    },
+    {
+      "code": "MDQ",
+      "name": "Mar del plata"
+    },
+    {
+      "code": "MEZ",
+      "name": "Mendoza"
+    },
+    {
+      "code": "PMY",
+      "name": "Puerto Madryn"
+    },
+    {
+      "code": "RO6",
+      "name": "Rosario"
+    },
+    {
+      "code": "SLT",
+      "name": "Salta"
+    },
+    {
+      "code": "CPC",
+      "name": "San Martin de los Andes"
+    },
+    {
+      "code": "USH",
+      "name": "Ushuaia"
+    },
+    {
+      "code": "NQN",
+      "name": "Villa la Angostura"
+    },
+    {
+      "code": "EVN",
+      "name": "Yerevan"
+    },
+    {
+      "code": "AUA",
+      "name": "Aruba"
+    },
+    {
+      "code": "ADL",
+      "name": "Adelaide - SA"
+    },
+    {
+      "code": "ASP",
+      "name": "Alice Springs - NT"
+    },
+    {
+      "code": "BNE",
+      "name": "Brisbane - QLD"
+    },
+    {
+      "code": "BME",
+      "name": "Broome-Kimberley, North - WA"
+    },
+    {
+      "code": "CNS",
+      "name": "Cairns - QLD"
+    },
+    {
+      "code": "CBR",
+      "name": "Canberra - ACT"
+    },
+    {
+      "code": "DRW",
+      "name": "Darwin & Surrounds - NT"
+    },
+    {
+      "code": "OOL",
+      "name": "Gold Coast - QLD"
+    },
+    {
+      "code": "AU9",
+      "name": "Great Barrier Reef-Whitsundays - QLD"
+    },
+    {
+      "code": "MLB",
+      "name": "Melbourne - VIC"
+    },
+    {
+      "code": "OQ1",
+      "name": "Outback Queensland - QLD"
+    },
+    {
+      "code": "PER",
+      "name": "Perth - WA"
+    },
+    {
+      "code": "MCY",
+      "name": "Sunshine Coast - QLD"
+    },
+    {
+      "code": "SYD",
+      "name": "Sydney - NSW"
+    },
+    {
+      "code": "HBA",
+      "name": "Tasmania - TAS"
+    },
+    {
+      "code": "TV5",
+      "name": "Townsville - QLD"
+    },
+    {
+      "code": "AYQ",
+      "name": "Uluru-Ayers Rock - NT"
+    },
+    {
+      "code": "AAZ",
+      "name": "Austrian Alps"
+    },
+    {
+      "code": "INN",
+      "name": "Innsbruck"
+    },
+    {
+      "code": "SZG",
+      "name": "Salzburg"
+    },
+    {
+      "code": "BAD",
+      "name": "Salzkammergut"
+    },
+    {
+      "code": "VIE",
+      "name": "Vienna"
+    },
+    {
+      "code": "GYD",
+      "name": "Baku"
+    },
+    {
+      "code": "ASD",
+      "name": "Bahamas - Out Island"
+    },
+    {
+      "code": "FPO",
+      "name": "Grand Bahama"
+    },
+    {
+      "code": "PID",
+      "name": "Nassau"
+    },
+    {
+      "code": "BH1",
+      "name": "Bahrain"
+    },
+    {
+      "code": "BGI",
+      "name": "Barbados"
+    },
+    {
+      "code": "ANR",
+      "name": "Antwerp"
+    },
+    {
+      "code": "BRS",
+      "name": "Bruges"
+    },
+    {
+      "code": "BRU",
+      "name": "Brussels"
+    },
+    {
+      "code": "GNE",
+      "name": "Gent"
+    },
+    {
+      "code": "SPR",
+      "name": "Ambergris Caye"
+    },
+    {
+      "code": "BZE",
+      "name": "Belize City"
+    },
+    {
+      "code": "HP2",
+      "name": "Hopkins"
+    },
+    {
+      "code": "SQS",
+      "name": "San Ignacio"
+    },
+    {
+      "code": "CBB",
+      "name": "Cochabamba"
+    },
+    {
+      "code": "LPB",
+      "name": "La Paz"
+    },
+    {
+      "code": "POI",
+      "name": "Potosi"
+    },
+    {
+      "code": "VVI",
+      "name": "Santa Cruz"
+    },
+    {
+      "code": "US7",
+      "name": "Sucre"
+    },
+    {
+      "code": "TJA",
+      "name": "Tarija"
+    },
+    {
+      "code": "BNX",
+      "name": "Medjugorje"
+    },
+    {
+      "code": "OMO",
+      "name": "Mostar"
+    },
+    {
+      "code": "SJJ",
+      "name": "Sarajevo"
+    },
+    {
+      "code": "BLN",
+      "name": "Balneario de Camboriu"
+    },
+    {
+      "code": "BHZ",
+      "name": "Belo Horizonte"
+    },
+    {
+      "code": "BSB",
+      "name": "Brasilia"
+    },
+    {
+      "code": "BZI",
+      "name": "Buzios"
+    },
+    {
+      "code": "CUR",
+      "name": "Curitiba"
+    },
+    {
+      "code": "FLO",
+      "name": "Florianopolis"
+    },
+    {
+      "code": "FTZ",
+      "name": "Fortaleza"
+    },
+    {
+      "code": "GRM",
+      "name": "Gramado"
+    },
+    {
+      "code": "FDI",
+      "name": "Iguazu Falls"
+    },
+    {
+      "code": "JOA",
+      "name": "Joao Pessoa"
+    },
+    {
+      "code": "JOI",
+      "name": "Joinville"
+    },
+    {
+      "code": "MAO",
+      "name": "Maceio"
+    },
+    {
+      "code": "MNA",
+      "name": "Manaus"
+    },
+    {
+      "code": "NAT",
+      "name": "Natal"
+    },
+    {
+      "code": "PY1",
+      "name": "Paraty"
+    },
+    {
+      "code": "POO",
+      "name": "Porto Alegre"
+    },
+    {
+      "code": "PDG",
+      "name": "Porto de Galinhas"
+    },
+    {
+      "code": "PSE",
+      "name": "Porto Seguro"
+    },
+    {
+      "code": "RCF",
+      "name": "Recife"
+    },
+    {
+      "code": "RIO",
+      "name": "Rio de Janeiro"
+    },
+    {
+      "code": "SVD",
+      "name": "Salvador da Bahia - Costa Do Sauipe"
+    },
+    {
+      "code": "SAO",
+      "name": "Sao Paulo"
+    },
+    {
+      "code": "TOV",
+      "name": "British Virgin Islands"
+    },
+    {
+      "code": "BWN",
+      "name": "Brunei"
+    },
+    {
+      "code": "PBB",
+      "name": "Bansko"
+    },
+    {
+      "code": "BK2",
+      "name": "Borovets"
+    },
+    {
+      "code": "BOJ",
+      "name": "Bourgas / Black Sea Resorts"
+    },
+    {
+      "code": "BK1",
+      "name": "Pamporovo"
+    },
+    {
+      "code": "SOF",
+      "name": "Sofia"
+    },
+    {
+      "code": "VAR",
+      "name": "Varna / Black Sea Resorts"
+    },
+    {
+      "code": "PNH",
+      "name": "Phnom Penh- Central"
+    },
+    {
+      "code": "REP",
+      "name": "Siem Reap - North"
+    },
+    {
+      "code": "CG",
+      "name": "Calgary"
+    },
+    {
+      "code": "BF",
+      "name": "Canadian Rockies"
+    },
+    {
+      "code": "YHG",
+      "name": "Charlottetown"
+    },
+    {
+      "code": "AB",
+      "name": "Edmonton"
+    },
+    {
+      "code": "NOV",
+      "name": "Halifax"
+    },
+    {
+      "code": "YGK",
+      "name": "Kingston"
+    },
+    {
+      "code": "YQM",
+      "name": "Moncton"
+    },
+    {
+      "code": "QC",
+      "name": "Montreal"
+    },
+    {
+      "code": "NI",
+      "name": "Niagara Falls"
+    },
+    {
+      "code": "YYF",
+      "name": "Okanagan Valley"
+    },
+    {
+      "code": "OT",
+      "name": "Ottawa"
+    },
+    {
+      "code": "QU",
+      "name": "Quebec"
+    },
+    {
+      "code": "SJ",
+      "name": "Saint John - NB"
+    },
+    {
+      "code": "ON",
+      "name": "Toronto"
+    },
+    {
+      "code": "VA",
+      "name": "Vancouver"
+    },
+    {
+      "code": "BC",
+      "name": "Vancouver Island"
+    },
+    {
+      "code": "WHS",
+      "name": "Whistler"
+    },
+    {
+      "code": "MB",
+      "name": "Winnipeg"
+    },
+    {
+      "code": "SI1",
+      "name": "Cape Verde"
+    },
+    {
+      "code": "BON",
+      "name": "Bonaire"
+    },
+    {
+      "code": "GCM",
+      "name": "Grand Cayman"
+    },
+    {
+      "code": "ARI",
+      "name": "Arica"
+    },
+    {
+      "code": "HLE",
+      "name": "Chiloe"
+    },
+    {
+      "code": "IQQ",
+      "name": "Iquique"
+    },
+    {
+      "code": "IP1",
+      "name": "Isla de Pascua"
+    },
+    {
+      "code": "LSC",
+      "name": "La Serena"
+    },
+    {
+      "code": "ZPC",
+      "name": "Pucon"
+    },
+    {
+      "code": "PMC",
+      "name": "Puerto Montt"
+    },
+    {
+      "code": "PNT",
+      "name": "Puerto Natales"
+    },
+    {
+      "code": "PUX",
+      "name": "Puerto Varas"
+    },
+    {
+      "code": "PUQ",
+      "name": "Punta Arenas"
+    },
+    {
+      "code": "AT4",
+      "name": "San Pedro de Atacama"
+    },
+    {
+      "code": "UZ1",
+      "name": "Santa Cruz"
+    },
+    {
+      "code": "SCL",
+      "name": "Santiago de Chile"
+    },
+    {
+      "code": "ZCO",
+      "name": "Temuco"
+    },
+    {
+      "code": "VAP",
+      "name": "Valparaiso"
+    },
+    {
+      "code": "VI1",
+      "name": "Villarica"
+    },
+    {
+      "code": "KNA",
+      "name": "Viña del mar"
+    },
+    {
+      "code": "PEK",
+      "name": "Beijing Peking"
+    },
+    {
+      "code": "CTU",
+      "name": "Chengdu"
+    },
+    {
+      "code": "CKG",
+      "name": "Chongqing"
+    },
+    {
+      "code": "DLU",
+      "name": "Dali"
+    },
+    {
+      "code": "DLC",
+      "name": "Dalian"
+    },
+    {
+      "code": "DAT",
+      "name": "Datong"
+    },
+    {
+      "code": "CN1",
+      "name": "Guangzhou"
+    },
+    {
+      "code": "KWL",
+      "name": "Guilin-Yangshuo"
+    },
+    {
+      "code": "KWE",
+      "name": "Guiyang"
+    },
+    {
+      "code": "HGH",
+      "name": "Hangzhou"
+    },
+    {
+      "code": "HUG",
+      "name": "Huangshan"
+    },
+    {
+      "code": "KMH",
+      "name": "Kunming"
+    },
+    {
+      "code": "LJG",
+      "name": "Lijiang-Shangri-la"
+    },
+    {
+      "code": "KHN",
+      "name": "Nanchang"
+    },
+    {
+      "code": "NKG",
+      "name": "Nanjing"
+    },
+    {
+      "code": "CN6",
+      "name": "Qingdao"
+    },
+    {
+      "code": "SYX",
+      "name": "Sanya"
+    },
+    {
+      "code": "PVG",
+      "name": "Shanghai"
+    },
+    {
+      "code": "SZX",
+      "name": "Shenzhen"
+    },
+    {
+      "code": "SUX",
+      "name": "Suzhou-Anhui"
+    },
+    {
+      "code": "TSN",
+      "name": "Tian Jin"
+    },
+    {
+      "code": "URC",
+      "name": "Urumqi"
+    },
+    {
+      "code": "WUH",
+      "name": "Wuhan"
+    },
+    {
+      "code": "XMN",
+      "name": "Xiamen"
+    },
+    {
+      "code": "XIY",
+      "name": "Xian"
+    },
+    {
+      "code": "DYG",
+      "name": "Zhangjiajie"
+    },
+    {
+      "code": "CGO",
+      "name": "Zhengzhou- Luoyang"
+    },
+    {
+      "code": "ZUH",
+      "name": "Zhuhai- Zhongshan"
+    },
+    {
+      "code": "ZHU",
+      "name": "Zhuzhou - Hunan"
+    },
+    {
+      "code": "AXM",
+      "name": "Armenia"
+    },
+    {
+      "code": "BAQ",
+      "name": "Barranquilla"
+    },
+    {
+      "code": "BOG",
+      "name": "Bogota"
+    },
+    {
+      "code": "CLO",
+      "name": "Cali"
+    },
+    {
+      "code": "CTG",
+      "name": "Cartagena"
+    },
+    {
+      "code": "MDE",
+      "name": "Medellin"
+    },
+    {
+      "code": "PEI",
+      "name": "Pereira"
+    },
+    {
+      "code": "ADZ",
+      "name": "San Andres"
+    },
+    {
+      "code": "SMC",
+      "name": "Santa Marta"
+    },
+    {
+      "code": "RAR",
+      "name": "Rarotonga"
+    },
+    {
+      "code": "MNT",
+      "name": "Monteverde"
+    },
+    {
+      "code": "ARE",
+      "name": "Northern Mountain Zone / Arenal"
+    },
+    {
+      "code": "JCO",
+      "name": "Pacific Central Coast"
+    },
+    {
+      "code": "GAN",
+      "name": "Pacific North Coast / Guanacaste"
+    },
+    {
+      "code": "TMU",
+      "name": "Pacific South Coast"
+    },
+    {
+      "code": "SJO",
+      "name": "San José / Central Valley"
+    },
+    {
+      "code": "DBV",
+      "name": "Dubrovnik-South Dalmatia"
+    },
+    {
+      "code": "PUY",
+      "name": "Istria"
+    },
+    {
+      "code": "RJK",
+      "name": "Kvarner Bay"
+    },
+    {
+      "code": "SPU",
+      "name": "Split-Middle Dalmatia"
+    },
+    {
+      "code": "ZAD",
+      "name": "Zadar-North Dalmatia"
+    },
+    {
+      "code": "ZAG",
+      "name": "Zagreb"
+    },
+    {
+      "code": "HAV",
+      "name": "Havana"
+    },
+    {
+      "code": "STG",
+      "name": "Santiago of Cuba"
+    },
+    {
+      "code": "VRA",
+      "name": "Varadero"
+    },
+    {
+      "code": "CUA",
+      "name": "Curacao"
+    },
+    {
+      "code": "PA",
+      "name": "Cyprus"
+    },
+    {
+      "code": "BNO",
+      "name": "Brno"
+    },
+    {
+      "code": "PRG",
+      "name": "Prague"
+    },
+    {
+      "code": "AAR",
+      "name": "Aarhus"
+    },
+    {
+      "code": "CPH",
+      "name": "Copenhagen"
+    },
+    {
+      "code": "BAY",
+      "name": "Bayahibe"
+    },
+    {
+      "code": "BOC",
+      "name": "Boca Chica"
+    },
+    {
+      "code": "JDO",
+      "name": "Juan Dolio"
+    },
+    {
+      "code": "ROM",
+      "name": "La Romana"
+    },
+    {
+      "code": "POP",
+      "name": "Puerto Plata"
+    },
+    {
+      "code": "PUJ",
+      "name": "Punta Cana"
+    },
+    {
+      "code": "SAM",
+      "name": "Samana"
+    },
+    {
+      "code": "DOM",
+      "name": "Santo Domingo"
+    },
+    {
+      "code": "CCN",
+      "name": "Cuenca"
+    },
+    {
+      "code": "GYE",
+      "name": "Guayaquil"
+    },
+    {
+      "code": "IBS",
+      "name": "Isabella Island"
+    },
+    {
+      "code": "GPS",
+      "name": "Islas Galapagos"
+    },
+    {
+      "code": "UIO",
+      "name": "Quito"
+    },
+    {
+      "code": "CSN",
+      "name": "San Cristobal Island"
+    },
+    {
+      "code": "SCT",
+      "name": "Santa Cruz Island"
+    },
+    {
+      "code": "ABS",
+      "name": "Abu Simbel"
+    },
+    {
+      "code": "ALY",
+      "name": "Alexandrie-Mediterranean Coast"
+    },
+    {
+      "code": "ASW",
+      "name": "Aswan"
+    },
+    {
+      "code": "CAI",
+      "name": "Cairo"
+    },
+    {
+      "code": "HRG",
+      "name": "Hurghada"
+    },
+    {
+      "code": "LXR",
+      "name": "Luxor"
+    },
+    {
+      "code": "RMF",
+      "name": "Marsa Alam- Qusseir"
+    },
+    {
+      "code": "SSH",
+      "name": "Sharm el Sheikh -Dahab"
+    },
+    {
+      "code": "ACP",
+      "name": "Ahuachapan"
+    },
+    {
+      "code": "SA6",
+      "name": "San Salvador"
+    },
+    {
+      "code": "TLL",
+      "name": "Tallinn"
+    },
+    {
+      "code": "ADD",
+      "name": "Addis Ababa"
+    },
+    {
+      "code": "FJ1",
+      "name": "Viti Levu"
+    },
+    {
+      "code": "HEL",
+      "name": "Helsinki"
+    },
+    {
+      "code": "RVN",
+      "name": "Lapland"
+    },
+    {
+      "code": "AIX",
+      "name": "Aix-en-Provence"
+    },
+    {
+      "code": "ARL",
+      "name": "Arles"
+    },
+    {
+      "code": "AVN",
+      "name": "Avignon"
+    },
+    {
+      "code": "BOD",
+      "name": "Bordeaux"
+    },
+    {
+      "code": "CAE",
+      "name": "Caen"
+    },
+    {
+      "code": "CAN",
+      "name": "Cannes"
+    },
+    {
+      "code": "DIJ",
+      "name": "Dijon"
+    },
+    {
+      "code": "CHX",
+      "name": "French Alps"
+    },
+    {
+      "code": "FR2",
+      "name": "French Pyrenees"
+    },
+    {
+      "code": "LVR",
+      "name": "Le Havre"
+    },
+    {
+      "code": "LIL",
+      "name": "Lille"
+    },
+    {
+      "code": "LYS",
+      "name": "Lyon"
+    },
+    {
+      "code": "MRS",
+      "name": "Marseille"
+    },
+    {
+      "code": "NAN",
+      "name": "Nantes"
+    },
+    {
+      "code": "NCE",
+      "name": "Nice"
+    },
+    {
+      "code": "PAR",
+      "name": "Paris"
+    },
+    {
+      "code": "PDN",
+      "name": "Pays de la Loire-Vendee"
+    },
+    {
+      "code": "POT",
+      "name": "Poitiers"
+    },
+    {
+      "code": "RHE",
+      "name": "Reims"
+    },
+    {
+      "code": "SXB",
+      "name": "Strasbourg"
+    },
+    {
+      "code": "TUF",
+      "name": "Tours"
+    },
+    {
+      "code": "BOB",
+      "name": "Bora Bora"
+    },
+    {
+      "code": "MOZ",
+      "name": "Moorea"
+    },
+    {
+      "code": "PPT",
+      "name": "Tahiti"
+    },
+    {
+      "code": "BJL",
+      "name": "Gambia"
+    },
+    {
+      "code": "TBS",
+      "name": "Tbilisi"
+    },
+    {
+      "code": "AGB",
+      "name": "Augsburg"
+    },
+    {
+      "code": "BEC",
+      "name": "Berchtesgaden"
+    },
+    {
+      "code": "BER",
+      "name": "Berlin"
+    },
+    {
+      "code": "BRE",
+      "name": "Bremen"
+    },
+    {
+      "code": "CGN",
+      "name": "Cologne / Bonn"
+    },
+    {
+      "code": "DSS",
+      "name": "Dessau"
+    },
+    {
+      "code": "DRS",
+      "name": "Dresden"
+    },
+    {
+      "code": "DUS",
+      "name": "Dusseldorf"
+    },
+    {
+      "code": "ESE",
+      "name": "Essen"
+    },
+    {
+      "code": "FRA",
+      "name": "Frankfurt"
+    },
+    {
+      "code": "HAM",
+      "name": "Hamburg"
+    },
+    {
+      "code": "HAJ",
+      "name": "Hannover"
+    },
+    {
+      "code": "HEI",
+      "name": "Heidelberg"
+    },
+    {
+      "code": "KIE",
+      "name": "Kiel"
+    },
+    {
+      "code": "KBZ",
+      "name": "Koblenz"
+    },
+    {
+      "code": "KON",
+      "name": "Konstanz"
+    },
+    {
+      "code": "LEJ",
+      "name": "Leipzig"
+    },
+    {
+      "code": "LID",
+      "name": "Lindau"
+    },
+    {
+      "code": "LUE",
+      "name": "Lübeck"
+    },
+    {
+      "code": "QMZ",
+      "name": "Mainz"
+    },
+    {
+      "code": "MUC",
+      "name": "Munich"
+    },
+    {
+      "code": "NUE",
+      "name": "Nuremberg"
+    },
+    {
+      "code": "PAS",
+      "name": "Passau"
+    },
+    {
+      "code": "REG",
+      "name": "Regensburg"
+    },
+    {
+      "code": "ROT",
+      "name": "Rothenburg"
+    },
+    {
+      "code": "BAV",
+      "name": "South-East Bavaria"
+    },
+    {
+      "code": "STR",
+      "name": "Stuttgart"
+    },
+    {
+      "code": "TRI",
+      "name": "Trier"
+    },
+    {
+      "code": "WIE",
+      "name": "Wiesbaden"
+    },
+    {
+      "code": "WUR",
+      "name": "Würzburg"
+    },
+    {
+      "code": "ACC",
+      "name": "Accra"
+    },
+    {
+      "code": "KMS",
+      "name": "Kumasi"
+    },
+    {
+      "code": "ATH",
+      "name": "Athens"
+    },
+    {
+      "code": "CNG",
+      "name": "Central and North Greece"
+    },
+    {
+      "code": "CFU",
+      "name": "Corfu"
+    },
+    {
+      "code": "ATE",
+      "name": "Crete"
+    },
+    {
+      "code": "HLK",
+      "name": "Halkidiki"
+    },
+    {
+      "code": "IOS",
+      "name": "Ios"
+    },
+    {
+      "code": "ION",
+      "name": "Kefalonia"
+    },
+    {
+      "code": "KSS",
+      "name": "Kos"
+    },
+    {
+      "code": "LFD",
+      "name": "Lefkada"
+    },
+    {
+      "code": "MKS",
+      "name": "Mykonos"
+    },
+    {
+      "code": "NAX",
+      "name": "Naxos"
+    },
+    {
+      "code": "ARO",
+      "name": "Paros"
+    },
+    {
+      "code": "PEL",
+      "name": "Peloponesse"
+    },
+    {
+      "code": "RHO",
+      "name": "Rhodes"
+    },
+    {
+      "code": "AEG",
+      "name": "Samos"
+    },
+    {
+      "code": "SAT",
+      "name": "Santorini"
+    },
+    {
+      "code": "SKI",
+      "name": "Skiathos"
+    },
+    {
+      "code": "TG1",
+      "name": "Thassos"
+    },
+    {
+      "code": "THS",
+      "name": "Thessaloniki"
+    },
+    {
+      "code": "ZTE",
+      "name": "Zante-Zakynthos"
+    },
+    {
+      "code": "GND",
+      "name": "Grenada"
+    },
+    {
+      "code": "UPE",
+      "name": "Guadeloupe"
+    },
+    {
+      "code": "TKM",
+      "name": "Antigua Guatemala"
+    },
+    {
+      "code": "MGG",
+      "name": "Guatemala City"
+    },
+    {
+      "code": "FRS",
+      "name": "Tikal - Flores"
+    },
+    {
+      "code": "LC2",
+      "name": "La Ceiba"
+    },
+    {
+      "code": "RTB",
+      "name": "Roatan - Islas de la Bahia"
+    },
+    {
+      "code": "HKG",
+      "name": "Hong Kong"
+    },
+    {
+      "code": "BUD",
+      "name": "Budapest"
+    },
+    {
+      "code": "ICD",
+      "name": "North Iceland"
+    },
+    {
+      "code": "REK",
+      "name": "Reykjavik"
+    },
+    {
+      "code": "AGR",
+      "name": "Agra"
+    },
+    {
+      "code": "AMD",
+      "name": "Ahmedabad"
+    },
+    {
+      "code": "ATQ",
+      "name": "Amritsar"
+    },
+    {
+      "code": "IXU",
+      "name": "Aurangabad"
+    },
+    {
+      "code": "BLR",
+      "name": "Bangalore"
+    },
+    {
+      "code": "BBI",
+      "name": "Bhubhaneshwar"
+    },
+    {
+      "code": "IXC",
+      "name": "Chandigarh"
+    },
+    {
+      "code": "CNN",
+      "name": "Chennai (Madras)"
+    },
+    {
+      "code": "DEL",
+      "name": "Delhi and NCR"
+    },
+    {
+      "code": "GOO",
+      "name": "Goa"
+    },
+    {
+      "code": "IN1",
+      "name": "Haridwar"
+    },
+    {
+      "code": "HYD",
+      "name": "Hyderabad"
+    },
+    {
+      "code": "IDR",
+      "name": "Indore"
+    },
+    {
+      "code": "JAI",
+      "name": "Jaipur"
+    },
+    {
+      "code": "JDH",
+      "name": "Jodhpur"
+    },
+    {
+      "code": "HJR",
+      "name": "Khajuraho"
+    },
+    {
+      "code": "COK",
+      "name": "Kochi-Cochin"
+    },
+    {
+      "code": "CCU",
+      "name": "Kolkata-Calcutta"
+    },
+    {
+      "code": "BOM",
+      "name": "Mumbai"
+    },
+    {
+      "code": "PNQ",
+      "name": "Pune"
+    },
+    {
+      "code": "TV1",
+      "name": "Trivandrum"
+    },
+    {
+      "code": "UDA",
+      "name": "Udaipur"
+    },
+    {
+      "code": "VNS",
+      "name": "Varanasi"
+    },
+    {
+      "code": "VTZ",
+      "name": "Visakhapatnam"
+    },
+    {
+      "code": "BAI",
+      "name": "Bali"
+    },
+    {
+      "code": "BDO",
+      "name": "Bandung"
+    },
+    {
+      "code": "BIN",
+      "name": "Bintan Island"
+    },
+    {
+      "code": "JAV",
+      "name": "Jakarta"
+    },
+    {
+      "code": "AMI",
+      "name": "Lombok"
+    },
+    {
+      "code": "PK1",
+      "name": "Puncak"
+    },
+    {
+      "code": "SRG",
+      "name": "Semarang"
+    },
+    {
+      "code": "SUB",
+      "name": "Surabaya"
+    },
+    {
+      "code": "JOG",
+      "name": "Yogyakarta"
+    },
+    {
+      "code": "CLA",
+      "name": "County Clare"
+    },
+    {
+      "code": "ORK",
+      "name": "County Cork"
+    },
+    {
+      "code": "CDO",
+      "name": "County Donegal"
+    },
+    {
+      "code": "GWY",
+      "name": "County Galway"
+    },
+    {
+      "code": "KER",
+      "name": "County Kerry"
+    },
+    {
+      "code": "MAY",
+      "name": "County Mayo"
+    },
+    {
+      "code": "DUB",
+      "name": "Dublin"
+    },
+    {
+      "code": "CRG",
+      "name": "Center Region"
+    },
+    {
+      "code": "ETH",
+      "name": "Eilat"
+    },
+    {
+      "code": "GLE",
+      "name": "Galilee"
+    },
+    {
+      "code": "HFA",
+      "name": "Haifa Region"
+    },
+    {
+      "code": "JRS",
+      "name": "Jerusalem Region"
+    },
+    {
+      "code": "SRE",
+      "name": "South Region"
+    },
+    {
+      "code": "TLV",
+      "name": "Tel Aviv"
+    },
+    {
+      "code": "RNP",
+      "name": "Amalfi Coast"
+    },
+    {
+      "code": "BSI",
+      "name": "Basilicata"
+    },
+    {
+      "code": "BEG",
+      "name": "Bergamo"
+    },
+    {
+      "code": "RDC",
+      "name": "Calabria"
+    },
+    {
+      "code": "PRJ",
+      "name": "Capri"
+    },
+    {
+      "code": "ECS",
+      "name": "Caserta"
+    },
+    {
+      "code": "CIV",
+      "name": "Civitavecchia"
+    },
+    {
+      "code": "FLR",
+      "name": "Florence"
+    },
+    {
+      "code": "GOA",
+      "name": "Genoa"
+    },
+    {
+      "code": "HSI",
+      "name": "Ischia"
+    },
+    {
+      "code": "IHM",
+      "name": "Italian Alps"
+    },
+    {
+      "code": "SPZ",
+      "name": "La Spezia"
+    },
+    {
+      "code": "LG",
+      "name": "Lake Garda"
+    },
+    {
+      "code": "LIV",
+      "name": "Livorno"
+    },
+    {
+      "code": "LCV",
+      "name": "Lucca"
+    },
+    {
+      "code": "MIL",
+      "name": "Milan"
+    },
+    {
+      "code": "MOT",
+      "name": "Montecatini"
+    },
+    {
+      "code": "NAP",
+      "name": "Naples"
+    },
+    {
+      "code": "NSR",
+      "name": "North Sardinia"
+    },
+    {
+      "code": "QPA",
+      "name": "Padova"
+    },
+    {
+      "code": "PSA",
+      "name": "Pisa"
+    },
+    {
+      "code": "BAR",
+      "name": "Puglia"
+    },
+    {
+      "code": "RMI",
+      "name": "Rimini"
+    },
+    {
+      "code": "ROE",
+      "name": "Rome"
+    },
+    {
+      "code": "SIC",
+      "name": "Sicily"
+    },
+    {
+      "code": "SAY",
+      "name": "Siena"
+    },
+    {
+      "code": "ESO",
+      "name": "Sorrento"
+    },
+    {
+      "code": "SSR",
+      "name": "South Sardinia"
+    },
+    {
+      "code": "TRS",
+      "name": "Trieste"
+    },
+    {
+      "code": "TRN",
+      "name": "Turin"
+    },
+    {
+      "code": "VCE",
+      "name": "Venice (and vicinity)"
+    },
+    {
+      "code": "VRN",
+      "name": "Verona"
+    },
+    {
+      "code": "ABJ",
+      "name": "Abidjan"
+    },
+    {
+      "code": "JM1",
+      "name": "Jamaica South Coast"
+    },
+    {
+      "code": "KTP",
+      "name": "Kingston"
+    },
+    {
+      "code": "MBJ",
+      "name": "Montego Bay (and vicinity)"
+    },
+    {
+      "code": "NEG",
+      "name": "Negril"
+    },
+    {
+      "code": "OCJ",
+      "name": "Ocho Rios"
+    },
+    {
+      "code": "RUN",
+      "name": "Runaway Bay"
+    },
+    {
+      "code": "FUK",
+      "name": "Fukuoka"
+    },
+    {
+      "code": "JP5",
+      "name": "Hakone"
+    },
+    {
+      "code": "HIJ",
+      "name": "Hiroshima"
+    },
+    {
+      "code": "QKW",
+      "name": "Kanazawa"
+    },
+    {
+      "code": "KIX",
+      "name": "Kyoto"
+    },
+    {
+      "code": "NKM",
+      "name": "Nagoya"
+    },
+    {
+      "code": "AHA",
+      "name": "Okinawa"
+    },
+    {
+      "code": "ITM",
+      "name": "Osaka"
+    },
+    {
+      "code": "OKD",
+      "name": "Sapporo"
+    },
+    {
+      "code": "NRT",
+      "name": "Tokyo"
+    },
+    {
+      "code": "AMM",
+      "name": "Amman"
+    },
+    {
+      "code": "AQJ",
+      "name": "Aqaba"
+    },
+    {
+      "code": "JOZ",
+      "name": "Dead Sea"
+    },
+    {
+      "code": "PET",
+      "name": "Petra"
+    },
+    {
+      "code": "WDR",
+      "name": "Wadi Rum"
+    },
+    {
+      "code": "MBA",
+      "name": "Mombasa"
+    },
+    {
+      "code": "NAI",
+      "name": "Nairobi"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    {
+      "code": "LPQ",
+      "name": "Luang Prabang"
+    },
+    {
+      "code": "VTE",
+      "name": "Vientiane"
+    },
+    {
+      "code": "RIX",
+      "name": "Riga"
+    },
+    {
+      "code": "BEY",
+      "name": "Beirut"
+    },
+    {
+      "code": "VNO",
+      "name": "Vilnius"
+    },
+    {
+      "code": "LUX",
+      "name": "Luxembourg"
+    },
+    {
+      "code": "MFM",
+      "name": "Macau"
+    },
+    {
+      "code": "OHD",
+      "name": "Ohrid"
+    },
+    {
+      "code": "SKP",
+      "name": "Skopje"
+    },
+    {
+      "code": "TNR",
+      "name": "Antananarivo"
+    },
+    {
+      "code": "ANS",
+      "name": "Antisiranana"
+    },
+    {
+      "code": "MDV",
+      "name": "Morondava"
+    },
+    {
+      "code": "NOS",
+      "name": "Nosy Be"
+    },
+    {
+      "code": "TOA",
+      "name": "Toamasina"
+    },
+    {
+      "code": "BLZ",
+      "name": "Blantyre"
+    },
+    {
+      "code": "LGK",
+      "name": "Kedah / Langkawi"
+    },
+    {
+      "code": "BKI",
+      "name": "Kota Kinabalu  and Sabah"
+    },
+    {
+      "code": "KUL",
+      "name": "Kuala Lumpur"
+    },
+    {
+      "code": "KCH",
+      "name": "Kuching and Sarawak"
+    },
+    {
+      "code": "MKZ",
+      "name": "Malacca Johor and  South"
+    },
+    {
+      "code": "PEN",
+      "name": "Penang"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    {
+      "code": "MLA",
+      "name": "Malta"
+    },
+    {
+      "code": "MRU",
+      "name": "Mauritius Islands"
+    },
+    {
+      "code": "ACA",
+      "name": "Acapulco"
+    },
+    {
+      "code": "BDC",
+      "name": "Barrancas del Cobre"
+    },
+    {
+      "code": "CAM",
+      "name": "Campeche"
+    },
+    {
+      "code": "CUN",
+      "name": "Cancun (and vicinity)"
+    },
+    {
+      "code": "CHE",
+      "name": "Chetumal"
+    },
+    {
+      "code": "CIP",
+      "name": "Chiapas"
+    },
+    {
+      "code": "JUA",
+      "name": "Chihuahua"
+    },
+    {
+      "code": "PAV",
+      "name": "Cozumel"
+    },
+    {
+      "code": "CVJ",
+      "name": "Cuernavaca"
+    },
+    {
+      "code": "GUA",
+      "name": "Guadalajara & Vicinity"
+    },
+    {
+      "code": "GUO",
+      "name": "Guanajuato"
+    },
+    {
+      "code": "HUA",
+      "name": "Huatulco"
+    },
+    {
+      "code": "IXT",
+      "name": "Ixtapa - Zihuatanejo"
+    },
+    {
+      "code": "PAZ",
+      "name": "La Paz"
+    },
+    {
+      "code": "CAB",
+      "name": "Los Cabos"
+    },
+    {
+      "code": "LMM",
+      "name": "Los Mochis"
+    },
+    {
+      "code": "MAN",
+      "name": "Manzanillo"
+    },
+    {
+      "code": "MAZ",
+      "name": "Mazatlan"
+    },
+    {
+      "code": "MER",
+      "name": "Merida - Yucatan"
+    },
+    {
+      "code": "MDF",
+      "name": "Mexico City"
+    },
+    {
+      "code": "MON",
+      "name": "Monterrey"
+    },
+    {
+      "code": "OAX",
+      "name": "Oaxaca"
+    },
+    {
+      "code": "PCH",
+      "name": "Pachuca"
+    },
+    {
+      "code": "PUE",
+      "name": "Puebla"
+    },
+    {
+      "code": "ESC",
+      "name": "Puerto Escondido"
+    },
+    {
+      "code": "PVR",
+      "name": "Puerto Vallarta"
+    },
+    {
+      "code": "QUE",
+      "name": "Queretaro"
+    },
+    {
+      "code": "PCM",
+      "name": "Riviera Maya / Playa del Carmen"
+    },
+    {
+      "code": "SLP",
+      "name": "San Luis Potosi"
+    },
+    {
+      "code": "MIG",
+      "name": "San Miguel de Allende"
+    },
+    {
+      "code": "TIJ",
+      "name": "Tijuana"
+    },
+    {
+      "code": "VER",
+      "name": "Veracruz"
+    },
+    {
+      "code": "VIA",
+      "name": "Villahermosa"
+    },
+    {
+      "code": "ZAC",
+      "name": "Zacatecas"
+    },
+    {
+      "code": "MCM",
+      "name": "Monaco"
+    },
+    {
+      "code": "TIV",
+      "name": "Montenegro"
+    },
+    {
+      "code": "AGA",
+      "name": "Agadir"
+    },
+    {
+      "code": "CAA",
+      "name": "Casablanca"
+    },
+    {
+      "code": "FEZ",
+      "name": "Fez"
+    },
+    {
+      "code": "RAK",
+      "name": "Marrakech"
+    },
+    {
+      "code": "RBA",
+      "name": "Rabat"
+    },
+    {
+      "code": "TNG",
+      "name": "Tangier"
+    },
+    {
+      "code": "MPT",
+      "name": "Maputo"
+    },
+    {
+      "code": "BPE",
+      "name": "Bagan"
+    },
+    {
+      "code": "MDL",
+      "name": "Mandalay - Central"
+    },
+    {
+      "code": "RGN",
+      "name": "Yangon - South"
+    },
+    {
+      "code": "SWP",
+      "name": "Swakopmund"
+    },
+    {
+      "code": "ERS",
+      "name": "Windhoek"
+    },
+    {
+      "code": "KTM",
+      "name": "Kathmandu"
+    },
+    {
+      "code": "PKR",
+      "name": "Pokhara"
+    },
+    {
+      "code": "AMS",
+      "name": "Amsterdam and vicinity"
+    },
+    {
+      "code": "ARH",
+      "name": "Arnhem"
+    },
+    {
+      "code": "EIN",
+      "name": "Eindhoven"
+    },
+    {
+      "code": "ENH",
+      "name": "Enkhuizen"
+    },
+    {
+      "code": "LDN",
+      "name": "Leiden"
+    },
+    {
+      "code": "RTM",
+      "name": "Rotterdam"
+    },
+    {
+      "code": "HAG",
+      "name": "The Hague"
+    },
+    {
+      "code": "UTC",
+      "name": "Utrecht"
+    },
+    {
+      "code": "AKL",
+      "name": "Auckland"
+    },
+    {
+      "code": "RO1",
+      "name": "Bay of Plenty-Rotorua"
+    },
+    {
+      "code": "CHC",
+      "name": "Canterbury-Christchurch MT"
+    },
+    {
+      "code": "WRE",
+      "name": "Northland Region"
+    },
+    {
+      "code": "ZQN",
+      "name": "Otago- Queenstown"
+    },
+    {
+      "code": "WLG",
+      "name": "Wellington"
+    },
+    {
+      "code": "GR6",
+      "name": "Granada"
+    },
+    {
+      "code": "MG1",
+      "name": "Managua"
+    },
+    {
+      "code": "NC",
+      "name": "Northern Cyprus"
+    },
+    {
+      "code": "ALE",
+      "name": "Aalesund"
+    },
+    {
+      "code": "BGO",
+      "name": "Bergen"
+    },
+    {
+      "code": "GEI",
+      "name": "Geiranger"
+    },
+    {
+      "code": "OSL",
+      "name": "Oslo"
+    },
+    {
+      "code": "SVG",
+      "name": "Stavanger"
+    },
+    {
+      "code": "TRO",
+      "name": "Tromso"
+    },
+    {
+      "code": "MCT",
+      "name": "Muscat"
+    },
+    {
+      "code": "PTY",
+      "name": "Panama City"
+    },
+    {
+      "code": "AML",
+      "name": "Playa Blanca-Cocle"
+    },
+    {
+      "code": "ASU",
+      "name": "Asuncion"
+    },
+    {
+      "code": "AGT",
+      "name": "Ciudad del Este"
+    },
+    {
+      "code": "ENO",
+      "name": "Encarnacion"
+    },
+    {
+      "code": "AQP",
+      "name": "Arequipa"
+    },
+    {
+      "code": "CJA",
+      "name": "Cajamarca"
+    },
+    {
+      "code": "CIX",
+      "name": "Chiclayo"
+    },
+    {
+      "code": "CUZ",
+      "name": "Cuzco"
+    },
+    {
+      "code": "ICA",
+      "name": "Ica"
+    },
+    {
+      "code": "IQT",
+      "name": "Iquitos"
+    },
+    {
+      "code": "LIM",
+      "name": "Lima"
+    },
+    {
+      "code": "MFT",
+      "name": "Machu Pichu"
+    },
+    {
+      "code": "NAC",
+      "name": "Nasca"
+    },
+    {
+      "code": "PCS",
+      "name": "Paracas"
+    },
+    {
+      "code": "PUN",
+      "name": "Puno"
+    },
+    {
+      "code": "AYP",
+      "name": "Sacred Valley"
+    },
+    {
+      "code": "TRU",
+      "name": "Trujillo"
+    },
+    {
+      "code": "NTB",
+      "name": "Bataan"
+    },
+    {
+      "code": "NBT",
+      "name": "Batanes"
+    },
+    {
+      "code": "PH4",
+      "name": "Bohol"
+    },
+    {
+      "code": "MPH",
+      "name": "Boracay Island"
+    },
+    {
+      "code": "CEB",
+      "name": "Cebu"
+    },
+    {
+      "code": "DVO",
+      "name": "Davao"
+    },
+    {
+      "code": "DGT",
+      "name": "Dumaguete"
+    },
+    {
+      "code": "PHB",
+      "name": "Ilocos"
+    },
+    {
+      "code": "MNL",
+      "name": "Metro Manila"
+    },
+    {
+      "code": "PH1",
+      "name": "Palawan"
+    },
+    {
+      "code": "RSI",
+      "name": "SIARGAO ISLAND"
+    },
+    {
+      "code": "BZG",
+      "name": "Bydgoszcz"
+    },
+    {
+      "code": "GDN",
+      "name": "Gdansk"
+    },
+    {
+      "code": "KRK",
+      "name": "Krakow"
+    },
+    {
+      "code": "POZ",
+      "name": "Poznan"
+    },
+    {
+      "code": "RZE",
+      "name": "Rzeszow"
+    },
+    {
+      "code": "WAW",
+      "name": "Warsaw"
+    },
+    {
+      "code": "WRO",
+      "name": "Wroclaw"
+    },
+    {
+      "code": "ZAK",
+      "name": "Zakopane"
+    },
+    {
+      "code": "FAO",
+      "name": "Algarve"
+    },
+    {
+      "code": "PDL",
+      "name": "Azores"
+    },
+    {
+      "code": "CEN",
+      "name": "Centre Portugal"
+    },
+    {
+      "code": "COS",
+      "name": "Estoril Coast"
+    },
+    {
+      "code": "LIS",
+      "name": "Lisbon"
+    },
+    {
+      "code": "FNC",
+      "name": "Madeira"
+    },
+    {
+      "code": "OPO",
+      "name": "Porto and North of Portugal"
+    },
+    {
+      "code": "SJU",
+      "name": "Puerto Rico Island"
+    },
+    {
+      "code": "DOH",
+      "name": "Doha"
+    },
+    {
+      "code": "STD",
+      "name": "Saint Denis"
+    },
+    {
+      "code": "BRA",
+      "name": "Brasov-Ski Resorts"
+    },
+    {
+      "code": "BUH",
+      "name": "Bucharest"
+    },
+    {
+      "code": "CND",
+      "name": "Constanta-Black Sea"
+    },
+    {
+      "code": "IAS",
+      "name": "Iasi-East Romania"
+    },
+    {
+      "code": "SBZ",
+      "name": "Sibiu"
+    },
+    {
+      "code": "IKT",
+      "name": "Irkutsk"
+    },
+    {
+      "code": "RU1",
+      "name": "Kazan"
+    },
+    {
+      "code": "MOW",
+      "name": "Moscow"
+    },
+    {
+      "code": "LED",
+      "name": "St Petersburg"
+    },
+    {
+      "code": "DMM",
+      "name": "Dammam and East Coast"
+    },
+    {
+      "code": "JED",
+      "name": "Jeddah"
+    },
+    {
+      "code": "RUH",
+      "name": "Riyadh"
+    },
+    {
+      "code": "DKR",
+      "name": "Dakar"
+    },
+    {
+      "code": "SLY",
+      "name": "Saly"
+    },
+    {
+      "code": "BJY",
+      "name": "Belgrade"
+    },
+    {
+      "code": "NVS",
+      "name": "Novi Sad"
+    },
+    {
+      "code": "PRI",
+      "name": "Seychelles Island"
+    },
+    {
+      "code": "SIN",
+      "name": "Singapore"
+    },
+    {
+      "code": "SXM",
+      "name": "St. Martin"
+    },
+    {
+      "code": "BTS",
+      "name": "Bratislava"
+    },
+    {
+      "code": "BLE",
+      "name": "Bled"
+    },
+    {
+      "code": "LAS",
+      "name": "Lasko"
+    },
+    {
+      "code": "LJU",
+      "name": "Ljubljana"
+    },
+    {
+      "code": "POR",
+      "name": "Portoroz"
+    },
+    {
+      "code": "PTE",
+      "name": "Eastern Cape-Port Elizabeth"
+    },
+    {
+      "code": "JHG",
+      "name": "Gauteng- Johannesburg"
+    },
+    {
+      "code": "KZN",
+      "name": "KwaZulu Natal - Durban"
+    },
+    {
+      "code": "LMP",
+      "name": "Limpopo"
+    },
+    {
+      "code": "MPM",
+      "name": "Mpumalanga-Kruger Area"
+    },
+    {
+      "code": "SCI",
+      "name": "Sun City- Madikwe"
+    },
+    {
+      "code": "CPT",
+      "name": "W. Cape-Cape Town-Garden Route"
+    },
+    {
+      "code": "PUS",
+      "name": "Busan"
+    },
+    {
+      "code": "KR3",
+      "name": "Gyeongju"
+    },
+    {
+      "code": "CJU",
+      "name": "Jeju- Do"
+    },
+    {
+      "code": "ICN",
+      "name": "Seoul"
+    },
+    {
+      "code": "SCQ",
+      "name": "A Coruña"
+    },
+    {
+      "code": "ALC",
+      "name": "Alicante - Costa Blanca"
+    },
+    {
+      "code": "LEI",
+      "name": "Almeria Coast-Almeria"
+    },
+    {
+      "code": "OVD",
+      "name": "Asturias"
+    },
+    {
+      "code": "BCN",
+      "name": "Barcelona"
+    },
+    {
+      "code": "BEN",
+      "name": "Benidorm - Costa Blanca"
+    },
+    {
+      "code": "BRG",
+      "name": "Burgos"
+    },
+    {
+      "code": "CAD",
+      "name": "Cadiz / Jerez"
+    },
+    {
+      "code": "SDR",
+      "name": "Cantabria"
+    },
+    {
+      "code": "ODB",
+      "name": "Cordoba"
+    },
+    {
+      "code": "LLM",
+      "name": "Costa Brava & Costa Barcelona-Maresme"
+    },
+    {
+      "code": "CAZ",
+      "name": "Costa de Azahar"
+    },
+    {
+      "code": "LUZ",
+      "name": "Costa de la Luz (Cadiz)"
+    },
+    {
+      "code": "LUS",
+      "name": "Costa de la Luz (Huelva)"
+    },
+    {
+      "code": "CVA",
+      "name": "Costa de Valencia"
+    },
+    {
+      "code": "AGP",
+      "name": "Costa del Sol"
+    },
+    {
+      "code": "CTR",
+      "name": "Costa Tropical"
+    },
+    {
+      "code": "CCA",
+      "name": "Cuenca"
+    },
+    {
+      "code": "FOR",
+      "name": "Formentera"
+    },
+    {
+      "code": "FUE",
+      "name": "Fuerteventura"
+    },
+    {
+      "code": "GRO",
+      "name": "Girona"
+    },
+    {
+      "code": "LPA",
+      "name": "Gran Canaria"
+    },
+    {
+      "code": "GRX",
+      "name": "Granada"
+    },
+    {
+      "code": "EAS",
+      "name": "Guipuzcoa - San Sebastian"
+    },
+    {
+      "code": "HUE",
+      "name": "Huelva"
+    },
+    {
+      "code": "IBZ",
+      "name": "Ibiza"
+    },
+    {
+      "code": "QGZ",
+      "name": "La Gomera"
+    },
+    {
+      "code": "LMN",
+      "name": "La Manga - Costa Calida"
+    },
+    {
+      "code": "SPC",
+      "name": "La Palma"
+    },
+    {
+      "code": "LOG",
+      "name": "La Rioja"
+    },
+    {
+      "code": "ACE",
+      "name": "Lanzarote"
+    },
+    {
+      "code": "LEO",
+      "name": "Leon"
+    },
+    {
+      "code": "MAD",
+      "name": "Madrid"
+    },
+    {
+      "code": "PMI",
+      "name": "Majorca"
+    },
+    {
+      "code": "MAL",
+      "name": "Malaga"
+    },
+    {
+      "code": "MAH",
+      "name": "Menorca"
+    },
+    {
+      "code": "MJV",
+      "name": "Murcia"
+    },
+    {
+      "code": "VGO",
+      "name": "Pontevedra"
+    },
+    {
+      "code": "ARA",
+      "name": "Pyrenees - Aragon"
+    },
+    {
+      "code": "PIR",
+      "name": "Pyrenees - Catalan"
+    },
+    {
+      "code": "SLM",
+      "name": "Salamanca"
+    },
+    {
+      "code": "SAL",
+      "name": "Salou Area / Costa Dorada"
+    },
+    {
+      "code": "SEG",
+      "name": "Segovia"
+    },
+    {
+      "code": "SVQ",
+      "name": "Seville"
+    },
+    {
+      "code": "SRN",
+      "name": "Sierra Nevada"
+    },
+    {
+      "code": "STS",
+      "name": "Sitges Area - Costa del Garraf"
+    },
+    {
+      "code": "TFS",
+      "name": "Tenerife"
+    },
+    {
+      "code": "TOL",
+      "name": "Toledo"
+    },
+    {
+      "code": "VLC",
+      "name": "Valencia"
+    },
+    {
+      "code": "VLL",
+      "name": "Valladolid"
+    },
+    {
+      "code": "BIO",
+      "name": "Vizcaya - Bilbao"
+    },
+    {
+      "code": "ZAZ",
+      "name": "Zaragoza"
+    },
+    {
+      "code": "AHG",
+      "name": "Ahungalle"
+    },
+    {
+      "code": "BJT",
+      "name": "Bentota"
+    },
+    {
+      "code": "BWE",
+      "name": "Beruwala"
+    },
+    {
+      "code": "CMB",
+      "name": "Colombo"
+    },
+    {
+      "code": "DMB",
+      "name": "Dambulla"
+    },
+    {
+      "code": "GA5",
+      "name": "Galle"
+    },
+    {
+      "code": "HKK",
+      "name": "Hikkaduwa"
+    },
+    {
+      "code": "KL2",
+      "name": "Kalutara"
+    },
+    {
+      "code": "KDY",
+      "name": "Kandy"
+    },
+    {
+      "code": "KCT",
+      "name": "Koggala"
+    },
+    {
+      "code": "MLV",
+      "name": "Mount Lavinia"
+    },
+    {
+      "code": "NBO",
+      "name": "Negombo"
+    },
+    {
+      "code": "NWE",
+      "name": "Nuwara Eliya"
+    },
+    {
+      "code": "SKB",
+      "name": "St Kitts"
+    },
+    {
+      "code": "UVF",
+      "name": "Santa Lucia"
+    },
+    {
+      "code": "GOT",
+      "name": "Gothenburg"
+    },
+    {
+      "code": "STO",
+      "name": "Stockholm"
+    },
+    {
+      "code": "BSL",
+      "name": "Basel"
+    },
+    {
+      "code": "BRN",
+      "name": "Berne"
+    },
+    {
+      "code": "GVA",
+      "name": "Geneva"
+    },
+    {
+      "code": "INT",
+      "name": "Interlaken"
+    },
+    {
+      "code": "LAU",
+      "name": "Lausanne"
+    },
+    {
+      "code": "LUC",
+      "name": "Lucerne"
+    },
+    {
+      "code": "ZJP",
+      "name": "Montreux"
+    },
+    {
+      "code": "ZRH",
+      "name": "Zurich"
+    },
+    {
+      "code": "TPE",
+      "name": "Taipei"
+    },
+    {
+      "code": "ARK",
+      "name": "Arusha"
+    },
+    {
+      "code": "DAE",
+      "name": "Dar es Salaam"
+    },
+    {
+      "code": "ZNZ",
+      "name": "Zanzibar"
+    },
+    {
+      "code": "BKK",
+      "name": "Bangkok"
+    },
+    {
+      "code": "CNX",
+      "name": "Chiang Mai"
+    },
+    {
+      "code": "CEI",
+      "name": "Chiang Rai"
+    },
+    {
+      "code": "HHQ",
+      "name": "Hua Hin-Cha Am-Pranburi"
+    },
+    {
+      "code": "TH5",
+      "name": "Khao Lak and Phang Nga"
+    },
+    {
+      "code": "TDX",
+      "name": "Koh Chang & Koh Kood"
+    },
+    {
+      "code": "TH4",
+      "name": "Koh Lanta"
+    },
+    {
+      "code": "TH7",
+      "name": "Koh Samet"
+    },
+    {
+      "code": "USM",
+      "name": "Koh Samui"
+    },
+    {
+      "code": "KBV",
+      "name": "Krabi"
+    },
+    {
+      "code": "LPT",
+      "name": "Lampang"
+    },
+    {
+      "code": "TH2",
+      "name": "Mae Hong Son"
+    },
+    {
+      "code": "PYX",
+      "name": "Pattaya-Chonburi"
+    },
+    {
+      "code": "HKT",
+      "name": "Phuket"
+    },
+    {
+      "code": "XT5",
+      "name": "Samut Songkhram"
+    },
+    {
+      "code": "TOB",
+      "name": "Tobago"
+    },
+    {
+      "code": "TIN",
+      "name": "Trinidad"
+    },
+    {
+      "code": "DJE",
+      "name": "Djerba"
+    },
+    {
+      "code": "HMM",
+      "name": "Hammamet"
+    },
+    {
+      "code": "MH1",
+      "name": "Mahdia"
+    },
+    {
+      "code": "MIR",
+      "name": "Monastir- Skanes"
+    },
+    {
+      "code": "NAB",
+      "name": "Nabeul"
+    },
+    {
+      "code": "TN1",
+      "name": "Port El Kantaoui-Sousse"
+    },
+    {
+      "code": "TOE",
+      "name": "Tunis - Carthage Coast"
+    },
+    {
+      "code": "ALK",
+      "name": "Altinkum - Didim"
+    },
+    {
+      "code": "ANK",
+      "name": "Ankara"
+    },
+    {
+      "code": "AYT",
+      "name": "Antalya"
+    },
+    {
+      "code": "BJV",
+      "name": "Bodrum "
+    },
+    {
+      "code": "BTZ",
+      "name": "Bursa"
+    },
+    {
+      "code": "TR1",
+      "name": "Canakkale"
+    },
+    {
+      "code": "CAP",
+      "name": "Cappadocia"
+    },
+    {
+      "code": "FET",
+      "name": "Fethiye-Oludeniz"
+    },
+    {
+      "code": "IST",
+      "name": "Istanbul"
+    },
+    {
+      "code": "IGL",
+      "name": "Izmir"
+    },
+    {
+      "code": "KAL",
+      "name": "Kalkan"
+    },
+    {
+      "code": "KA1",
+      "name": "Kas"
+    },
+    {
+      "code": "KYA",
+      "name": "Konya"
+    },
+    {
+      "code": "ADB",
+      "name": "Kusadasi "
+    },
+    {
+      "code": "DLM",
+      "name": "Marmaris "
+    },
+    {
+      "code": "TR3",
+      "name": "Pamukkale - Denizli"
+    },
+    {
+      "code": "TZX",
+      "name": "Trabzon"
+    },
+    {
+      "code": "VAN",
+      "name": "Van"
+    },
+    {
+      "code": "PLS",
+      "name": "Providenciales"
+    },
+    {
+      "code": "STJ",
+      "name": "St. John"
+    },
+    {
+      "code": "SPB",
+      "name": "St. Thomas"
+    },
+    {
+      "code": "UG1",
+      "name": "Kampala – Central Region"
+    },
+    {
+      "code": "KBP",
+      "name": "Kiev"
+    },
+    {
+      "code": "LWO",
+      "name": "Lviv"
+    },
+    {
+      "code": "ODS",
+      "name": "Odessa"
+    },
+    {
+      "code": "AUH",
+      "name": "Abu Dhabi"
+    },
+    {
+      "code": "AE1",
+      "name": "Ajman"
+    },
+    {
+      "code": "DXB",
+      "name": "Dubai"
+    },
+    {
+      "code": "FJR",
+      "name": "Fujairah"
+    },
+    {
+      "code": "RKT",
+      "name": "Ras Al Khaymah"
+    },
+    {
+      "code": "SHJ",
+      "name": "Sharjah"
+    },
+    {
+      "code": "UMM",
+      "name": "UMM AL QUWAIN"
+    },
+    {
+      "code": "ABZ",
+      "name": "Aberdeen"
+    },
+    {
+      "code": "QQX",
+      "name": "Bath"
+    },
+    {
+      "code": "BFS",
+      "name": "Belfast"
+    },
+    {
+      "code": "BHX",
+      "name": "Birmingham"
+    },
+    {
+      "code": "BKP",
+      "name": "Blackpool"
+    },
+    {
+      "code": "BOU",
+      "name": "Bournemouth"
+    },
+    {
+      "code": "BSH",
+      "name": "Brighton"
+    },
+    {
+      "code": "BRI",
+      "name": "Bristol"
+    },
+    {
+      "code": "CBG",
+      "name": "Cambridge"
+    },
+    {
+      "code": "CWL",
+      "name": "Cardiff"
+    },
+    {
+      "code": "CEG",
+      "name": "Chester"
+    },
+    {
+      "code": "COE",
+      "name": "Colchester"
+    },
+    {
+      "code": "UK1",
+      "name": "Colwyn Bay"
+    },
+    {
+      "code": "DDE",
+      "name": "Dundee"
+    },
+    {
+      "code": "EA2",
+      "name": "East Sussex"
+    },
+    {
+      "code": "EDI",
+      "name": "Edinburgh"
+    },
+    {
+      "code": "GLA",
+      "name": "Glasgow"
+    },
+    {
+      "code": "HA2",
+      "name": "Hampshire and The New Forest"
+    },
+    {
+      "code": "UHM",
+      "name": "Humberside Airport"
+    },
+    {
+      "code": "INV",
+      "name": "Inverness"
+    },
+    {
+      "code": "LPL",
+      "name": "Liverpool"
+    },
+    {
+      "code": "LOC",
+      "name": "Loch Lomond"
+    },
+    {
+      "code": "LON",
+      "name": "London"
+    },
+    {
+      "code": "MAC",
+      "name": "Manchester"
+    },
+    {
+      "code": "NCL",
+      "name": "Newcastle-upon-Tyne"
+    },
+    {
+      "code": "NEP",
+      "name": "Newport"
+    },
+    {
+      "code": "NWH",
+      "name": "Norwich"
+    },
+    {
+      "code": "OBA",
+      "name": "Oban"
+    },
+    {
+      "code": "OXF",
+      "name": "Oxford"
+    },
+    {
+      "code": "AUC",
+      "name": "Perth"
+    },
+    {
+      "code": "AIR",
+      "name": "Stirling"
+    },
+    {
+      "code": "STK",
+      "name": "Stoke on Trent"
+    },
+    {
+      "code": "SUA",
+      "name": "Stratford upon Avon"
+    },
+    {
+      "code": "TOQ",
+      "name": "Torquay"
+    },
+    {
+      "code": "WA",
+      "name": "Warwick"
+    },
+    {
+      "code": "WID",
+      "name": "Windsor and Slough"
+    },
+    {
+      "code": "QQY",
+      "name": "York"
+    },
+    {
+      "code": "ANC",
+      "name": "Anchorage - AK"
+    },
+    {
+      "code": "ATL",
+      "name": "Atlanta - GA"
+    },
+    {
+      "code": "ACY",
+      "name": "Atlantic City - NJ"
+    },
+    {
+      "code": "AUS",
+      "name": "Austin - TX"
+    },
+    {
+      "code": "MTN",
+      "name": "Baltimore - MD"
+    },
+    {
+      "code": "BLM",
+      "name": "Belmar - Farmingdale - NJ"
+    },
+    {
+      "code": "BIX",
+      "name": "Biloxi - MS"
+    },
+    {
+      "code": "BL3",
+      "name": "Bloomington - MN"
+    },
+    {
+      "code": "BOI",
+      "name": "Boise - ID"
+    },
+    {
+      "code": "BOS",
+      "name": "Boston - MA"
+    },
+    {
+      "code": "BNN",
+      "name": "Branson - MO"
+    },
+    {
+      "code": "BUF",
+      "name": "Buffalo - NY"
+    },
+    {
+      "code": "BTV",
+      "name": "Burlington/Stowe - VT"
+    },
+    {
+      "code": "MRY",
+      "name": "California Coast - CA"
+    },
+    {
+      "code": "CHS",
+      "name": "Charleston - SC"
+    },
+    {
+      "code": "CLT",
+      "name": "Charlotte - NC"
+    },
+    {
+      "code": "CHT",
+      "name": "Chattanooga - TN"
+    },
+    {
+      "code": "CH2",
+      "name": "Chesterfield - MO"
+    },
+    {
+      "code": "ORD",
+      "name": "Chicago - IL"
+    },
+    {
+      "code": "CIN",
+      "name": "Cincinnati - OH"
+    },
+    {
+      "code": "CLE",
+      "name": "Clearwater Area - FL"
+    },
+    {
+      "code": "CLV",
+      "name": "Cleveland - OH"
+    },
+    {
+      "code": "FCS",
+      "name": "Colorado Springs - CO"
+    },
+    {
+      "code": "COU",
+      "name": "Columbus - OH"
+    },
+    {
+      "code": "AL8",
+      "name": "Concord - NC"
+    },
+    {
+      "code": "CON",
+      "name": "Connecticut coast Area - CT"
+    },
+    {
+      "code": "DFW",
+      "name": "Dallas - TX"
+    },
+    {
+      "code": "DEN",
+      "name": "Denver - CO"
+    },
+    {
+      "code": "DES",
+      "name": "Destin - FL"
+    },
+    {
+      "code": "DTW",
+      "name": "Detroit - MI"
+    },
+    {
+      "code": "FAI",
+      "name": "Fairbanks - AK"
+    },
+    {
+      "code": "YSP",
+      "name": "Florida Keys - FL"
+    },
+    {
+      "code": "FLL",
+      "name": "Fort Lauderdale - Hollywood Area - FL"
+    },
+    {
+      "code": "FOM",
+      "name": "Fort Myers Area - FL"
+    },
+    {
+      "code": "GKT",
+      "name": "Gatlinburg - TN"
+    },
+    {
+      "code": "GCN",
+      "name": "Grand Canyon National Park Area - AZ"
+    },
+    {
+      "code": "LIH",
+      "name": "Hawaii - Kauai - HI"
+    },
+    {
+      "code": "MAU",
+      "name": "Hawaii - Maui - HI"
+    },
+    {
+      "code": "KAE",
+      "name": "Hawaii - Oahu - HI"
+    },
+    {
+      "code": "KAI",
+      "name": "Hawaii - The Big Island - HI"
+    },
+    {
+      "code": "HI2",
+      "name": "Hilliard - OH"
+    },
+    {
+      "code": "HL1",
+      "name": "Hillsboro - TX"
+    },
+    {
+      "code": "HMD",
+      "name": "Homestead - PA"
+    },
+    {
+      "code": "HOU",
+      "name": "Houston - TX"
+    },
+    {
+      "code": "INA",
+      "name": "Indianapolis - IN"
+    },
+    {
+      "code": "JAX",
+      "name": "Jacksonville Area - FL"
+    },
+    {
+      "code": "OVE",
+      "name": "Kansas City - KS"
+    },
+    {
+      "code": "MCI",
+      "name": "Kansas City - MO"
+    },
+    {
+      "code": "TVL",
+      "name": "Lake Tahoe - CA/NV"
+    },
+    {
+      "code": "LAN",
+      "name": "Lancaster - PA"
+    },
+    {
+      "code": "LVS",
+      "name": "Las Vegas - NV"
+    },
+    {
+      "code": "LAX",
+      "name": "Los Angeles - CA"
+    },
+    {
+      "code": "LOU",
+      "name": "Louisville - KY"
+    },
+    {
+      "code": "MNZ",
+      "name": "Manassas - VA"
+    },
+    {
+      "code": "MEM",
+      "name": "Memphis - TN"
+    },
+    {
+      "code": "MIA",
+      "name": "Miami Area - FL"
+    },
+    {
+      "code": "MIW",
+      "name": "Milwaukee - WI"
+    },
+    {
+      "code": "GMV",
+      "name": "Monument Valley State Park - UT"
+    },
+    {
+      "code": "MHS",
+      "name": "Mount Shasta - CA"
+    },
+    {
+      "code": "MYR",
+      "name": "Myrtle Beach - SC"
+    },
+    {
+      "code": "NAL",
+      "name": "Naples Area - FL"
+    },
+    {
+      "code": "NSV",
+      "name": "Nashville - TN"
+    },
+    {
+      "code": "HEZ",
+      "name": "Natchez - MS"
+    },
+    {
+      "code": "MSY",
+      "name": "New Orleans - LA"
+    },
+    {
+      "code": "NYC",
+      "name": "New York Area - NY"
+    },
+    {
+      "code": "SWF",
+      "name": "Newburgh - NY"
+    },
+    {
+      "code": "IAG",
+      "name": "Niagara Falls - NY"
+    },
+    {
+      "code": "NOF",
+      "name": "Norfolk - VA"
+    },
+    {
+      "code": "OKL",
+      "name": "Oklahoma City - OK"
+    },
+    {
+      "code": "OMA",
+      "name": "Omaha - NE"
+    },
+    {
+      "code": "ONT",
+      "name": "Ontario - CA"
+    },
+    {
+      "code": "MCO",
+      "name": "Orlando Area - Florida - FL"
+    },
+    {
+      "code": "PBI",
+      "name": "Palm Beach Area - FL"
+    },
+    {
+      "code": "PSP",
+      "name": "Palm Springs - CA"
+    },
+    {
+      "code": "PAD",
+      "name": "Pasadena - TX"
+    },
+    {
+      "code": "PT5",
+      "name": "Petaluma - CA"
+    },
+    {
+      "code": "PHL",
+      "name": "Philadelphia - PA"
+    },
+    {
+      "code": "PHX",
+      "name": "Phoenix Area - AZ"
+    },
+    {
+      "code": "PN1",
+      "name": "Pinehurst - NC"
+    },
+    {
+      "code": "PIT",
+      "name": "Pittsburgh - PA"
+    },
+    {
+      "code": "PDX",
+      "name": "Portland - OR"
+    },
+    {
+      "code": "PRO",
+      "name": "Providence - RI"
+    },
+    {
+      "code": "RNO",
+      "name": "Reno - NV"
+    },
+    {
+      "code": "ZRD",
+      "name": "Richmond - VA"
+    },
+    {
+      "code": "ROC",
+      "name": "Rochester - NY"
+    },
+    {
+      "code": "SAC",
+      "name": "Sacramento - CA"
+    },
+    {
+      "code": "SAA",
+      "name": "San Antonio - TX"
+    },
+    {
+      "code": "SAD",
+      "name": "San Diego - CA"
+    },
+    {
+      "code": "SFO",
+      "name": "San Francisco Area - CA"
+    },
+    {
+      "code": "SAJ",
+      "name": "San Jose - Silicon Valley - CA"
+    },
+    {
+      "code": "STF",
+      "name": "Santa Fe - NM"
+    },
+    {
+      "code": "SAS",
+      "name": "Sarasota Area - FL"
+    },
+    {
+      "code": "SAV",
+      "name": "Savannah - GA"
+    },
+    {
+      "code": "JMH",
+      "name": "Schaumburg - IL"
+    },
+    {
+      "code": "SM1",
+      "name": "Schweitzer Mountain - ID"
+    },
+    {
+      "code": "SEA",
+      "name": "Seattle - WA"
+    },
+    {
+      "code": "SDX",
+      "name": "Sedona - AZ"
+    },
+    {
+      "code": "SWD",
+      "name": "Seward - AK"
+    },
+    {
+      "code": "DUC",
+      "name": "Spartanburg - Greenville - SC"
+    },
+    {
+      "code": "UST",
+      "name": "St Augustine Area - FL"
+    },
+    {
+      "code": "STL",
+      "name": "St Louis - MO"
+    },
+    {
+      "code": "STP",
+      "name": "St. Petersburg Area - FL"
+    },
+    {
+      "code": "SBS",
+      "name": "Steamboat Springs - CO"
+    },
+    {
+      "code": "SYR",
+      "name": "Syracuse - NY"
+    },
+    {
+      "code": "TPA",
+      "name": "Tampa - FL"
+    },
+    {
+      "code": "TEL",
+      "name": "Telluride Ski Area - CO"
+    },
+    {
+      "code": "TUS",
+      "name": "Tucson - AZ"
+    },
+    {
+      "code": "TUL",
+      "name": "Tulsa - OK"
+    },
+    {
+      "code": "UCA",
+      "name": "Utica - NY"
+    },
+    {
+      "code": "VA6",
+      "name": "Vacaville - CA"
+    },
+    {
+      "code": "ROI",
+      "name": "Vail - CO"
+    },
+    {
+      "code": "VIK",
+      "name": "Vicksburg - MS"
+    },
+    {
+      "code": "WAS",
+      "name": "Washington D.C. - DC"
+    },
+    {
+      "code": "WMI",
+      "name": "Westminster - MD"
+    },
+    {
+      "code": "PHF",
+      "name": "Williamsburg - VA"
+    },
+    {
+      "code": "CDT",
+      "name": "Colonia del Sacramento"
+    },
+    {
+      "code": "MVD",
+      "name": "Montevideo"
+    },
+    {
+      "code": "PDP",
+      "name": "Punta del Este"
+    },
+    {
+      "code": "CCS",
+      "name": "Caracas"
+    },
+    {
+      "code": "IMA",
+      "name": "Isla Margarita"
+    },
+    {
+      "code": "HAN",
+      "name": "Hanoi and North"
+    },
+    {
+      "code": "SGN",
+      "name": "Ho Chi Minh City (Saigon) and South"
+    },
+    {
+      "code": "DAD",
+      "name": "Hoi An - Danang - Central"
+    },
+    {
+      "code": "CXR",
+      "name": "Nha Trang - Dalat - Tuy Hoa"
+    },
+    {
+      "code": "LIG",
+      "name": "Livingstone"
+    },
+    {
+      "code": "HRE",
+      "name": "Harare"
+    },
+    {
+      "code": "VF",
+      "name": "Victoria Falls"
+    }
+  ]

@@ -1,0 +1,3315 @@
+,CountryCode,IataCode,CityCode,CityName,AirportName
+0,CA,YGZ,YGZ,Grise Fiord,Grise Fiord
+1,TR,HTY,HTY,Hatay Province,Hatay
+2,US,LNY,LNY,Lanai,Lanai
+3,RU,IAA,IAA,Igarka,Igarka
+4,NL,MST,MST,Maastricht,Maastricht Aachen
+5,AU,WYA,WYA,Whyalla,Whyalla
+6,UA,OZH,OZH,Zaporizhia,Zaporizhia International
+7,IN,IMF,IMF,Imphal,Imphal International
+8,BR,RVD,RVD,"Rio Verde, Goiás",Rio Verde
+9,JP,OKD,SPK,Sapporo,Okadama
+10,JP,KOJ,KOJ,Kagoshima,Kagoshima
+11,MX,REX,REX,Reynosa,General Lucio Blanco International
+12,CN,CZX,CZX,Changzhou,Changzhou Benniu
+13,HR,OSI,OSI,Osijek,Osijek
+14,TR,USQ,USQ,Usak,Uşak
+15,EC,ETR,ETR,Santa Rosa Canton,Santa Rosa International
+16,IN,BHO,BHO,Bhopal,Raja Bhoj
+17,SE,VBY,VBY,Visby,Visby
+18,AU,WTB,TWB,Toowoomba,Brisbane West Wellcamp
+19,VC,SVD,SVD,Saint Vincent,Argyle International Airport
+20,MX,MTT,MTT,Minatitlán,Minatitlán/Coatzacoalcos International
+21,GY,OGL,GEO,Georgetown,Ogle
+22,US,BZN,BZN,Bozeman,Bozeman Yellowstone International
+23,CN,HJJ,HJJ,Huaihua,Huaihua Zhijiang
+24,RU,NYR,NYR,Nyurba,Nyurba
+25,FR,LIL,LIL,Lille,Lille
+26,IQ,NJF,NJF,Najaf,Al Najaf International
+27,CA,ZUM,ZUM,Churchill Falls,Churchill Falls
+28,US,BTR,BTR,Baton Rouge,Baton Rouge Metropolitan
+29,SG,XSP,XSP,Seletar,Seletar Airport
+30,CO,LET,LET,"Leticia, Amazonas",Alfredo Vásquez Cobo International
+31,US,HYS,HYS,Hays,Hays Regional
+32,PA,PTY,PTY,Panama City,Tocumen International
+33,MY,MKM,MKM,Mukah,Mukah
+34,US,USA,USA,Concord,Concord Regional
+35,US,MSY,MSY,New Orleans,Louis Armstrong New Orleans International
+36,AR,IRJ,IRJ,La Rioja,La Rioja
+37,NC,KNQ,KNQ,Kone,Kone Airport
+38,BR,IMP,IMP,Imperatriz,Imperatriz
+39,FJ,LBS,LBS,Labasa,Labasa
+40,PE,CUZ,CUZ,Cusco,Alejandro Velasco Astete International
+41,CA,XBE,XBE,Bearskin Lake,Bearskin Lake
+42,BR,TBT,TBT,Tabatinga,Tabatinga International
+43,GL,JHS,JHS,Sisimiut,Sisimiut
+44,ID,DTB,DTB,Siborong-Borong,Silangit International
+45,HU,BUD,BUD,Budapest,Budapest Ferenc Liszt International
+46,ID,BTH,BTH,Batam,Hang Nadim
+47,RU,NAL,NAL,Nalchik,Nalchik
+48,CN,RIZ,RIZ,Rizhao,Rizhao Shanzihe
+49,CA,YVO,YVO,Val-d Or,Val-d Or
+50,JP,TKN,TKN,Tokunoshima,Tokunoshima
+51,EC,GYE,GYE,Guayaquil,José Joaquín de Olmedo International
+52,IT,FLR,FLR,Florence,Florence
+53,NZ,PPQ,PPQ,Paraparaumu,Kapiti Coast
+54,CN,DNH,DNH,Dunhuang,Dunhuang
+55,IN,STV,STV,Surat,Surat
+56,NO,RET,RET,Røst,Røst
+57,TR,GNY,SFQ,Şanlıurfa,Sanliurfa
+58,ES,IBZ,IBZ,Ibiza,Ibiza
+59,PG,MDU,MDU,Mendi,Mendi
+60,CN,YIH,YIH,Yichang,Yichang Sanxia
+61,JP,NGS,NGS,Nagasaki,Nagasaki
+62,AG,ANU,ANU,Antigua,V. C. Bird International
+63,VU,TOH,TOH,Torres Islands,Torres
+64,FI,JOE,JOE,Joensuu,Joensuu
+65,SE,LLA,LLA,Luleå,Luleå
+66,JP,TKS,TKS,Tokushima,Tokushima
+67,SE,LPI,LPI,Linköping,Linköping City
+68,US,JNU,JNU,Juneau,Juneau International
+69,GR,KLX,KLX,Kalamata,Kalamata International
+70,MY,KUA,KUA,Kuantan,Sultan Haji Ahmad Shah
+71,US,NRR,NRR,Roosevelt Roads Naval Station,José Aponte de la Torre
+72,LC,UVF,SLU,Saint Lucia,Hewanorra International
+73,JP,UBJ,UBJ,Ube,Yamaguchi Ube
+74,NG,ABV,ABV,Abuja,Nnamdi Azikiwe International
+75,CI,ABJ,ABJ,Abidjan,Port Bouet
+76,CN,JMJ,JMJ,Lancang Lahu Autonomous County,Lancang Jingmai Airport
+77,CN,MDG,MDG,Mudanjiang,Mudanjiang Hailang International
+78,DZ,INF,INF,In Guezzam,In Guezzam Airport
+79,AO,SVP,SVP,Kuito,Kuito
+80,RU,KYZ,KYZ,Kyzyl,Kyzyl
+81,AU,KTA,KTA,Karratha,Karratha
+82,US,PSP,PSP,Palm Springs,Palm Springs International
+83,TR,SZF,SZF,Samsun,Samsun-Çarşamba
+84,MY,TWU,TWU,Tawau,Tawau
+85,OM,KHS,KHS,Khasab,Khasab
+86,KN,NEV,NEV,Nevis,Vance W. Amory International
+87,TH,TDX,TDX,Trat Province,Trat
+88,ID,BKS,BKS,Bengkulu,Fatmawati Soekarno
+89,ID,AAP,SRI,Samarinda,APT Pranoto Airport
+90,US,PHF,PHF,Newport News,Newport News/Williamsburg International
+91,AF,TII,TII,Tarin Kowt,Tarin Kowt Airport
+92,NP,KTM,KTM,Kathmandu,Tribhuvan International
+93,PG,POM,POM,Port Moresby,Jacksons International
+94,AU,NRA,NRA,Narrandera,Narrandera
+95,CN,IQM,IQM,Qiemo,Qiemo
+96,TH,LPT,LPT,Lampang Province,Lampang
+97,IN,IXS,IXS,Silchar,Silchar
+98,CL,PUQ,PUQ,Punta Arenas,Presidente Carlos Ibáñez del Campo International
+99,TR,ONQ,ONQ,Zonguldak,Caycuma
+100,CA,ZNA,YCD,Nanaimo,Nanaimo Harbour
+101,PF,UAP,UAP,Ua Pou,Ua Pou
+102,US,FLG,GCN,Grand Canyon Village,Flagstaff Pulliam
+103,TR,YKO,YKO,Hakkâri,Hakkari–Yüksekova
+104,NP,TMI,TMI,Tumlingtar,Tumlingtar
+105,ES,GRX,GRX,Granada,Federico García Lorca
+106,US,HVN,HVN,New Haven,Tweed New Haven
+107,AU,NAA,NAA,Narrabri,Narrabri
+108,GB,LSI,SDZ,Shetland Islands,Sumburgh
+109,SB,RUS,RUS,Marau Sound,Marau
+110,SO,MGQ,MGQ,Mogadishu,Aden Adde International
+111,KR,USN,USN,Ulsan,Ulsan
+112,LK,NUF,NUF,Hatton,Hatton Castlereigh Resrvr SPB
+113,CD,MDK,MDK,Mbandaka,Mbandaka
+114,CN,UCB,UCB,Ulanqab,Ulanqab Jining
+115,BG,BOJ,BOJ,Burgas,Burgas
+116,MX,ZLO,ZLO,Manzanillo,Playa de Oro International
+117,US,WTK,WTK,Noatak,Noatak
+118,CA,YRT,YRT,Rankin Inlet,Rankin Inlet
+119,AR,CPC,CPC,San Martín de los Andes,Aviador Carlos Campos
+120,US,RKS,RKS,Rock Springs,Rock Springs–Sweetwater County
+121,MX,VSA,VSA,Villahermosa,Villahermosa International
+122,CA,YZP,YZP,Sandspit,Sandspit
+123,BR,CAW,CAW,Campos dos Goytacazes,Bartolomeu Lysandro
+124,IR,TBZ,TBZ,Tabriz,Tabriz International
+125,US,IFP,IFP,Bullhead City,Laughlin/Bullhead International
+126,CA,YAM,YAM,Sault Ste. Marie,Sault Ste. Marie
+127,ME,TGD,TGD,Podgorica,Podgorica
+128,MX,LTO,LTO,Loreto,Loreto International
+129,AM,LWN,LWN,Gyumri,Shirak
+130,MX,LZC,LZC,Lázaro Cárdenas,Lázaro Cárdenas
+131,JP,OBO,OBO,Obihiro,Tokachi–Obihiro
+132,CH,QLS,QLS,Lausanne,Lausanne-la Blecherette Airport
+133,VN,TBB,TBB,Tuy Hòa,Dong Tac
+134,BR,MOC,MOC,Montes Claros,Montes Claros
+135,JP,KUM,KUM,"Yakushima, Kagoshima",Yakushima
+136,GA,LBV,LBV,Libreville,Libreville International
+137,MM,NYU,NYU,Bagan,Nyaung U
+138,US,DFW,DFW,Dallas,Dallas/Fort Worth International
+139,JP,IBR,IBR,Ibaraki,Ibaraki
+140,GB,EDI,EDI,Edinburgh,Edinburgh Airport
+141,US,EWN,EWN,New Bern,Coastal Carolina Regional
+142,RU,SWV,SWV,Evensk,Severo-Evensk
+143,US,LAN,LAN,Lansing,Capital Region International
+144,CL,LOB,LOB,Los Andes,San Rafael Airport
+145,AU,PBO,PBO,Paraburdoo,Paraburdoo
+146,CA,YBC,YBC,Baie-Comeau,Baie-Comeau
+147,TH,HKT,HKT,Phuket City,Phuket International
+148,BG,PDV,PDV,Plovdiv,Plovdiv
+149,ID,SAU,SAU,Sawu-Sawu Island,Sawu Airport
+150,BR,JTC,JTC,Bauru,Bauru-Arealva
+151,NL,BON,BON,Bonaire,Flamingo International
+152,US,LIH,LIH,Kauai,Lihue
+153,RU,AER,AER,Sochi,Sochi International
+154,SE,VXO,VXO,Växjö,Växjö Småland
+155,US,ALB,ALB,Albany,Albany International
+156,ZZ,ECN,ECN,Northern Cyprus,Ercan International
+157,CR,GLF,GLF,Golfito,Golfito
+158,UZ,BHK,BHK,Bukhara,Bukhara International
+159,CA,AKV,AKV,Akulivik,Akulivik
+160,PF,TKP,TKP,Takapoto,Takapoto
+161,ET,SHC,SHC,Shire,Shire
+162,IN,BKB,BKB,Bikaner,Nal Airport
+163,SB,CHY,CHY,Choiseul Bay,Choiseul Bay
+164,KE,UAS,UAS,Samburu County,Samburu
+165,BO,SRE,SRE,Sucre,Alcantarí International Airport
+166,US,JAX,JAX,Jacksonville,Jacksonville International
+167,DE,DRS,DRS,Dresden,Dresden
+168,CN,YBP,YBP,Yibin,Yibin Caiba
+169,PA,CHX,CHX,Changuinola,Changuinola  Capitán Manuel Niño  International
+170,AU,BNK,BNK,Ballina,Ballina Byron Gateway
+171,US,EFD,HOU,Houston,Ellington
+172,US,LEB,LEB,Lebanon,Lebanon Municipal
+173,JP,NKM,NGO,Nagoya,Nagoya Airfield
+174,ID,OTI,OTI,Morotai,Leo Wattimena
+175,ID,UOL,UOL,Buol,Pogogul
+176,CO,BAQ,BAQ,Barranquilla,Ernesto Cortissoz International
+177,IN,IXP,IXP,Pathankot,Pathankot Airport
+178,CO,CLO,CLO,Cali,Alfonso Bonilla Aragón International
+179,TN,DJE,DJE,Djerba,Djerba–Zarzis International
+180,NO,SKN,SKN,Stokmarknes,"Stokmarknes Airport, Skagen"
+181,US,FWA,FWA,Fort Wayne,Fort Wayne International
+182,ES,EAS,EAS,Donostia / San Sebastián,San Sebastián
+183,AU,CNS,CNS,Cairns,Cairns
+184,IN,JLR,JLR,Jabalpur,Jabalpur
+185,TZ,DAR,DAR,Dar es Salaam,Julius Nyerere International
+186,KZ,TDK,TDK,Taldykorgan,Taldykorgan
+187,TH,BKK,BKK,Bangkok,Suvarnabhumi
+188,CL,IQQ,IQQ,Iquique,Diego Aracena International
+189,CN,LYA,LYA,Luoyang,Luoyang Beijiao
+190,US,IAG,IAG,Niagara Falls,Niagara Falls International
+191,US,GTR,UBS,Columbus,Golden Triangle Regional
+192,DE,HAJ,HAJ,Hanover,Hannover
+193,CA,YER,YER,Fort Severn First Nation,Fort Severn Airport
+194,KZ,URA,URA,Oral,Oral Ak Zhol
+195,SA,TUU,TUU,Tabuk,Tabuk Regional
+196,CN,LYI,LYI,Linyi,Linyi Shubuling
+197,US,WRG,WRG,Wrangell,Wrangell
+198,UA,DNK,DNK,Dnipro,Dnipropetrovsk International
+199,KR,CJU,CJU,Jeju City,Jeju International
+200,BL,SBH,SBH,Saint Barthélemy,Gustaf III
+201,IT,TRS,TRS,Trieste,Trieste – Friuli Venezia Giulia
+202,FJ,RTA,RTA,Rotuma,Rotuma
+203,US,BUF,BUF,Buffalo,Buffalo Niagara International
+204,MV,VAM,VAM,Maamigili,Villa International
+205,RU,VVO,VVO,Vladivostok,Vladivostok International
+206,US,BKG,BKG,Branson,Branson
+207,CO,BOG,BOG,Bogotá,El Dorado International
+208,TR,ERZ,ERZ,Erzurum,Erzurum
+209,BR,AJU,AJU,Aracaju,Santa Maria
+210,CN,WUZ,WUZ,Wuzhou,Changzhoudao Airport
+211,CA,YFS,YFS,Fort Simpson,Fort Simpson
+212,AU,CMA,CMA,Cunnamulla,Cunnamulla
+213,IN,SAG,SAG,Shirdi,Shirdi
+214,AO,VHC,VHC,Saurimo,Saurimo
+215,US,BFF,BFF,Scottsbluff,Western Nebraska Regional
+216,RU,MQJ,MQJ,Khonuu,Moma
+217,PE,AYX,AYX,Atalaya,Aeródromo Tnte. Gral. Gerardo Pérez Pinedo
+218,IN,HYD,HYD,Hyderabad,Rajiv Gandhi International
+219,NA,ERS,WDH,Windhoek,Eros
+220,ID,MOF,MOF,Maumere,Frans Xavier Seda
+221,MY,BKM,BKM,Ba kelalan,Ba kelalan
+222,MA,TTU,TTU,Tétouan,Sania Ramel
+223,ES,VGO,VGO,Vigo,Vigo–Peinador
+224,DZ,ELG,ELG,El Goléa,El Golea
+225,SB,BNY,BNY,Bellona Island,Bellona/Anua
+226,CA,YZZ,YZZ,Trail,Trail
+227,US,DTW,DTT,Detroit,Detroit Metropolitan
+228,AU,CNJ,CNJ,Cloncurry,Cloncurry
+229,AU,ISA,ISA,Mount Isa,Mount Isa
+230,VU,PBJ,PBJ,Paama,Paama
+231,BR,PIN,PIN,Parintins,Parintins
+232,FI,IVL,IVL,Ivalo,Ivalo
+233,US,DCA,WAS,"Washington, D.C.",Ronald Reagan Washington National
+234,CO,RCH,RCH,Riohacha,Almirante Padilla
+235,PE,TRU,TRU,Trujillo,FAP Captain Carlos Martínez de Pinillos International
+236,RU,SUY,SUY,Suntar,Suntar
+237,EG,ASW,ASW,Aswan,Aswan International
+238,US,MOB,MOB,Mobile,Mobile Regional
+239,IN,SLV,SLV,Shimla,Shimla
+240,VU,VLS,VLS,Valesdir,Valesdir
+241,NL,EIN,EIN,Eindhoven,Eindhoven
+242,CA,YBK,YBK,"Baker Lake, Nunavut",Baker Lake
+243,ES,AGP,AGP,Málaga,Málaga
+244,US,AVL,AVL,Asheville,Asheville Regional
+245,YE,ADE,ADE,Aden,Aden International Airport
+246,LA,LPQ,LPQ,Luang Prabang,Luang Prabang International
+247,US,EKO,EKO,Elko,Elko Regional
+248,AU,GTE,GTE,Groote Eylandt,Groote Eylandt
+249,US,IAH,HOU,Houston,George Bush Intercontinental
+250,NO,BNN,BNN,Brønnøysund,"Brønnøysund Airport, Brønnøy"
+251,MX,TIJ,TIJ,Tijuana,Tijuana International
+252,AU,DRW,DRW,Darwin,Darwin International
+253,CN,TLQ,TLQ,Turpan,Turpan Jiaohe
+254,NZ,NPE,NPE,Napier,Hawke's Bay
+255,FR,MEN,MEN,Brenoux,Mende
+256,BR,RIA,RIA,Santa Maria,Santa Maria
+257,NZ,NPL,NPL,New Plymouth,New Plymouth
+258,BW,BBK,BBK,Kasane,Kasane
+259,FJ,SUV,SUV,Suva,Nausori International
+260,BR,ATM,ATM,Altamira,Altamira
+261,FR,DZA,DZA,Mamoudzou,Dzaoudzi–Pamandzi International
+262,NZ,BHE,BHE,Blenheim,Woodbourne
+263,CN,NZH,NZH,Manzhouli,Manzhouli Xijiao
+264,NO,KKN,KKN,Kirkenes,"Kirkenes Airport, Høybuktmoen"
+265,GL,NAQ,NAQ,Qaanaaq,Qaanaaq
+266,BN,BWN,BWN,Bandar Seri Begawan,Brunei International
+267,TG,LFW,LFW,Lomé,Lomé–Tokoin International
+268,CA,XLB,XLB,"Lac Brochet, Manitoba",Lac Brochet
+269,NL,EUX,EUX,Sint Eustatius,F. D. Roosevelt
+270,TN,TUN,TUN,Tunis,Tunis–Carthage International
+271,RU,UTS,UTS,Ust-Tsilma,Ust-Tsilma
+272,TR,DLM,DLM,Dalaman,Dalaman
+273,KE,OLX,MRE,Maasai Mara,Olkiombo Airstrip
+274,CN,KJI,KJI,Burqin,Kanas
+275,BW,FRW,FRW,Francistown,Francistown
+276,MA,RBA,RBA,Rabat,Rabat–Salé
+277,FI,KAO,KAO,Kuusamo,Kuusamo
+278,MW,ZZU,ZZU,Mzuzu,Mzuzu Airport
+279,US,LSE,LSE,La Crosse,La Crosse Regional
+280,CA,WNN,WNN,Wunnumin Lake First Nation,Wunnumin Lake Airport
+281,IN,AJL,AJL,Aizawl,Lengpui
+282,US,ROW,ROW,Roswell,Roswell International Air Center
+283,US,CDB,CDB,Cold Bay,Cold Bay
+284,SA,HAS,HAS,Ha il,Ha il Regional
+285,CO,EYP,EYP,Yopal,El Alcaraván
+286,US,CDC,CDC,Cedar City,Cedar City Regional
+287,PF,MVT,MVT,Mataiva,Mataiva
+288,RU,PES,PES,Petrozavodsk,Petrozavodsk
+289,US,CYS,CYS,Cheyenne,Cheyenne Regional
+290,AR,UAQ,UAQ,San Juan,Domingo Faustino Sarmiento
+291,US,PIT,PIT,Pittsburgh,Pittsburgh International
+292,CN,OHE,OHE,Mohe County,Mohe Gulian
+293,US,BFD,BFD,Bradford,Bradford Regional
+294,VU,MTV,MTV,Mota Lava,Mota Lava
+295,KZ,KZO,KZO,Kyzylorda,Kyzylorda
+296,DO,PUJ,PUJ,Punta Cana,Punta Cana International
+297,US,STS,STS,Santa Rosa,Charles M. Schulz–Sonoma County
+298,CA,YSJ,YSJ,Saint John,Saint John
+299,IN,BOM,BOM,Mumbai,Chhatrapati Shivaji International
+300,AU,AVV,MEL,Melbourne,Avalon
+301,BJ,COO,COO,Cotonou,Cadjehoun
+302,RO,BAY,BAY,Baia Mare,Baia Mare Airport
+303,US,ONT,ONT,Ontario,Ontario International
+304,SG,SIN,SIN,Singapore,Singapore Changi
+305,IT,PSR,PSR,Pescara,Abruzzo
+306,ID,BIK,BIK,Biak,Frans Kaisiepo International
+307,CN,HZG,HZG,Hanzhong,Hanzhong Xiguan
+308,DO,STI,STI,Santiago de los Caballeros,Cibao International
+309,MW,LLW,LLW,Lilongwe,Lilongwe International
+310,IT,MXP,MIL,Milan,Milan–Malpensa
+311,SB,PRS,PRS,Parasi,Parasi Airport
+312,NG,CBQ,CBQ,Calabar,Margaret Ekpo International
+313,NI,ECI,ECI,Rivas,Costa Esmeralda
+314,CV,SNE,SNE,São Nicolau,Preguiça
+315,NG,KAD,KAD,Kaduna,Kaduna International
+316,CA,YBT,YBT,"Brochet, Manitoba",Brochet
+317,US,OAJ,OAJ,Jacksonville,Albert J. Ellis
+318,CN,BPX,BPX,"Chengguan, Chamdo",Qamdo Bamda
+319,IN,DIU,DIU,Diu,Diu
+320,MX,GDL,GDL,Guadalajara,Guadalajara International
+321,IE,KIR,KIR,County Kerry,Kerry
+322,CK,AIT,AIT,Aitutaki,Aitutaki
+323,CO,EJA,EJA,Barrancabermeja,Yariguíes
+324,CN,AHJ,AHJ,Aba Hongyuan,Aba/Hongyuan
+325,AU,HBA,HBA,Hobart,Hobart International
+326,US,HDN,HDN,Hayden,Yampa Valley
+327,BR,BRA,BRA,Barreiras,Barreiras
+328,FR,MPL,MPL,Montpellier,Montpellier–Méditerranée
+329,ID,DJJ,DJJ,Jayapura,Sentani International
+330,CA,YQG,YQG,Windsor,Windsor International
+331,GB,BRR,BRR,Barra,Barra
+332,AZ,GYD,BAK,Baku,Heydar Aliyev International
+333,DZ,TIN,TIN,Tindouf,Tindouf
+334,CN,GYU,GYU,Guyuan County,Guyuan Liupanshan
+335,GB,GLA,GLA,Glasgow,Glasgow
+336,CD,BKY,BKY,Bukavu,Kavumu
+337,US,DSM,DSM,Des Moines,Des Moines International
+338,ID,MJU,MJU,Mamuju Regency,Tampa Padang
+339,JM,KTP,KTP,Tinson Pen,Tinson Pen Airport
+340,CA,YQD,YQD,The Pas,The Pas
+341,FI,VAA,VAA,Vaasa,Vaasa
+342,CN,YIC,YIC,"Yichun, Jiangxi",Yichun Mingyueshan
+343,FI,KEM,KEM,Kemi,Kemi-Tornio
+344,CA,YBL,YBL,Campbell River,Campbell River
+345,NO,MQN,MQN,Mo i Rana,"Mo i Rana Airport, Røssvoll"
+346,PG,HGU,HGU,Mount Hagen,Mount Hagen
+347,CA,YHD,YHD,Dryden,Dryden Regional
+348,US,PEC,PEC,Pelican,Pelican Sea Plane Base
+349,BR,CGH,SAO,São Paulo,São Paulo–Congonhas
+350,JP,YGJ,YGJ,Yonago,Miho-Yonago
+351,GB,BOH,BOH,Bournemouth,Bournemouth
+352,PF,KKR,KKR,Kaukura,Kaukura
+353,US,BMI,BMI,Bloomington,Central Illinois Regional
+354,ID,PKY,PKY,Palangka Raya,Tjilik Riwut
+355,FR,PGF,PGF,Perpignan,Perpignan–Rivesaltes
+356,CA,YTS,YTS,Timmins,Timmins/Victor M. Power
+357,CK,RAR,RAR,Rarotonga,Rarotonga International
+358,US,PVD,PVD,Providence,T. F. Green
+359,IE,DUB,DUB,Dublin,Dublin
+360,DO,SDQ,SDQ,Santo Domingo,Las Américas International
+361,JP,IKI,IKI,Iki,Iki
+362,RU,DME,MOW,Moscow,Domodedovo International
+363,EC,OCC,OCC,Puerto Francisco de Orellana,Francisco de Orellana
+364,CL,LSC,LSC,La Serena,La Florida
+365,FR,PTP,PTP,Pointe-à-Pitre,Pointe-à-Pitre International
+366,MR,OUZ,OUZ,Zouérat,Tazadit
+367,BR,LDB,LDB,Londrina,Londrina
+368,JP,KCZ,KCZ,Kochi,Kōchi
+369,CA,YIF,YIF,"Saint-Augustin, Côte-Nord, Quebec",Saint-Augustin
+370,KM,HAH,YVA,Moroni,Prince Said Ibrahim International
+371,ID,LKA,LKA,Larantuka,Gewayantana
+372,BR,CFO,CFO,Confresa,Confresa Airport
+373,ZZ,IXL,IXL,Leh,Kushok Bakula Rimpochee
+374,AR,EZE,BUE,Buenos Aires,Ministro Pistarini International
+375,LA,PKZ,PKZ,Pakse,Pakse International
+376,NO,BOO,BOO,Bodø,Bodø
+377,CL,ANF,ANF,Antofagasta,Andrés Sabella Gálvez International
+378,PH,CRM,CRM,"Catarman, Northern Samar",Catarman National
+379,BS,IGA,IGA,Inagua,Inagua
+380,CA,YWB,YWB,Kangiqsujuaq,Kangiqsujuaq (Wakeham Bay)
+381,CR,XQP,XQP,Quepos,Quepos La Managua
+382,AU,ELC,ELC,Elcho Island,Elcho Island
+383,RU,EKS,EKS,Shakhtyorsk,Shakhtersk
+384,US,XWA,ISN,Williston,Williston Basin International Airport
+385,ES,XRY,XRY,Jerez de la Frontera,Jerez
+386,US,PSG,PSG,Petersburg,Petersburg James A. Johnson
+387,TH,KOP,KOP,Nakhon Phanom Province,Nakhon Phanom
+388,ET,AXU,AXU,Axum,Axum
+389,SE,AJR,AJR,Arvidsjaur,Arvidsjaur
+390,CA,YMM,YMM,Fort McMurray,Fort McMurray International
+391,US,GGW,GGW,Glasgow,Glasgow
+392,CA,YZG,YSW,Salluit,Salluit
+393,CA,YZS,YZS,Coral Harbour,Coral Harbour
+394,NO,MJF,MJF,Mosjøen,"Mosjøen Airport, Kjærstad"
+395,KR,CJJ,CJJ,Cheongju,Cheongju International
+396,AU,BCI,BCI,Barcaldine,Barcaldine
+397,RU,BTK,BTK,Bratsk,Bratsk
+398,RU,BQS,BQS,Blagoveshchensk,Ignatyevo
+399,KZ,KSN,KSN,Kostanay,Kostanay
+400,PF,KHZ,KHZ,Kauehi,Kauehi
+401,US,CMI,CMI,Champaign,University of Illinois Willard
+402,US,FAR,FAR,Fargo,Hector International
+403,RU,DPT,DPT,"Deputatsky, Sakha Republic",Deputatsky
+404,CA,YGL,YGL,La Grande River,La Grande Rivière
+405,ID,KSR,KSR,Selayar Regency,Haji Aroeppala
+406,US,BDL,HFD,Hartford,Bradley International
+407,US,FCA,FCA,Kalispell,Glacier Park International
+408,ID,SMQ,SMQ,Sampit,H. Asan
+409,MM,RGN,RGN,Yangon,Yangon International
+410,CA,YUL,YMQ,Montreal,Montréal–Pierre Elliott Trudeau International
+411,CA,YCD,YCD,Nanaimo,Nanaimo
+412,LT,VNO,VNO,Vilnius,Vilnius
+413,GB,ABZ,ABZ,Aberdeen,Aberdeen
+414,NZ,TUO,TUO,Taupo,Taupo
+415,IN,VDY,VDY,Vidyanagar,Vidyanagar
+416,PT,HOR,HOR,"Horta, Azores",Horta
+417,BR,POA,POA,Porto Alegre,Salgado Filho International
+418,AU,CTN,CTN,Cooktown,Cooktown
+419,MX,NLD,NLD,Nuevo Laredo,Nuevo Laredo International
+420,US,ART,ART,Watertown,Watertown International
+421,PF,FAV,FAV,Fakarava,Fakarava
+422,US,LBL,LBL,Liberal,Liberal Mid-America Regional
+423,US,CMX,CMX,Hancock,Houghton County Memorial
+424,CL,CJC,CJC,Calama,El Loa
+425,US,TOL,TOL,Toledo,Toledo Express
+426,AU,LEA,LEA,Exmouth,RAAF Base Learmonth
+427,SA,RUH,RUH,Riyadh,King Khalid International
+428,TR,DNZ,DNZ,Denizli,Denizli Çardak
+429,AR,VDM,VDM,Viedma,Gobernador Edgardo Castello
+430,MX,CME,CME,Ciudad del Carmen,Ciudad del Carmen International
+431,RU,USK,USK,Usinsk,Usinsk
+432,GR,JMK,JMK,Mykonos,Mykonos Island National
+433,NZ,PCN,PCN,Picton,Picton Aerodrome
+434,HU,QGY,QGY,Gyor,Gyor-Per International Airport
+435,AW,AUA,AUA,Aruba,Queen Beatrix International
+436,ID,RTG,RTG,Ruteng,Frans Sales Lega
+437,ES,VLC,VLC,Valencia,Valencia
+438,FM,PNI,PNI,Pohnpei,Pohnpei International
+439,CN,TCG,TCG,Tacheng Prefecture,Tacheng
+440,TW,TSA,TPE,Taipei,Taipei Songshan
+441,BR,PFB,PFB,Passo Fundo,Lauro Kurtz
+442,CN,CIH,CIH,Changzhi,Changzhi Wangcun
+443,AU,CAZ,CAZ,Cobar,Cobar
+444,PH,CGM,CGM,Camiguin,Camiguin
+445,AU,IVR,IVR,Inverell,Inverell
+446,SE,GOT,GOT,Gothenburg,Göteborg Landvetter
+447,IR,IKA,THR,Tehran,Tehran Imam Khomeini International
+448,GL,KUZ,KUZ,Kuummiit,Kuummiut Heliport
+449,MY,LBP,LBP,Long Banga,Long Banga
+450,IN,PGH,PGH,Pantnagar,Pantnagar
+451,BA,TZL,TZL,Tuzla,Tuzla International
+452,JM,OCJ,OCJ,Ocho Rios,Boscobel Aerodrome
+453,GR,JSI,JSI,Skiathos,Skiathos Island National
+454,CN,LDS,LDS,"Yichun, Heilongjiang",Yichun Lindu
+455,US,CIU,SSM,Sault Sainte Marie,Chippewa County International
+456,VE,VLN,VLN,Valencia,Arturo Michelena International
+457,US,SYR,SYR,Syracuse,Syracuse Hancock International
+458,PL,KTW,KTW,Katowice,Katowice International
+459,DZ,TID,TID,Tiaret,Abdelhafid Boussouf Bou Chekif
+460,VN,VCA,VCA,Can Tho,Can Tho International
+461,SE,OSD,OSD,Östersund,Åre Östersund
+462,RU,NYM,NYM,Nadym,Nadym
+463,PT,VRL,VRL,Vila Real,Vila Real
+464,TH,CEI,CEI,Chiang Rai Province,Chiang Rai International
+465,IN,BLR,BLR,Bengaluru,Bengaluru International
+466,PG,MAG,MAG,Madang,Madang
+467,BS,ELH,ELH,North Eleuthera,North Eleuthera
+468,CN,KHN,KHN,Nanchang,Nanchang Changbei International
+469,PF,RUR,RUR,Rurutu,Rurutu
+470,MM,MDL,MDL,Mandalay,Mandalay International
+471,FM,TKK,TKK,Chuuk State,Chuuk International
+472,US,BTM,BTM,Butte,Bert Mooney
+473,RO,TSR,TSR,Timișoara,Timișoara Traian Vuia International
+474,KZ,PPK,PPK,Petropavl,Petropavl
+475,ID,DEX,DEX,Yahukimo Regency,Nop Goliat Dekai
+476,RU,KRR,KRR,Krasnodar,Krasnodar International
+477,DZ,OGX,OGX,Ouargla,Ain Beida
+478,BS,TCB,TCB,Treasure Cay,Treasure Cay
+479,SE,HAD,HAD,Halmstad,Halmstad
+480,DZ,AAE,AAE,Annaba,Rabah Bitat
+481,AU,KNX,KNX,Kununurra,East Kimberley Regional
+482,TR,ESB,ANK,Ankara,Esenboğa International
+483,AU,PPP,PPP,Proserpine,Whitsunday Coast
+484,PG,LAE,LAE,Lae,Lae Nadzab
+485,UA,KHE,KHE,Kherson,Kherson International
+486,CN,JUH,JUH,Chizhou,Chizhou Jiuhuashan
+487,US,IAN,IAN,Kiana,Bob Baker Memorial
+488,BS,MYG,MYG,Mayaguana,Mayaguana
+489,GB,LDY,LDY,Derry,City of Derry
+490,AR,NQN,NQN,Neuquén,Presidente Perón International
+491,MX,TAP,TAP,Tapachula,Tapachula International
+492,PL,WRO,WRO,Wrocław,Copernicus Airport Wrocław
+493,UZ,TAS,TAS,Tashkent,Tashkent International
+494,UZ,NMA,NMA,Namangan,Namangan
+495,JP,HSG,HSG,Saga,Saga
+496,MY,LMN,LMN,Limbang,Limbang
+497,PE,JAU,JAU,Jauja,Francisco Carle
+498,RU,VKT,VKT,Vorkuta,Vorkuta
+499,AU,CED,CED,Ceduna,Ceduna
+500,FR,DOL,DOL,Deauville,Deauville – Normandie
+501,TZ,SGX,SGX,Songea,Songea
+502,CN,HAK,HAK,Haikou,Haikou Meilan International
+503,CN,NBS,NBS,Baishan,Changbaishan
+504,AU,SBR,SBR,Saibai Island,Saibai Island
+505,US,CHA,CHA,Chattanooga,Chattanooga Metropolitan
+506,US,BLV,BLV,Belleville,MidAmerica St. Louis
+507,US,RKD,RKD,Rockland,Knox County Regional
+508,CN,YUS,YUS,"Yushu City, Qinghai",Yushu Batang
+509,GB,SOU,SOU,Southampton,Southampton
+510,KE,MRE,MRE,Maasai Mara,Mara Serena
+511,PT,OPO,OPO,Porto,Porto
+512,TN,NBE,NBE,Enfidha,Enfidha–Hammamet International
+513,VU,FTA,FTA,Futuna Island,Futuna
+514,FR,TLN,TLN,Toulon,Toulon–Hyères
+515,CN,XIC,XIC,Xichang,Xichang Qingshan
+516,CA,YRG,YRG,Rigolet,Rigolet
+517,ET,GDQ,GDQ,Gondar,Gondar
+518,PL,SZZ,SZZ,Szczecin,Solidarity Szczecin–Goleniów
+519,BR,FLN,FLN,Florianópolis,Hercílio Luz International
+520,JP,HNA,HNA,Hanamaki,Hanamaki
+521,IT,NAP,NAP,Naples,Naples International
+522,CN,NGB,NGB,Ningbo,Ningbo Lishe International
+523,US,MVY,MVY,Martha's Vineyard,Martha's Vineyard
+524,US,JST,JST,Johnstown,Johnstown–Cambria County
+525,DE,RLG,RLG,Rostock,Rostock–Laage
+526,UA,NLV,NLV,Nikolayev,Mykolaiv International Airport
+527,NP,JMO,JMO,Jomsom,Jomsom
+528,BE,BRU,BRU,Brussels,Brussels
+529,PE,HUU,HUU,Huánuco,Alférez FAP David Figueroa Fernandini
+530,NA,OMD,OMD,Oranjemund,Oranjemund
+531,ID,TLI,TLI,Tolitoli,Sultan Bantilan
+532,RU,ITU,ITU,Iturup,Iturup
+533,DE,HAM,HAM,Hamburg,Hamburg
+534,ID,UPG,UPG,Makassar,Sultan Hasanuddin International
+535,RU,CKH,CKH,Chokurdakh,Chokurdakh
+536,JP,AXT,AXT,Akita,Akita
+537,FI,KUO,KUO,Kuopio,Kuopio
+538,ES,BIO,BIO,Bilbao,Bilbao
+539,US,CVG,CVG,Cincinnati,Cincinnati/Northern Kentucky International
+540,SA,DMM,DMM,Dammam,King Fahd International
+541,AU,MGB,MGB,Mount Gambier,Mount Gambier
+542,DO,LRM,LRM,La Romana,La Romana International
+543,PT,SJZ,SJZ,São Jorge Island,Sao Jorge
+544,MX,QRO,QRO,Santiago de Querétaro,Querétaro International
+545,ST,TMS,TMS,São Tomé,São Tomé International
+546,PK,RYK,RYK,Rahim Yar Khan,Shaikh Zayed International
+547,VN,HPH,HPH,Haiphong,Cat Bi International
+548,IM,IOM,IOM,Douglas,Isle of Man
+549,BG,VAR,VAR,Varna,Varna
+550,MX,LMM,LMM,Los Mochis,Los Mochis International
+551,US,ACY,AIY,Atlantic City,Atlantic City International
+552,PK,PEW,PEW,Peshawar,Bacha Khan International
+553,VN,BMV,BMV,Buon Ma Thuot,Buon Ma Thuot
+554,MR,NDB,NDB,Nouadhibou,Nouadhibou International
+555,PE,CIX,CIX,Chiclayo,FAP Captain José Abelardo Quiñones Gonzáles International
+556,IT,PSA,PSA,Pisa,Pisa International
+557,JP,NTQ,NTQ,Wajima,Noto
+558,US,DBQ,DBQ,Dubuque,Dubuque Regional
+559,IN,KQH,KQH,Kishangarh,Kishangarh Airport
+560,NO,HVG,HVG,Honningsvåg,"Honningsvåg Airport, Valan"
+561,US,IND,IND,Indianapolis,Indianapolis International
+562,JP,AKJ,AKJ,Asahikawa,Asahikawa
+563,AU,IRG,IRG,Lockhart River,Lockhart River
+564,EC,GPS,GPS,Baltra Island,Seymour
+565,US,HNH,HNH,Hoonah,Hoonah
+566,BR,URG,URG,Uruguaiana,Ruben Berta International
+567,CN,SHA,SHA,Shanghai,Shanghai Hongqiao International
+568,MX,CSL,CSL,Cabo San Lucas,Cabo San Lucas International Airport
+569,KE,NBO,NBO,Nairobi,Jomo Kenyatta International
+570,CN,IQN,IQN,Qingyang,Qingyang
+571,PT,BGC,BGC,Bragança,Braganca
+572,US,TUP,TUP,Tupelo,Tupelo Regional
+573,RU,SVX,SVX,Yekaterinburg,Koltsovo
+574,FI,HEL,HEL,Helsinki,Helsinki
+575,NP,LUA,LUA,Lukla,Tenzing–Hillary
+576,GL,UPK,JUV,Upernavik,Upernavik Kujalleq Heliport
+577,TR,TEQ,TEQ,Tekirdağ,Tekirdağ Çorlu
+578,US,ACV,ACV,Arcata,Arcata–Eureka
+579,ER,ASM,ASM,Asmara,Asmara International
+580,BR,GVR,GVR,Governador Valadares,Governador Valadares
+581,ET,DIR,DIR,Dire Dawa,Aba Tenna Dejazmach Yilma International
+582,US,BOS,BOS,Boston,Logan International
+583,US,XNA,FYV,Fayetteville,Northwest Arkansas Regional
+584,CA,YVR,YVR,Vancouver,Vancouver International
+585,ZA,KIM,KIM,"Kimberley, Northern Cape",Kimberley
+586,CA,ZLT,ZLT,"La Tabatière, Quebec",La Tabatière
+587,US,OTZ,OTZ,Kotzebue,Ralph Wien Memorial
+588,TO,VAV,VAV,Vavaʻu,Vavaʻu International
+589,KE,KTJ,MRE,Maasai Mara,Kichwa Tembo Airstrip
+590,US,FAI,FAI,Fairbanks,Fairbanks International
+591,RU,URJ,URJ,Uray,Uray
+592,IT,BGY,MIL,Milan,Milan Bergamo International Airport
+593,GR,JKH,JKH,Chios,Chios Island National
+594,AF,BST,BST,Lashkargah,Bost
+595,ID,PKN,PKN,Pangkalan Bun,Iskandar
+596,EG,HBE,ALY,Alexandria,Borg El Arab
+597,CM,DLA,DLA,Douala,Douala International
+598,ET,MQX,MQX,Mek ele,Alula Aba Nega
+599,AU,MKY,MKY,Mackay,Mackay
+600,BR,BVH,BVH,Vilhena,Vilhena
+601,LK,CMB,CMB,Colombo,Bandaranaike International
+602,PH,SUG,SUG,Surigao City,Surigao
+603,JM,NEG,NEG,Negril,Negril Airport
+604,NO,HFT,HFT,Hammerfest,Hammerfest
+605,IN,DED,DED,Dehradun,Dehradun
+606,CA,YXY,YXY,Whitehorse,Erik Nielsen Whitehorse International
+607,SL,FNA,FNA,Freetown,Lungi International
+608,CA,YTH,YTH,Thompson,Thompson
+609,NZ,DUD,DUD,Dunedin,Dunedin
+610,ZM,NLA,NLA,Ndola,Simon Mwansa Kapwepwe International
+611,KE,EDL,EDL,Eldoret,Eldoret International
+612,US,HRO,HRO,Harrison,Boone County
+613,ES,LEN,LEN,León,León
+614,AU,BVI,BVI,Birdsville,Birdsville
+615,DZ,INZ,INZ,In Salah,In Salah
+616,KY,LYB,LYB,Little Cayman,Edward Bodden Airfield
+617,CA,YHK,YHK,Gjoa Haven,Gjoa Haven
+618,CN,XIL,XIL,Xilinhot,Xilinhot
+619,RU,BZK,BZK,Bryansk,Bryansk International
+620,US,PQI,PQI,Presque Isle,Northern Maine Regional Airport at Presque Isle
+621,MG,TLE,TLE,Toliara,Toliara
+622,IE,NOC,NOC,"Knock, County Mayo",Ireland West Airport Knock
+623,US,SPI,SPI,Springfield,Abraham Lincoln Capital
+624,PE,JAE,JAE,Jaén,Jaén
+625,DE,TXL,BER,Berlin,Berlin Tegel
+626,VG,VIJ,VIJ,Virgin Gorda,Virgin Gorda
+627,UA,HRK,HRK,Kharkiv,Kharkiv International
+628,GW,OXB,OXB,Bissau,Osvaldo Vieira International
+629,ID,TKG,TKG,Bandar Lampung,Radin Inten II International
+630,TH,PHS,PHS,Phitsanulok,Phitsanulok
+631,US,ELM,ELM,Elmira,Elmira/Corning Regional
+632,MX,MZT,MZT,Mazatlán,Mazatlán International
+633,GQ,BSG,BSG,Bata,Bata
+634,CN,YIE,YIE,Arxan,Arxan Yi'ershi
+635,IL,HFA,HFA,Haifa,Haifa
+636,IT,BDS,BDS,Brindisi,Brindisi
+637,US,SCK,SCK,Stockton,Stockton Metropolitan
+638,NO,ANX,ANX,Andenes,Andøya
+639,IS,AEY,AEY,Akureyri,Akureyri
+640,CN,SQD,SQD,Shangrao,Shangrao Sanqingshan
+641,AU,ABM,ABM,Bamaga,Northern Peninsula
+642,ID,GNS,GNS,Gunungsitoli,Binaka
+643,JP,TOY,TOY,Toyama,Toyama
+644,ES,LCG,LCG,A Coruña,A Coruña
+645,BR,ARU,ARU,Araçatuba,Araçatuba
+646,AU,PER,PER,Perth,Perth
+647,IN,IXB,IXB,Bagdogra,Bagdogra
+648,MZ,POL,POL,Pemba,Pemba
+649,EG,LXR,LXR,Luxor,Luxor International
+650,US,HNS,HNS,Haines,Haines
+651,CA,YDF,YDF,Deer Lake,Deer Lake Regional
+652,PF,AUQ,AUQ,Hiva Oa,Atuona
+653,US,HOT,HOT,Hot Springs,Memorial Field
+654,CN,CSX,CSX,Changsha,Changsha Huanghua International
+655,NZ,WRE,WRE,Whangarei,Whangarei
+656,KI,CXI,CXI,Kiritimati,Cassidy International
+657,AU,MYI,MYI,Murray Island,Murray Island
+658,CA,YVB,YVB,Bonaventure,Bonaventure
+659,GB,CAL,CAL,Campbeltown,Campbeltown
+660,AU,HID,HID,Horn Island,Horn Island
+661,RS,INI,INI,Niš,Niš Constantine the Great
+662,MX,PVR,PVR,Puerto Vallarta,Licenciado Gustavo Díaz Ordaz International
+663,CA,YLW,YLW,Kelowna,Kelowna International
+664,CN,YSQ,YSQ,Songyuan,Songyuan Chaganhu
+665,HR,ZAG,ZAG,Zagreb,Zagreb
+666,MX,CZM,CZM,Cozumel,Cozumel International
+667,DE,FMM,FMM,Memmingen,Memmingen
+668,NO,OSL,OSL,Oslo,"Oslo Airport, Gardermoen"
+669,CN,TEN,TEN,Tongren,Tongren Fenghuang
+670,PA,DAV,DAV,"David, Chiriquí",Enrique Malek International
+671,GB,CWL,CWL,Cardiff,Cardiff
+672,US,MHK,MHK,Manhattan,Manhattan Regional
+673,RU,IRM,IRM,Igrim,Igrim
+674,PT,FLW,FLW,Flores Island,Flores
+675,JP,UKB,UKB,Kobe,Kobe
+676,CN,JNZ,JNZ,Jinzhou,Jinzhou Xiaolingzi
+677,CN,KMG,KMG,Kunming,Kunming Changshui International
+678,CA,YYR,YYR,Happy Valley-Goose Bay,CFB Goose Bay
+679,BR,THE,THE,Teresina,Senador Petronio Portella
+680,ZM,RYL,RYL,Lower Zambezi National Park,Lower Zambezi Nat.Park Royal
+681,IT,VCE,VCE,Venice,Venice Marco Polo
+682,BR,SJP,SJP,São José do Rio Preto,São José do Rio Preto
+683,MA,RAK,RAK,Marrakesh,Marrakesh Menara
+684,US,ALO,ALO,Waterloo,Waterloo Regional
+685,SE,UME,UME,Umeå,Umeå
+686,US,BBX,PHL,Philadelphia,Wings Field
+687,DZ,ORN,ORN,Oran,Oran Es Sénia
+688,FR,FSC,FSC,Figari,Figari–Sud Corse
+689,ES,MAH,MAH,Menorca,Menorca
+690,PH,TUG,TUG,Tuguegarao,Tuguegarao
+691,ID,RJM,RJM,Waisai,Waisai Marinda
+692,PH,MBT,MBT,Masbate City,Moises R. Espinosa
+693,CA,YPW,YPW,"Powell River, British Columbia",Powell River
+694,JP,SHB,SHB,Nakashibetsu,Nakashibetsu
+695,UG,EBB,EBB,Entebbe,Entebbe International
+696,IN,BDQ,BDQ,Vadodara,Vadodara
+697,CA,YBB,YBB,Kugaaruk,Kugaaruk
+698,LT,PLQ,PLQ,Palanga,Palanga International
+699,CV,BVC,BVC,Boa Vista,Aristides Pereira International
+700,MG,TMM,TMM,Toamasina,Toamasina
+701,AU,CFS,CFS,Coffs Harbour,Coffs Harbour
+702,RU,CYX,CYX,Chersky,Chersky
+703,KR,YNY,YNY,Yangyang County,Yangyang International
+704,US,OMA,OMA,Omaha,Eppley Airfield
+705,US,TVF,TVF,Thief River Falls,Thief River Falls Regional
+706,TH,UTH,UTH,Udon Thani,Udon Thani International
+707,PL,WMI,WAW,Warsaw,Warsaw Modlin
+708,CA,YOC,YOC,"Old Crow, Yukon",Old Crow
+709,US,DAL,DFW,Dallas,Dallas Love Field
+710,US,ROA,ROA,Roanoke,Roanoke–Blacksburg Regional
+711,GT,GUA,GUA,Guatemala City,La Aurora International
+712,BR,STM,STM,Santarém,Santarém-Maestro Wilson Fonseca
+713,NO,AES,AES,Ålesund,"Ålesund Airport, Vigra"
+714,ID,DPS,DPS,Denpasar,Ngurah Rai International
+715,US,HNL,HNL,Honolulu,Daniel K. Inouye International
+716,US,LKE,SEA,Seattle,Kenmore Air Harbor Seaplane Base
+717,US,BRD,BRD,Brainerd,Brainerd Lakes Regional
+718,AX,MHQ,MHQ,Mariehamn,Mariehamn
+719,TH,UBP,UBP,Ubon Ratchathani Province,Ubon Ratchathani
+720,GL,JEG,JEG,Aasiaat,Aasiaat
+721,ID,NTX,NTX,Natuna,Ranai
+722,DZ,TEE,TEE,Tébessa,Cheikh Larbi Tebessi
+723,US,SDY,SDY,Sidney,Sidney–Richland Municipal
+724,AO,SPP,SPP,Menongue,Menongue
+725,SE,AGH,AGH,Ängelholm,Ängelholm–Helsingborg
+726,DE,DUS,DUS,Düsseldorf,Düsseldorf International Airport
+727,AU,OOM,OOM,Cooma,Cooma–Snowy Mountains
+728,NU,IUE,IUE,Alofi,Niue International
+729,AU,ZNE,ZNE,Newman,Newman
+730,MY,MKZ,MKZ,Malacca City,Malacca International
+731,VN,DIN,DIN,Điện Biên Phủ,Dien Bien Phu
+732,BR,BYO,BYO,Bonito,Bonito
+733,US,PIB,LUL,Laurel,Hattiesburg–Laurel Regional
+734,DZ,AZR,AZR,Adrar,Touat-Cheikh Sidi Mohamed Belkebir
+735,TR,BJV,BJV,Bodrum,Milas–Bodrum
+736,IN,IXG,IXG,Belgaum,Belgaum
+737,TW,TPE,TPE,Taipei,Taiwan Taoyuan International
+738,CR,TTQ,TTQ,Tortuguero,Tortuguero
+739,US,SMX,SMX,Santa Maria,Santa Maria Public
+740,ET,GMB,GMB,Gambela,Gambela
+741,CN,CHG,CHG,"Chaoyang, Liaoning",Chaoyang
+742,US,SJC,SJC,San Jose,San Jose International
+743,PF,TUB,TUB,Tubuai,Tubuai – Mataura
+744,ZZ,VIL,VIL,Dakhla,Dakhla
+745,CA,YYG,YYG,Charlottetown,Charlottetown
+746,SE,SCR,SCR,Rörbäcksnäs,Scandinavian Mountains Airport
+747,VN,VII,VII,Vinh,Vinh International
+748,NO,MEH,MEH,Mehamn,Mehamn
+749,CD,GOM,GOM,Goma,Goma International
+750,CN,XAI,XAI,Xinyang,Xinyang Minggang Airport
+751,CA,YKA,YKA,Kamloops,Kamloops
+752,TR,MQM,MQM,Mardin,Mardin
+753,MX,ACA,ACA,Acapulco,Acapulco International
+754,AO,SDD,SDD,Lubango,Lubango
+755,UZ,NCU,NCU,Nukus,Nukus
+756,SB,FRE,FRE,Fera Island,Fera
+757,LA,LXG,LXG,Luang Namtha,Louang Namtha
+758,US,ISP,ISP,Islip,Long Island MacArthur
+759,RU,DLR,DLR,Dalnerechensk,Dalnerechensk
+760,US,HHR,HHR,Hawthorne,Hawthorne Municipal
+761,NA,OND,OND,Ondangwa,Ondangwa Airport
+762,JP,KKJ,KKJ,Kitakyushu,Kitakyushu
+763,CN,HGH,HGH,Hangzhou,Hangzhou Xiaoshan International
+764,BD,RJH,RJH,Rajshahi,Shah Makhdum
+765,RU,TLY,TLY,Plastun,Plastun
+766,KZ,UKK,UKK,Oskemen,Oskemen
+767,ZM,LUN,LUN,Lusaka,Kenneth Kaunda International
+768,CY,PFO,PFO,Paphos,Paphos International
+769,RU,KJA,KJA,Krasnoyarsk,Yemelyanovo International
+770,CN,BPL,BPL,Bole,Bole Alashankou
+771,IN,TCR,TCR,Thoothukudi,Tuticorin
+772,CL,ZCO,ZCO,Temuco,La Araucanía International
+773,PE,ANS,ANS,Andahuaylas,Andahuaylas
+774,CN,NLH,NLH,Ninglang,Ninglang Luguhu
+775,CA,YNE,YNE,Norway House,Norway House
+776,CN,PEK,BJS,Beijing,Beijing Capital International
+777,CD,KGA,KGA,Kananga,Kananga
+778,AR,CTC,CTC,San Fernando del Valle de Catamarca,Coronel Felipe Varela International
+779,KZ,SCO,SCO,Aktau,Aktau
+780,ID,MLG,MLG,Malang,Abdul Rachman Saleh
+781,CN,WMT,ZYI,Zunyi,Zunyi Maotai Airport
+782,NZ,ZQN,ZQN,Queenstown,Queenstown
+783,IN,GOI,GOI,Goa,Goa International
+784,US,RAP,RAP,Rapid City,Rapid City Regional
+785,CN,TSN,TSN,Tianjin,Tianjin Binhai International
+786,ID,JBB,JBB,Jember Regency,Notohadinegoro
+787,ZA,PLZ,PLZ,Port Elizabeth,Port Elizabeth
+788,BO,TDD,TDD,Trinidad,Teniente Jorge Henrich Arauz
+789,BR,CGB,CGB,Cuiabá,Marechal Rondon International
+790,CN,CAN,CAN,Guangzhou,Guangzhou Baiyun International
+791,HU,DEB,DEB,Debrecen,Debrecen International
+792,BA,BNX,BNX,Banja Luka,Banja Luka International
+793,CG,BZV,BZV,Brazzaville,Maya-Maya
+794,PG,PNP,PNP,Popondetta,Girua
+795,CA,YGT,YGT,Igloolik,Igloolik
+796,BZ,BZE,BZE,Belize City,Philip S. W. Goldson International
+797,IT,REG,REG,Reggio Calabria,Reggio Calabria
+798,GB,STN,LON,London,London Stansted
+799,GH,TKD,TKD,Sekondi-Takoradi,Takoradi
+800,BR,MCP,MCP,Macapá,Macapá International
+801,IT,BLQ,BLQ,Bologna,Bologna Guglielmo Marconi
+802,BF,OUA,OUA,Ouagadougou,Ouagadougou
+803,KE,MYD,MYD,Malindi,Malindi
+804,CL,BBA,BBA,Balmaceda,Balmaceda
+805,CO,SMR,SMR,Santa Marta,Simón Bolívar International
+806,CA,YDQ,YDQ,Dawson Creek,Dawson Creek
+807,KZ,GUW,GUW,Atyrau,Atyrau
+808,JP,MBE,MBE,Monbetsu,Monbetsu
+809,AO,CBT,CBT,Catumbela,Catumbela
+810,SB,IRA,IRA,Kirakira,Kirakira
+811,PH,CRK,CRK,Angeles,Clark International
+812,GB,DND,DND,Dundee,Dundee
+813,RU,KGD,KGD,Kaliningrad,Khrabrovo
+814,DZ,CZL,CZL,Constantine,Mohamed Boudiaf International
+815,CN,LPF,LPF,Liupanshui,Liupanshui Yuezhao
+816,KZ,KGF,KGF,Karaganda,Sary-Arka
+817,PG,WBM,WBM,Wapenamanda District,Wapenamanda
+818,CA,YYZ,YTO,Toronto,Toronto Pearson International
+819,ET,AWA,AWA,Awasa,Awasa
+820,NZ,ROT,ROT,Rotorua,Rotorua Regional
+821,RU,AAQ,AAQ,Anapa,Anapa
+822,PF,MAU,MAU,Maupiti,Maupiti
+823,US,LAS,LAS,Las Vegas,McCarran International
+824,CA,ZTB,ZTB,"Tête-à-la-Baleine, Quebec",Tête-à-la-Baleine
+825,US,UIN,UIN,Quincy,Quincy Regional
+826,US,SJT,SJT,San Angelo,San Angelo Regional
+827,IN,DIB,DIB,Dibrugarh,Dibrugarh
+828,BR,CXJ,CXJ,Caxias do Sul,Campo dos Bugres
+829,FI,OUL,OUL,Oulu,Oulu
+830,IN,LUH,LUH,Ludhiana,Sahnewal
+831,BZ,INB,INB,Independence and Mango Creek,Independence
+832,PG,VAI,VAI,Vanimo,Vanimo
+833,CN,JHG,JHG,Jinghong,Xishuangbanna Gasa
+834,US,GFK,GFK,Grand Forks,Grand Forks International
+835,US,VCT,VCT,Victoria,Victoria Regional
+836,AU,KGC,KGC,Kingscote,Kingscote
+837,SB,KGE,KGE,Kaghau Island,Kaghau
+838,AU,BHS,BHS,Bathurst,Bathurst
+839,ZA,UTT,UTT,Mthatha,Mthatha
+840,ES,GMZ,GMZ,San Sebastián de La Gomera,La Gomera
+841,TZ,GTZ,GTZ,Grumeti Game Reserve,Grumeti Kirawira B
+842,OM,DQM,DQM,Duqm,Duqm Jaaluni
+843,PF,NHV,NHV,Nuku Hiva,Nuku Hiva
+844,CA,YTQ,YTQ,Tasiujaq,Tasiujaq
+845,RU,KVX,KVX,Kirov,Pobedilovo
+846,AU,ADL,ADL,Adelaide,Adelaide
+847,CO,PPN,PPN,Popayán,Guillermo León Valencia
+848,US,DUJ,DUJ,DuBois,DuBois Regional
+849,GB,NQY,NQY,Newquay,Cornwall Airport Newquay
+850,ZA,LDZ,LDZ,Londolozi Private Game Reserve,Londolozi
+851,SE,RNB,RNB,Ronneby,Ronneby
+852,TR,MZH,MZH,Amasya,Amasya Merzifon
+853,NF,NLK,NLK,Burnt Pine,Norfolk Island
+854,US,STC,STC,St. Cloud,St. Cloud Regional
+855,NA,WVB,WVB,Walvis Bay,Walvis Bay
+856,IT,CAG,CAG,Cagliari,Cagliari Elmas
+857,XK,PRN,PRN,Pristina,Pristina International
+858,BR,NVT,NVT,Navegantes,Navegantes
+859,DE,NRN,DUS,Düsseldorf,Weeze
+860,CN,HDG,HDG,Handan,Handan
+861,MA,TNG,TNG,Tangier,Tangier Ibn Battouta
+862,FR,LRH,LRH,La Rochelle,La Rochelle – Île de Ré
+863,AU,GLT,GLT,Gladstone,Gladstone
+864,ET,GDE,GDE,Gode,Gode
+865,FM,KSA,KSA,Kosrae,Kosrae International
+866,JP,OKI,OKI,Oki Islands,Oki
+867,UZ,FEG,FEG,Fergana,Fergana International
+868,TH,ROI,ROI,Roi Et Province,Roi Et
+869,TR,YEI,YEI,Bursa,Yenişehir
+870,US,GCK,GCK,Garden City,Garden City Regional
+871,US,VPS,VPS,Destin,Destin–Fort Walton Beach
+872,TZ,ARK,ARK,Arusha,Arusha
+873,JM,MBJ,MBJ,Montego Bay,Sangster International
+874,US,PUB,PUB,Pueblo,Pueblo Memorial
+875,CN,SQJ,SQJ,Sanming,Sanming Shaxian
+876,CA,YWK,YWK,Wabush,Wabush
+877,HN,LCE,LCE,La Ceiba,Golosón International
+878,PE,IQT,IQT,Iquitos,Coronel FAP Francisco Secada Vignetta International
+879,BR,MBZ,MBZ,Maués,Maués Airport
+880,GQ,GEM,GEM,Mongomo,Mongomo Mongomeyen
+881,US,BWI,WAS,"Washington, D.C.",Baltimore–Washington International
+882,GR,PVK,PVK,Preveza,Aktion National
+883,CA,YSK,YSK,Sanikiluaq,Sanikiluaq
+884,GR,KSJ,KSJ,Kasos,Kasos Island Public
+885,GB,PPW,PPW,Papa Westray,Papa Westray
+886,SK,BTS,BTS,Bratislava,Bratislava Airport
+887,PF,AXR,AXR,Arutua,Arutua
+888,AR,RGL,RGL,Río Gallegos,Piloto Civil Norberto Fernández International
+889,MX,AGU,AGU,Aguascalientes,Aguascalientes International
+890,NZ,WLG,WLG,Wellington,Wellington International
+891,CO,CZU,CZU,"Corozal, Sucre",Las Brujas
+892,DE,GWT,GWT,Westerland,Sylt
+893,GB,LBA,LBA,Leeds,Leeds Bradford
+894,CA,YGP,YGP,Gaspé,Michel-Pouliot Gaspé
+895,ET,BJR,BJR,Bahir Dar,Bahir Dar
+896,FR,SXB,SXB,Strasbourg,Strasbourg
+897,US,HRL,HRL,Harlingen,Valley International
+898,NO,BGO,BGO,Bergen,"Bergen Airport, Flesland"
+899,US,MKL,MKL,Jackson,McKellar–Sipes Regional
+900,TR,EDO,EDO,Edremit,Balıkesir Koca Seyit
+901,US,MLU,MLU,Monroe,Monroe Regional
+902,KE,MBA,MBA,Mombasa,Moi International
+903,AU,MEL,MEL,Melbourne,Melbourne
+904,CO,EOH,MDE,Medellín,Olaya Herrera
+905,US,PAE,PAE,Everett,Paine Field Everett
+906,MN,ULG,ULG,Ölgii,Ölgii
+907,TR,OGU,OGU,Giresun,Ordu–Giresun
+908,BR,SDU,RIO,Rio de Janeiro,Santos Dumont
+909,CN,NGQ,NGQ,Ngari Prefecture,Ngari Gunsa
+910,NO,BVG,BVG,Berlevåg,Berlevåg
+911,WS,APW,APW,Apia,Faleolo International
+912,US,PVC,PVC,Provincetown,Provincetown Municipal
+913,DZ,TLM,TLM,Tlemcen,Zenata – Messali El Hadj
+914,TZ,PMA,PMA,Pemba Island,Pemba
+915,IN,BBI,BBI,Bhubaneswar,Biju Patnaik International
+916,PL,KRK,KRK,Kraków,John Paul II International Airport Kraków–Balice
+917,MX,HMO,HMO,Hermosillo,General Ignacio Pesqueira García International
+918,TH,LOE,LOE,Loei Province,Loei
+919,CA,YQM,YQM,Moncton,Greater Moncton Roméo LeBlanc International
+920,CN,SZX,SZX,Shenzhen,Shenzhen Bao an International
+921,ID,SXK,SXK,Saumlaki,Saumlaki Olilit
+922,TH,TST,TST,Trang,Trang
+923,US,SLK,SLK,Saranac Lake,Adirondack Regional
+924,CR,NOB,NOB,Nosara,Nosara
+925,US,PAH,PAH,Paducah,Barkley Regional
+926,MX,SJD,SJD,San José del Cabo,Los Cabos International
+927,MX,IZT,IZT,"Ixtepec, Oaxaca",Ixtepec
+928,BR,CAC,CAC,Cascavel,Cascavel
+929,ZA,PTG,PTG,"Polokwane, Limpopo",Polokwane International
+930,IN,JRH,JRH,Jorhat,Jorhat
+931,SE,THN,THN,Trollhättan,Trollhättan–Vänersborg
+932,BZ,PLJ,PLJ,Placencia,Placencia
+933,TZ,MYW,MYW,Mtwara,Mtwara
+934,US,AIA,AIA,Alliance,Alliance Municipal
+935,JP,FUJ,FUJ,Fukue Island,Fukue
+936,BR,JJG,JJG,Jaguaruna,Jaguaruna Regional
+937,CA,YNA,YNA,Natashquan,Natashquan
+938,IN,DEL,DEL,New Delhi,Indira Gandhi International
+939,AO,CAB,CAB,Cabinda,Cabinda
+940,AU,MCY,MCY,Sunshine Coast Region,Sunshine Coast
+941,RU,EYK,EYK,Beloyarsky,Beloyarsk
+942,ID,FKQ,FKQ,Fakfak,Fakfak Torea
+943,RU,UUA,UUA,Bugulma,Bugulma
+944,US,MKG,MKG,Muskegon,Muskegon County
+945,AR,RGA,RGA,Río Grande,Hermes Quijada International
+946,CR,SJO,SJO,San José,Juan Santamaría International
+947,SB,SCZ,SCZ,Santa Cruz Islands,Santa Cruz/Graciosa Bay/Luova
+948,RU,NBC,NBC,Nizhnekamsk,Begishevo
+949,MD,KIV,KIV,Chișinău,Chișinău International
+950,IN,SXV,SXV,Salem ,Salem
+951,GB,EMA,NQT,Nottingham,East Midlands
+952,US,LEX,LEX,Lexington,Blue Grass
+953,MZ,VXC,VXC,Lichinga,Lichinga
+954,PW,ROR,ROR,Koror,Roman Tmetuchl International
+955,US,LUP,LUP,Kalaupapa,Kalaupapa Airport
+956,US,PGA,PGA,Page,Page Municipal
+957,JP,HND,TYO,Tokyo,Haneda
+958,US,PKB,PKB,Parkersburg,Mid-Ohio Valley Regional
+959,MM,HEH,HEH,Heho,Heho
+960,MF,SFG,SFG,Saint Martin (Island),Grand Case-Espérance
+961,US,SAC,SAC,Sacramento,Sacramento Executive Airport
+962,CA,YCL,YCL,Charlo,Charlo
+963,CZ,PED,PED,Pardubice,Pardubice Airport
+964,RU,HMA,HMA,Khanty-Mansiysk,Khanty-Mansiysk
+965,DE,ERF,ERF,Erfurt,Erfurt–Weimar
+966,AO,LUO,LUO,Luena,Luena
+967,NO,SVJ,SVJ,Svolvær,"Svolvær Airport, Helle"
+968,SA,SHW,SHW,Sharurah,Sharurah Domestic
+969,FR,LIG,LIG,Limoges,Limoges – Bellegarde
+970,ES,RMU,MJV,Murcia,Región de Murcia
+971,ID,SWQ,SWQ,Sumbawa Besar,Sultan Muhammad Kaharuddin III
+972,AU,BDB,BDB,Bundaberg Region,Bundaberg
+973,GL,AGM,AGM,Tasiilaq,Tasiilaq Ammassalik Heliport
+974,HR,BWK,BWK,Brač,Brač
+975,TZ,ZNZ,ZNZ,Zanzibar,Abeid Amani Karume International
+976,GL,SGG,SGG,Sermiligaaq,Sermiligaaq Heliport
+977,CN,ZYI,ZYI,Zunyi,Zunyi Xinzhou
+978,MX,MAM,MAM,Matamoros,Matamoros International
+979,FR,CAY,CAY,Cayenne,Cayenne – Félix Eboué
+980,US,RDM,RDM,Redmond,Roberts Field
+981,PF,MOZ,MOZ,Mo orea,Moorea
+982,BR,CWB,CWB,Curitiba,Afonso Pena International
+983,AR,RCU,RCU,Río Cuarto,Las Higueras
+984,US,CLL,CLL,College Station,Easterwood
+985,US,JAC,JAC,Jackson,Jackson Hole
+986,ZA,UTN,UTN,Upington,Upington
+987,MY,KCH,KCH,Kuching,Kuching International
+988,RU,IKS,IKS,Tiksi,Tiksi
+989,CN,HEK,HEK,Heihe,Heihe
+990,RU,ESL,ESL,Elista,Elista
+991,LA,XKH,XKH,Phonsavan,Xieng Khouang
+992,GR,VOL,VOL,Volos,Nea Anchialos National
+993,AU,TRO,TRO,Taree,Taree
+994,RU,KRO,KRO,"Kurgan, Kurgan Oblast",Kurgan
+995,VU,SON,SON,Luganville,Santo-Pekoa International
+996,CL,ARI,ARI,Arica,Chacalluta International
+997,GB,MME,MME,"Durham, England",Durham Tees Valley
+998,MY,KBR,KBR,Kota Bharu,Sultan Ismail Petra
+999,CA,YWH,YYJ,Victoria,Victoria Inner Harbour SPB
+1000,UA,LWO,LWO,Lviv,Lviv Danylo Halytskyi International
+1001,NG,PHC,PHC,Port Harcourt,Port Harcourt International
+1002,US,CGI,CGI,Cape Girardeau,Cape Girardeau Regional
+1003,TZ,SEU,SEU,Seronera,Seronera Airstrip
+1004,BR,JIA,JIA,Juína,Juína Airport
+1005,CA,YFO,YFO,Flin Flon,Flin Flon
+1006,SA,BHH,BHH,Bisha,Bisha Domestic
+1007,US,LGA,NYC,New York,LaGuardia
+1008,BO,VVI,SRZ,Santa Cruz de la Sierra,Viru Viru International
+1009,US,OWB,OWB,Owensboro,Owensboro–Daviess County Regional
+1010,IN,GAY,GAY,Gaya,Gaya
+1011,GR,LRS,LRS,Leros,Leros Municipal
+1012,TR,KSY,KSY,Kars,Kars Harakani
+1013,US,DHN,DHN,Dothan,Dothan Regional
+1014,ID,PSJ,PSJ,Poso,Poso Kasinguncu
+1015,ES,ACE,ACE,Lanzarote,Lanzarote
+1016,AU,MNG,MNG,Maningrida,Maningrida
+1017,TH,UNN,UNN,Ranong Province,Ranong
+1018,MR,NKC,NKC,Nouakchott,Nouakchott International
+1019,NO,KRS,KRS,Kristiansand,"Kristiansand Airport, Kjevik"
+1020,CN,AEB,AEB,Baise,Baise Bama
+1021,CA,YCY,YCY,"Clyde River, Nunavut",Clyde River
+1022,BO,RBQ,RBQ,Rurrenabaque,Rurrenabaque
+1023,IR,SYZ,SYZ,Shiraz,Shiraz International
+1024,CN,PVG,SHA,Shanghai,Shanghai Pudong International
+1025,US,RNO,RNO,Reno,Reno–Tahoe International
+1026,CK,AIU,AIU,Atiu,Enua
+1027,US,EWR,NYC,New York,Newark Liberty International
+1028,AU,EMD,EMD,Emerald,Emerald
+1029,SA,ULH,ULH,Al-`Ula,Prince Abdul Majeed bin Abdulaziz Domestic
+1030,CA,YBX,YBX,Blanc-Sablon,Lourdes-de-Blanc-Sablon
+1031,PG,BUA,BUA,Buka Island,Buka
+1032,RU,ERG,ERG,Yerbogachen,Erbogachen
+1033,US,GEG,GEG,Spokane,Spokane International
+1034,TZ,MBI,MBI,Mbeya,Mbeya
+1035,GB,EXT,EXT,Exeter,Exeter
+1036,US,SRQ,SRQ,Sarasota,Sarasota–Bradenton International
+1037,US,IDA,IDA,Idaho Falls,Idaho Falls Regional
+1038,US,ICT,ICT,Wichita,Wichita Dwight D. Eisenhower National
+1039,NR,INU,INU,Yaren,Nauru International
+1040,LB,BEY,BEY,Beirut,Beirut–Rafic Hariri International
+1041,CN,LCX,LCX,Longyan,Longyan Guanzhishan
+1042,AE,SHJ,DXB,Dubai,Sharjah International
+1043,PT,FNC,FNC,Funchal,Cristiano Ronaldo International
+1044,MY,LKH,LKH,Long Akah,Long Akah
+1045,GL,JUV,JUV,Upernavik,Upernavik
+1046,JP,WKJ,WKJ,Wakkanai,Wakkanai
+1047,BR,BPS,BPS,Porto Seguro,Porto Seguro
+1048,CN,DCY,DCY,Daocheng County,Daocheng Yading
+1049,IN,AIP,AIP,Jalandhar,Adampur
+1050,US,PRC,PRC,Prescott,Ernest A. Love Field
+1051,SH,HLE,HLE,Jamestown,Saint Helena
+1052,IN,VNS,VNS,Varanasi,Lal Bahadur Shastri International
+1053,VU,LNE,LNE,Lonorore,Lonorore
+1054,CV,MMO,MMO,Maio,Maio
+1055,US,LYH,LYH,Lynchburg,Lynchburg Regional
+1056,CN,FYN,FYN,Fuyun County,Fuyun Koktokay
+1057,SO,HGA,HGA,Hargeisa,Hargeisa
+1058,JP,RIS,RIS,Rishiri,Rishiri
+1059,CA,YPH,YPH,Inukjuak,Inukjuak
+1060,US,MHT,MHT,Manchester,Manchester–Boston Regional
+1061,ET,SZE,SZE,Semera,Semera
+1062,ZA,SZK,SZK,Skukuza,Skukuza
+1063,CN,DQA,DQA,Daqing,Daqing Sartu
+1064,ET,LLI,LLI,Lalibela,Lalibela
+1065,IT,TPS,TPS,Trapani,Vincenzo Florio Airport Trapani–Birgi
+1066,US,SAN,SAN,San Diego,San Diego International
+1067,CN,GXH,GXH,Xiahe County,Gannan Xiahe
+1068,AU,KGI,KGI,Kalgoorlie,Kalgoorlie-Boulder
+1069,CK,MUK,MUK,Mauke Island,Mauke Airport
+1070,IN,JAI,JAI,Jaipur,Jaipur International
+1071,FR,LSS,LSS,Les Saintes,Terre-de-Haut Airport
+1072,CN,AQG,AQG,Anqing,Anqing Tianzhushan
+1073,PL,POZ,POZ,Poznań,Poznań–Ławica
+1074,TW,KNH,KNH,Kinmen,Kinmen
+1075,US,MEM,MEM,Memphis,Memphis International
+1076,MA,OZZ,OZZ,Ouarzazate,Ouarzazate
+1077,MX,PXM,PXM,"Puerto Escondido, Oaxaca",Puerto Escondido International
+1078,DM,DCF,DOM,Saint Joseph Parish,Canefield
+1079,MY,SZB,KUL,Kuala Lumpur,Sultan Abdul Aziz Shah
+1080,IN,RDP,RDP,Durgapur,Kazi Nazrul Islam
+1081,ZA,ASS,ASS,Arathusa Safari Lodge,Arathusa Safari Lodge
+1082,US,EWB,EWB,New Bedford,New Bedford Regional
+1083,AU,XTG,XTG,Thargomindah,Thargomindah
+1084,CN,SYX,SYX,Sanya,Sanya Phoenix International
+1085,CL,WPR,WPR,Porvenir,Capitan Fuentes Martinez
+1086,PK,ISB,ISB,Islamabad,Islamabad International Airport
+1087,MG,SVB,SVB,Sambava,Sambava
+1088,EC,CUE,CUE,Cuenca,Mariscal Lamar International
+1089,IT,VRN,VRN,Verona,Verona Villafranca
+1090,FR,PUF,PUF,"Pau, Pyrénées-Atlantiques",Pau Pyrénées
+1091,GR,MJT,MJT,Mytilene,Mytilene International
+1092,CA,YQL,YQL,Lethbridge,Lethbridge
+1093,US,PPG,PPG,Pago Pago,Pago Pago International
+1094,CR,LIR,LIR,Liberia,Daniel Oduber Quirós International
+1095,CN,JJN,JJN,Quanzhou,Quanzhou Jinjiang International
+1096,PL,SZY,SZY,"Szymany, Szczytno County",Olsztyn-Mazury
+1097,US,BGM,BGM,Binghamton,Greater Binghamton
+1098,NZ,WSZ,WSZ,Westport,Westport
+1099,AE,DWC,DXB,Dubai,Al Maktoum International
+1100,GB,ILY,ILY,Islay,Islay
+1101,KR,PUS,PUS,Busan,Gimhae International
+1102,CA,YPX,YPX,Puvirnituq,Puvirnituq
+1103,AR,FTE,FTE,El Calafate,Comandante Armando Tola International
+1104,ID,DJB,DJB,Jambi City,Sultan Thaha
+1105,SB,NNB,NNB,Santa Ana Island,Santa Ana
+1106,NO,LKN,LKN,Leknes,Leknes
+1107,AR,EQS,EQS,Esquel,Esquel
+1108,BR,FOR,FOR,Fortaleza,Pinto Martins – Fortaleza International
+1109,RU,NSK,NSK,Norilsk,Alykel
+1110,IQ,BSR,BSR,Basra,Basra International
+1111,ID,CXP,CXP,Central Java,Cilacap
+1112,CN,MIG,MIG,Mianyang,Mianyang Nanjiao
+1113,EG,HRG,HRG,Hurghada,Hurghada International
+1114,JP,OIT,OIT,Oita,Oita
+1115,BR,BVB,BVB,Boa Vista,Boa Vista International
+1116,ZW,HRE,HRE,Harare,Harare International
+1117,MG,FTU,FTU,Tôlanaro,Tôlanaro
+1118,RU,OGZ,OGZ,Vladikavkaz,Beslan
+1119,MY,SDK,SDK,Sandakan,Sandakan
+1120,ID,LSW,LSW,Lhokseumawe,Malikus Saleh
+1121,CN,TNA,TNA,Jinan,Jinan Yaoqiang International
+1122,US,SLC,SLC,Salt Lake City,Salt Lake City International
+1123,US,CLD,SAN,San Diego,McClellan–Palomar
+1124,US,FSD,FSD,Sioux Falls,Sioux Falls Regional
+1125,CH,MLH,EAP,Basel,Mulhouse/Basel EuroAirport French  FR
+1126,BO,GYA,GYA,Guayaramerín,Guayaramerín
+1127,US,CRP,CRP,Corpus Christi,Corpus Christi International
+1128,HR,DBV,DBV,Dubrovnik,Dubrovnik
+1129,BR,TJL,TJL,Três Lagoas,Três Lagoas
+1130,SD,PZU,PZU,Port,Port Sudan New International
+1131,DJ,JIB,JIB,Balbala,Djibouti–Ambouli International
+1132,TR,IGD,IGD,Iğdır,Iğdır
+1133,IT,CRV,CRV,Crotone,Crotone Airport
+1134,US,LBE,LBE,Latrobe,Arnold Palmer Regional
+1135,GB,TRE,TRE,Tiree,Tiree
+1136,KE,WIL,NBO,Nairobi,Wilson
+1137,CN,ZQZ,ZQZ,Zhangjiakou,Zhangjiakou Ningyuan
+1138,NC,UVE,UVE,Ouvéa Island,Ouvéa
+1139,US,OGG,OGG,Kahului,Kahului
+1140,RO,CND,CND,Constanța,Mihail Kogălniceanu International
+1141,US,SHV,SHV,Shreveport,Shreveport Regional
+1142,PA,PAC,PTY,Panama City,Albrook  Marcos A. Gelabert  International
+1143,CN,YZY,YZY,Zhangye,Zhangye Ganzhou
+1144,CN,CDE,CDE,Chengde,Chengde Puning
+1145,CA,ZRJ,ZRJ,Weagamow Lake,Round Lake (Weagamow Lake)
+1146,KZ,TSE,TSE,Nur-Sultan,Nursultan Nazarbayev International Airport
+1147,BR,IGU,IGU,Foz do Iguaçu,Foz do Iguaçu International
+1148,GE,KUT,KUT,Kutaisi,David the Builder Kutaisi International
+1149,PH,DVO,DVO,Davao,Francisco Bangoy International
+1150,TR,BAL,BAL,Batman,Batman
+1151,CN,DLC,DLC,Dalian,Dalian Zhoushuizi International
+1152,US,BIS,BIS,Bismarck,Bismarck Municipal
+1153,SB,ATD,ATD,Atoifi,Uru Harbour
+1154,JP,KTD,KTD,Kitadaito,Kitadaito
+1155,PH,ZAM,ZAM,Zamboanga City,Zamboanga International
+1156,MY,BKI,BKI,Kota Kinabalu,Kota Kinabalu International
+1157,TJ,DYU,DYU,Dushanbe,Dushanbe International
+1158,RU,KHV,KHV,Khabarovsk,Khabarovsk Novy
+1159,AU,NTN,NTN,Normanton,Normanton
+1160,NA,MPA,MPA,Katima Mulilo,Katima Mulilo
+1161,GB,NWI,NWI,Norwich,Norwich
+1162,RU,KXK,KXK,Komsomolsk-on-Amur,Komsomolsk-on-Amur
+1163,US,HYA,HYA,Hyannis,Barnstable Municipal
+1164,CO,CUC,CUC,Cúcuta,Camilo Daza International
+1165,KP,FNJ,FNJ,Pyongyang,Pyongyang International
+1166,TR,KYA,KYA,Konya,Konya
+1167,BR,ROO,ROO,Rondonópolis,Rondonópolis
+1168,AU,BDD,BDD,Badu Island,Badu Island Airport
+1169,PA,CTD,CTD,Chitré,Chitre Alonso Valderrama
+1170,ZA,SIS,SIS,Dingleton,Sishen
+1171,PE,LIM,LIM,Lima,Jorge Chávez International
+1172,US,BRL,BRL,Burlington,Southeast Iowa Regional
+1173,US,CLE,CLE,Cleveland,Cleveland Hopkins International
+1174,FR,GBJ,GBJ,Grand Bourg,Les Bases Airport
+1175,ID,KNG,KNG,Kaimana,Kaimana
+1176,BR,GGB,GGB,Água Boa,Água Boa Airport
+1177,JP,MMB,MMB,Memanbetsu,Memanbetsu
+1178,AU,HGD,HGD,Hughenden,Hughenden
+1179,US,CPR,CPR,Casper,Casper–Natrona County International
+1180,JP,OKJ,OKJ,Okayama,Okayama
+1181,SE,ARN,STO,Stockholm,Stockholm Arlanda
+1182,AR,PSS,PSS,Posadas,Libertador General José de San Martín
+1183,GB,CBG,CBG,Cambridge,Cambridge
+1184,PE,TPP,TPP,Tarapoto,Cad. FAP Guillermo del Castillo Paredes
+1185,AU,MOV,MOV,Moranbah,Moranbah
+1186,US,HOB,HOB,Hobbs,Lea County Regional
+1187,US,SEA,SEA,Seattle,Seattle–Tacoma International
+1188,CA,YDP,YDP,Nain,Nain
+1189,GL,SAE,SAE,Saattut,Saattut Heliport
+1190,JP,FKS,FKS,Fukushima,Fukushima
+1191,LS,MSU,MSU,Maseru,Mejametalana
+1192,TH,KKC,KKC,Khon Kaen,Khon Kaen
+1193,TR,NAV,NAV,Nevşehir,Nevşehir Kapadokya
+1194,MM,TVY,TVY,Dawei Township,Dawei
+1195,GE,TBS,TBS,Tbilisi,Tbilisi International
+1196,SC,SEZ,SEZ,Mahé,Seychelles International
+1197,BR,PAV,PAV,Paulo Afonso,Paulo Afonso
+1198,PT,PDL,PDL,Ponta Delgada,João Paulo II
+1199,CH,ZRH,ZRH,Zürich,Zürich Airport
+1200,ID,ABU,ABU,Atambua,Haliwen
+1201,JP,OIR,OIR,Okushiri,Okushiri
+1202,CN,HPG,HPG,Shennongjia,Shennongjia Hongping
+1203,ES,AEI,AEI,Algeciras,Algeciras Heliport
+1204,ID,WMX,WMX,Wamena,Wamena
+1205,BS,BIM,BIM,Bimini,South Bimini
+1206,MN,ULZ,ULZ,Uliastai,Donoi
+1207,SB,EGM,EGM,Seghe,Seghe
+1208,SE,KLR,KLR,Kalmar,Kalmar
+1209,BS,MHH,MHH,Marsh Harbour,Marsh Harbour
+1210,CO,VVC,VVC,Villavicencio,La Vanguardia
+1211,CN,CGQ,CGQ,Changchun,Changchun Longjia International
+1212,RU,IAR,IAR,Yaroslavl,Tunoshna
+1213,CA,YFB,YFB,Iqaluit,Iqaluit
+1214,NO,OSY,OSY,Namsos,"Namsos Airport, Høknesøra"
+1215,US,EUG,EUG,Eugene,Eugene
+1216,SI,MBX,MBX,Maribor,Maribor Edvard Rusjan
+1217,CN,WSK,WSK,Wushan,Chongqing Wushan Airport
+1218,US,ERI,ERI,Erie,Erie International
+1219,FR,RNS,RNS,Rennes,Rennes–Saint-Jacques
+1220,MW,CEH,CEH,Chelinda,Chelinda
+1221,US,HSV,HSV,Huntsville,Huntsville International
+1222,US,LFT,LFT,Lafayette,Lafayette Regional
+1223,TZ,IRI,IRI,Nduli,Iringa Airport
+1224,GR,LXS,LXS,Lemnos,Lemnos International
+1225,AU,DBO,DBO,Dubbo,Dubbo City Regional
+1226,EG,CAI,CAI,Cairo,Cairo International
+1227,LK,GIU,GIU,Sigiriya,Sigiriya
+1228,CD,FKI,FKI,Kisangani,Bangoka International
+1229,CN,TNH,TNH,Tonghua,Tonghua Sanyuanpu
+1230,BD,DAC,DAC,Dhaka,Shahjalal International
+1231,AF,BIN,BIN,Bamyan,Bamyan
+1232,AU,TSV,TSV,Townsville,Townsville
+1233,BD,JSR,JSR,Jessore,Jessore
+1234,MM,SNW,SNW,Thandwe,Thandwe
+1235,US,KAE,KAE,Kake,Kake Sea Plane Base
+1236,CN,YNT,YNT,Yantai,Yantai Laishan
+1237,IQ,ISU,ISU,Sulaymaniyah,Sulaimaniyah International
+1238,NG,ABB,ABB,Asaba,Asaba International
+1239,SA,EJH,EJH,Al Wajh,Al Wajh Domestic
+1240,CA,YXP,YXP,Pangnirtung,Pangnirtung
+1241,RU,BQJ,BQJ,Batagay,Batagay
+1242,CD,FMI,FMI,Kalemie,Kalemie
+1243,MX,CEN,CEN,Ciudad Obregón,Ciudad Obregón International
+1244,LY,TIP,TIP,Tripoli,Tripoli International
+1245,FR,FNI,FNI,Nîmes,Nîmes–Alès–Camargue–Cévennes
+1246,RU,UKG,UKG,Ust-Kuyga,Ust-Kuyga
+1247,HR,RJK,RJK,Rijeka,Rijeka
+1248,IT,CTA,CTA,Catania,Catania–Fontanarossa
+1249,AF,ZAJ,ZAJ,Zaranj,Zaranj
+1250,RU,NOJ,NOJ,Noyabrsk,Noyabrsk
+1251,CN,UYN,UYN,Yulin,Yulin Yuyang
+1252,RU,ARH,ARH,Arkhangelsk,Talagi
+1253,BS,GGT,GGT,George Town,Exuma International
+1254,DK,KRP,KRP,Karup,Midtjyllands
+1255,AR,ROS,ROS,Rosario,Rosario – Islas Malvinas International
+1256,ID,SRG,SRG,Semarang,Ahmad Yani International
+1257,NO,RVK,RVK,Rørvik,"Rørvik Airport, Ryum"
+1258,FR,GNB,GNB,Grenoble,Alpes–Isère
+1259,FR,RUN,RUN,Saint-Denis,Roland Garros
+1260,IN,GAU,GAU,Guwahati,Lokpriya Gopinath Bordoloi International
+1261,CO,MTR,MTR,Montería,Los Garzones
+1262,CN,WUX,WUX,Wuxi,Sunan Shuofang International
+1263,KE,WJR,WJR,Wajir,Wajir
+1264,KE,UKA,UKA,Ukunda,Ukunda
+1265,TR,ASR,ASR,Kayseri,Erkilet International
+1266,VU,LNB,LNB,Lamen Bay,Lamen Bay
+1267,TR,GZT,GZT,Gaziantep,Oğuzeli
+1268,MA,CMN,CAS,Casablanca,Mohammed V International
+1269,CA,YDA,YDA,Dawson City,Dawson City
+1270,MV,GAN,GAN,Gan,RAF Gan
+1271,US,DAY,DAY,Dayton,Dayton International
+1272,MM,AKY,AKY,Sittwe,Sittwe
+1273,FR,EGC,EGC,Bergerac,Bergerac Dordogne Périgord
+1274,JP,ITM,OSA,Osaka,Itami
+1275,US,MDW,CHI,Chicago,Chicago Midway International
+1276,CA,YWS,YWS,Whistler,Whistler
+1277,SV,SAL,SAL,San Salvador,Monseñor Óscar Arnulfo Romero International
+1278,IT,PNL,PNL,Pantelleria,Pantelleria
+1279,US,RDU,RDU,Raleigh,Raleigh–Durham International
+1280,CN,LZO,LZO,Luzhou,Luzhou Yunlong
+1281,EG,HMB,HMB,Sohag,Sohag International
+1282,US,SPB,STT,Saint Thomas,Charlotte Amalie Harbor Seaplane Base
+1283,MX,PBC,PBC,Puebla,Puebla International
+1284,NO,VAW,VAW,Vardø,"Vardø Airport, Svartnes"
+1285,LA,ZVK,ZVK,Savannakhet,Savannakhet
+1286,BR,TFF,TFF,Tefé,Tefé
+1287,AU,KTR,KTR,Katherine,RAAF Base Tindal
+1288,AR,REL,REL,Trelew,Almirante Marcos A. Zar
+1289,IT,FOG,FOG,Foggia,"Foggia ""Gino Lisa"""
+1290,FR,BVA,PAR,Paris,Beauvais–Tillé
+1291,CO,PEI,PEI,Pereira,Matecaña International
+1292,US,ITH,ITH,Ithaca,Ithaca Tompkins Regional
+1293,AU,OLP,OLP,Olympic Dam,Olympic Dam
+1294,NP,KEP,KEP,Nepalgunj,Nepalgunj
+1295,BR,SMT,SMT,Sorriso,Sorriso
+1296,RO,CRA,CRA,Craiova,Craiova International
+1297,CN,SYM,SYM,Simao District,Pu er Simao
+1298,US,MSL,MSL,Muscle Shoals,Northwest Alabama Regional
+1299,CN,NNG,NNG,Nanning,Nanning Wuxu International
+1300,NO,FDE,FDE,Førde,"Førde Airport, Bringeland"
+1301,MZ,APL,APL,Nampula,Nampula
+1302,TH,URT,URT,Surat Thani Province,Surat Thani International
+1303,IN,IXE,IXE,Mangalore,Mangaluru
+1304,CN,XFN,XFN,Xiangyang,Xiangyang Liuji
+1305,LK,DWO,DWO,Sri Jayawardenepura Kotte,Kotte Diyawanna Oya SPB
+1306,NO,OLA,OLA,Ørland,Ørland Main Air Station
+1307,TH,MAQ,MAQ,Mae Sot District,Mae Sot
+1308,ID,PDG,PDG,Padang,Minangkabau International
+1309,US,MIA,MIA,Miami,Miami International
+1310,EG,SSH,SSH,Sharm El Sheikh,Sharm el-Sheikh International
+1311,ID,KJT,KJT,Kertajati,Kertajati International
+1312,VN,VDO,VDO,Ha Long,Van Don International Airport
+1313,AR,JUJ,JUJ,San Salvador de Jujuy,Gobernador Horacio Guzmán International
+1314,RU,TBW,TBW,Tambov,Tambov Donskoye
+1315,US,MBL,MBL,Manistee,Manistee County Blacker
+1316,MA,NDR,NDR,Nador,Nador International
+1317,ES,LEI,LEI,Almería,Almería
+1318,MW,BLZ,BLZ,Blantyre,Chileka International
+1319,ID,TJQ,TJQ,Tanjung Pandan,H.A.S. Hanandjoeddin International
+1320,CN,XNN,XNN,Xining,Xining Caojiabao International
+1321,DZ,ALG,ALG,Algiers,Houari Boumediene
+1322,KR,GMP,SEL,Seoul,Gimpo International
+1323,CN,ENY,ENY,Yan an,Yan an Ershilipu
+1324,FR,ORY,PAR,Paris,Paris Orly
+1325,PH,CBO,CBO,Cotabato City,Awang
+1326,CO,FLA,FLA,Florencia,Gustavo Artunduaga Paredes
+1327,CN,YIN,YIN,Ghulja,Yining
+1328,CN,FYJ,FYJ,"Fuyuan, Heilongjiang",Fuyuan Dongji
+1329,IN,IXU,IXU,Aurangabad,Aurangabad
+1330,PH,OZC,OZC,Ozamiz,Labo
+1331,MM,LIW,LIW,Loikaw,Loikaw
+1332,AT,LNZ,LNZ,Linz,Linz
+1333,GB,LGW,LON,London,Gatwick
+1334,IT,RMI,RMI,Rimini,Federico Fellini International
+1335,CN,LJG,LJG,Lijiang,Lijiang Sanyi International
+1336,PL,LUZ,LUZ,Lublin,Lublin
+1337,CN,BPE,BPE,Qinhuangdao,Qinhuangdao Beidaihe
+1338,CN,LNL,LNL,Longnan,Longnan Chengzhou Airport
+1339,GR,AXD,AXD,Alexandroupoli,Alexandroupolis International
+1340,PH,CYP,CYP,Calbayog,Calbayog
+1341,GB,BEB,BEB,Benbecula,Benbecula
+1342,JP,AOJ,AOJ,Aomori,Aomori
+1343,US,LAW,LAW,Lawton,Lawton–Fort Sill Regional
+1344,ID,KAZ,KAZ,Kau,Kaubang
+1345,CN,HTN,HTN,Hotan,Hotan
+1346,JP,HAC,HAC,Hachijō-jima,Hachijojima
+1347,OM,SLL,SLL,Salalah,Salalah
+1348,ID,SOQ,SOQ,Sorong,Domine Eduard Osok
+1349,MX,MID,MID,Mérida,Mérida International
+1350,IN,HJR,HJR,Khajuraho Group of Monuments,Khajuraho
+1351,PH,BSO,BSO,Basco,Basco
+1352,UZ,KSQ,KSQ,Qarshi,Karshi
+1353,CN,TCZ,TCZ,Tengchong,Tengchong Tuofeng
+1354,US,ABQ,ABQ,Albuquerque,Albuquerque International Sunport
+1355,CI,KEO,KEO,Odienné,Odienne
+1356,SE,MMX,MMA,Malmö,Malmö
+1357,GR,SKU,SKU,Skyros,Skyros Island National
+1358,US,SBN,SBN,South Bend,South Bend International
+1359,US,GCC,GCC,Gillette,Gillette–Campbell County
+1360,CV,SFL,SFL,São Filipe,São Filipe
+1361,PM,FSP,FSP,Saint-Pierre,Saint-Pierre
+1362,CA,YZT,YZT,Port Hardy,Port Hardy
+1363,TR,ADB,IZM,İzmir,Adnan Menderes
+1364,US,CHO,CHO,Charlottesville,Charlottesville–Albemarle
+1365,RU,PEE,PEE,Perm,Perm International
+1366,TW,TNN,TNN,Tainan,Tainan
+1367,RO,TGM,TGM,Târgu Mureș,Târgu Mureș International
+1368,BO,RIB,RIB,Riberalta,Riberalta
+1369,HN,TGU,TGU,Tegucigalpa,Toncontín International
+1370,IT,TSF,VCE,Venice,Treviso
+1371,RU,GDX,GDX,Magadan,Sokol
+1372,MH,KWA,KWA,Kwajalein Atoll,Bucholz Army Airfield
+1373,CN,AOG,AOG,Anshan,Anshan Teng ao
+1374,US,JMS,JMS,Jamestown,Jamestown Regional
+1375,BD,ZYL,ZYL,Sylhet,Osmani International
+1376,AU,ASP,ASP,Alice Springs,Alice Springs
+1377,GR,KZS,KZS,Kastellorizo,Kastellorizo
+1378,GR,PAS,PAS,Parikia,Paros National
+1379,VU,IPA,IPA,Ipota,Ipota
+1380,MN,ULO,ULO,Ulaangom,Ulaangom
+1381,JO,AMM,AMM,Amman,Queen Alia International
+1382,CA,ZBF,ZBF,Bathurst,Bathurst
+1383,US,GAM,GAM,Gambell,Gambell
+1384,MX,ZIH,ZIH,Ixtapa,Ixtapa-Zihuatanejo International
+1385,PF,TKX,TKX,Takaroa,Takaroa
+1386,RU,TOF,TOF,Tomsk,Bogashevo
+1387,ID,BJW,BJW,Bajawa,Turelelo Soa
+1388,US,MUE,MUE,Waimea,Waimea-Kohala
+1389,ZZ,SIP,SIP,Simferopol,Simferopol International
+1390,CA,YRB,YRB,Resolute,Resolute Bay
+1391,GL,UAK,UAK,Narsarsuaq,Narsarsuaq
+1392,DK,SGD,SGD,Sønderborg,Sønderborg
+1393,JE,JER,JER,Saint Helier,Jersey
+1394,CA,YWL,YWL,Williams Lake,Williams Lake
+1395,MY,AOR,AOR,Alor Setar,Sultan Abdul Halim
+1396,ES,SDR,SDR,Santander,Santander
+1397,US,TXK,TXK,Texarkana,Texarkana Regional
+1398,IT,AOI,AOI,Ancona,Marche Airport
+1399,US,GST,GST,Gustavus,Gustavus
+1400,RS,KVO,KVO,Kraljevo,Morava Airport
+1401,SD,KRT,KRT,Khartoum,Khartoum International
+1402,DM,DOM,DOM,Saint Andrew Parish,Douglas–Charles
+1403,PH,WNP,WNP,"Naga, Camarines Sur",Naga
+1404,US,SCE,SCE,State College,University Park
+1405,CL,ZAL,ZAL,Valdivia,Pichoy Airport
+1406,CA,SUR,SUR,Nibinamik First Nation,Summer Beaver Airport
+1407,NZ,HKK,HKK,Hokitika,Hokitika
+1408,GR,JKL,JKL,Kalymnos,Kalymnos Island National
+1409,TR,ADA,ADA,Adana,Adana Şakirpaşa
+1410,US,GNV,GNV,Gainesville,Gainesville Regional
+1411,TN,SFA,SFA,Sfax,Sfax–Thyna International
+1412,RU,PWE,PWE,Pevek,Pevek
+1413,US,AVP,AVP,Wilkes-Barre,Wilkes-Barre/Scranton International
+1414,NG,ENU,ENU,Enugu,Akanu Ibiam International
+1415,FI,JYV,JYV,Jyväskylä,Jyvaskyla
+1416,CZ,KLV,KLV,Karlovy Vary,Karlovy Vary
+1417,VU,SSR,SSR,Sara,Sara
+1418,FI,RVN,RVN,Rovaniemi,Rovaniemi
+1419,TH,HDY,HDY,Hat Yai,Hat Yai International
+1420,AE,AAN,AAN,Al Ain,Al Ain International
+1421,AU,KNS,KNS,King Island,King Island
+1422,ES,TFN,TCI,Tenerife,Tenerife-North
+1423,BO,LPB,LPB,La Paz,El Alto International
+1424,US,GRI,GRI,Grand Island,Central Nebraska Regional
+1425,US,PSM,PSM,Portsmouth,Portsmouth International Airport at Pease
+1426,MY,MYY,MYY,Miri,Miri
+1427,TR,ERC,ERC,Erzincan,Erzincan
+1428,PG,HKN,HKN,Hoskins,Hoskins
+1429,CA,YQT,YQT,Thunder Bay,Thunder Bay International
+1430,NP,RJB,RJB,Rajbiraj,Rajbiraj Airport
+1431,BE,LGG,LGG,Liège,Liège
+1432,RU,HTG,HTG,Khatanga,Khatanga
+1433,CV,VXE,VXE,São Vicente,Cesária Évora
+1434,US,IRK,IRK,Kirksville,Kirksville Regional
+1435,US,PIE,TPA,Tampa,St. Pete–Clearwater International
+1436,CN,BSD,BSD,"Baoshan, Yunnan",Baoshan Yunrui
+1437,ZA,PZL,PZL,Phinda Private Game Reserve,Phinda Zulu Inyala
+1438,US,IPL,IPL,El Centro,Imperial County
+1439,US,SAV,SAV,Savannah,Savannah/Hilton Head International
+1440,GT,PBR,PBR,Puerto Barrios,Puerto Barrios
+1441,GG,ACI,ACI,Alderney,Alderney
+1442,ML,BKO,BKO,Bamako,Bamako–Sénou International
+1443,US,FLO,FLO,Florence,Florence Regional
+1444,GL,JAV,JAV,Ilulissat,Ilulissat
+1445,DE,BRE,BRE,Bremen,Bremen
+1446,FR,UIP,UIP,Quimper,Quimper–Cornouaille
+1447,AR,USH,USH,Ushuaia,Ushuaia – Malvinas Argentinas International
+1448,ID,LOP,LOP,"Praya, Lombok",Lombok International
+1449,BA,SJJ,SJJ,Sarajevo,Sarajevo International
+1450,NO,LKL,LKL,Lakselv,"Lakselv Airport, Banak"
+1451,VU,TAH,TAH,Tanna,Whitegrass
+1452,RU,UUS,UUS,Yuzhno-Sakhalinsk,Yuzhno-Sakhalinsk
+1453,GR,SMI,SMI,Samos,Samos International
+1454,BS,AXP,AXP,Spring Point,Spring Point
+1455,US,PUW,PUW,Pullman,Pullman–Moscow Regional
+1456,FR,CMF,CMF,Chambéry,Chambéry
+1457,PK,SKZ,SKZ,Sukkur,Sukkur
+1458,DZ,BLJ,BLJ,Batna,Mostépha Ben Boulaid
+1459,CA,YAY,YAY,St. Anthony,St. Anthony
+1460,US,ABE,ABE,Allentown,Lehigh Valley International
+1461,US,BPT,BPT,Beaumont,Jack Brooks Regional
+1462,MY,LGL,LGL,Long Lellang,Long Lellang
+1463,TR,MSR,MSR,Muş,Muş
+1464,RU,TJM,TJM,Tyumen,Roshchino International
+1465,BE,OST,OST,Ostend,Ostend-Bruges International
+1466,RO,OMR,OMR,Oradea,Oradea International
+1467,PH,EUQ,SJI,"San Jose, Occidental Mindoro",Evelio Javier Airport
+1468,US,CPX,CPX,Culebra,Benjamín Rivera Noriega
+1469,DZ,CBH,CBH,Béchar,Boudghene Ben Ali Lotfi
+1470,DZ,ELU,ELU,El Oued,Guemar
+1471,US,AZO,AZO,Kalamazoo,Kalamazoo/Battle Creek International
+1472,CA,YTL,YTL,Kitchenuhmaykoosib Inninuwug First Nation,Big Trout Lake Airport
+1473,BO,UYU,UYU,Uyuni,Uyuni
+1474,TR,NKT,NKT,Şırnak,Şırnak
+1475,US,GUC,GUC,Gunnison,Gunnison–Crested Butte Regional
+1476,GR,MLO,MLO,"Plaka, Milos",Milos Island National
+1477,CA,YXL,YXL,Sioux Lookout,Sioux Lookout
+1478,ID,NBX,NBX,Nabire Regency,Nabire
+1479,ID,LUV,LUV,Langgur,Karel Sadsuitubun Airport
+1480,ES,PNA,PNA,Pamplona,Pamplona
+1481,AU,BME,BME,Broome,Broome International
+1482,US,TVC,TVC,Traverse City,Cherry Capital
+1483,HN,RTB,RTB,Coxen Hole,Juan Manuel Gálvez International
+1484,IR,IFN,IFN,Isfahan,Isfahan International
+1485,US,CEC,CEC,Crescent City,Del Norte County
+1486,TL,DIL,DIL,Dili,Presidente Nicolau Lobato International
+1487,AR,SLA,SLA,Salta,Martín Miguel de Güemes International
+1488,TZ,TGT,TGT,Tanga,Tanga
+1489,ES,LPA,LPA,Las Palmas,Gran Canaria
+1490,SI,POW,POW,Portoroz,Portoroz Airport
+1491,JP,KMJ,KMJ,Kumamoto,Kumamoto
+1492,TH,NAW,NAW,Narathiwat Province,Narathiwat
+1493,MR,EMN,EMN,Nema,Nema Airport
+1494,CA,YYT,YYT,St. John s,St. John's International
+1495,VU,ULB,ULB,Toak,Ulei
+1496,PH,CGY,CGY,Cagayan de Oro,Laguindingan Airport
+1497,ID,MKW,MKW,Manokwari,Rendani
+1498,TR,KCM,KCM,Kahramanmaraş,Kahramanmaraş
+1499,CA,YCB,YCB,Cambridge Bay,Cambridge Bay
+1500,BB,BGI,BGI,Bridgetown,Grantley Adams International
+1501,TW,RMQ,RMQ,Taichung,Taichung
+1502,SX,SXM,SXM,Lower Prince's Quarter,Princess Juliana International
+1503,RU,NLI,NLI,Nikolayevsk-on-Amur,Nikolaevsk-na-Amure
+1504,RU,NER,NER,Neryungri,Chulman Neryungri Airport
+1505,SA,JED,JED,Jeddah,King Abdulaziz International
+1506,SA,AJF,AJF,Al Jawf Region,Al-Jawf Domestic
+1507,US,SSB,STX,Saint Croix,Christiansted Harbor Seaplane Base
+1508,US,AGC,PIT,Pittsburgh,Allegheny County Airport
+1509,AU,BHQ,BHQ,Broken Hill,Broken Hill
+1510,SJ,LYR,LYR,Longyearbyen,"Svalbard Airport, Longyear"
+1511,US,SVA,SVA,Savoonga,Savoonga
+1512,US,TLH,TLH,Tallahassee,Tallahassee International
+1513,ID,PGK,PGK,Pangkal Pinang,Depati Amir
+1514,UA,KBP,IEV,Kyiv,Boryspil International
+1515,NP,SKH,SKH,Surkhet,Surkhet Airport
+1516,BR,CNF,BHZ,Belo Horizonte,Tancredo Neves International
+1517,MX,CUA,CUA,Ciudad Constitución,Ciudad Constitución
+1518,SA,AQI,AQI,Qaisumah,Al Qaisumah/Hafr Al Batin
+1519,CN,INC,INC,Yinchuan,Yinchuan Hedong International
+1520,US,BKL,CLE,Cleveland,Cleveland Burke Lakefront
+1521,CN,BZX,BZX,Bazhong,Bazhong Enyang Airport
+1522,CA,YRS,YRS,Red Sucker Lake,Red Sucker Lake
+1523,AR,RSA,RSA,Santa Rosa,Santa Rosa
+1524,AU,ONS,ONS,Onslow,Onslow
+1525,SE,OER,OER,Örnsköldsvik,Örnsköldsvik
+1526,PT,PIX,PIX,Pico Island,Pico
+1527,CN,LUM,LUM,Mang City,Dehong Mangshi
+1528,DK,RNN,RNN,Bornholm,Bornholm
+1529,TC,XSC,XSC,South Caicos,South Caicos
+1530,US,SIT,SIT,Sitka,Sitka Rocky Gutierrez
+1531,AU,WGA,WGA,Wagga Wagga,Wagga Wagga
+1532,ID,AEG,AEG,Padangsidempuan,Aek Godang
+1533,CA,YSO,YSO,Postville,Postville
+1534,CN,ZHA,ZHA,Zhanjiang,Zhanjiang
+1535,SA,RAE,RAE,Arar,Arar Domestic
+1536,MG,WMN,WMN,Maroantsetra,Maroantsetra
+1537,US,AEX,AEX,Alexandria,Alexandria International
+1538,BR,DOU,DOU,Dourados,Dourados
+1539,JP,HIJ,HIJ,Hiroshima,Hiroshima
+1540,CN,ZUH,ZUH,Zhuhai,Zhuhai Jinwan
+1541,GR,KSO,KSO,Kastoria,Kastoria National
+1542,CA,YYF,YYF,Penticton,Penticton Regional
+1543,ID,PLW,PLW,Palu,Mutiara SIS Al-Jufrie
+1544,HT,CAP,CAP,Cap-Haïtien,Cap-Haïtien International
+1545,BR,CKS,CKS,Parauapebas,Carajás
+1546,CN,HMI,HMI,Hami,Hami
+1547,CA,YXT,YXT,Terrace,Northwest Regional Airport Terrace-Kitimat
+1548,CN,JGS,JGS,Ji an,Jinggangshan
+1549,VE,MAR,MAR,Maracaibo,La Chinita International
+1550,DK,ODE,ODE,Odense,Odense Airport
+1551,US,YAK,YAK,Yakutat,Yakutat
+1552,ID,RTI,RTI,Rote Island,Roti David C. Saudale
+1553,US,VNY,LAX,Los Angeles,Van Nuys Airport
+1554,AU,RMA,RMA,Roma,Roma
+1555,ID,NAM,NAM,Namlea-Buru Island,Namlea Airport
+1556,CA,YVQ,YVQ,Norman Wells,Norman Wells
+1557,NC,NOU,NOU,Nouméa,La Tontouta International
+1558,GB,MAN,MAN,Manchester,Manchester
+1559,CA,YFC,YFC,Fredericton,Fredericton International
+1560,US,ELP,ELP,El Paso,El Paso International
+1561,NO,SOG,SOG,Sogndal,"Sogndal Airport, Haukåsen"
+1562,VU,EAE,EAE,Emae,Siwo
+1563,JP,KMQ,KMQ,Komatsu,Komatsu
+1564,MY,BBN,BBN,Bario,Bario
+1565,US,RFD,CHI,Chicago,Chicago Rockford International
+1566,UA,ODS,ODS,Odessa,Odessa International
+1567,ID,PKU,PKU,Pekanbaru,Sultan Syarif Kasim II International
+1568,DE,NUE,NUE,Nuremberg,Nuremberg
+1569,GB,BFS,BFS,Belfast,Belfast International
+1570,BE,CRL,BRU,Brussels,Brussels South Charleroi
+1571,IN,RAJ,RAJ,Rajkot,Rajkot
+1572,MM,MWQ,MWQ,Magway,Magway Airport
+1573,NZ,CHC,CHC,Christchurch,Christchurch International
+1574,AU,ALH,ALH,Albany,Albany
+1575,ZM,JEK,RYL,Lower Zambezi National Park,Lower Zambezi Nat.Park Jeki
+1576,NP,SIF,SIF,"Simara, Bara",Simara
+1577,IT,GOA,GOA,Genoa,Genoa Cristoforo Colombo
+1578,PL,IEG,IEG,Zielona Góra,Zielona Góra
+1579,CA,YIO,YIO,Pond Inlet,Pond Inlet
+1580,CN,CGO,CGO,Zhengzhou,Zhengzhou Xinzheng International
+1581,CA,YKG,YKG,Kangirsuk,Kangirsuk
+1582,SA,HOF,HOF,Hofuf,Al-Ahsa International
+1583,IT,CIY,CIY,Comiso,Comiso
+1584,CA,YUT,YUT,Naujaat,Naujaat
+1585,IT,LIN,MIL,Milan,Linate
+1586,CN,LZH,LZH,Liuzhou,Liuzhou Bailian
+1587,US,COD,COD,Cody,Yellowstone Regional
+1588,LT,KUN,KUN,Kaunas,Kaunas
+1589,ES,RJL,RJL,Logroño,Logroño–Agoncillo
+1590,ZA,ULX,ULX,Sabi Sand Game Reserve,Ulusaba
+1591,US,HLN,HLN,Helena,Helena Regional
+1592,AU,HVB,HVB,Hervey Bay,Hervey Bay
+1593,CN,PKX,BJS,Beijing,Beijing Daxing International Airport
+1594,MZ,TET,TET,Tete,Chingozi
+1595,US,CWA,AUW,Wausau,Central Wisconsin
+1596,CN,MXZ,MXZ,Meizhou,Meixian
+1597,PF,HOI,HOI,Hao,Hao
+1598,PH,USU,USU,"Busuanga, Palawan",Francisco B. Reyes
+1599,BR,XAP,XAP,Chapecó,Chapecó
+1600,AO,SZA,SZA,Soyo,Soyo
+1601,HR,ZAD,ZAD,Zadar,Zadar
+1602,SB,AKS,AKS,Auki,Auki Gwaunaru u
+1603,US,ADQ,ADQ,Kodiak,Kodiak
+1604,TR,KZR,KZR,Kütahya,Zafer
+1605,CA,YXC,YXC,Cranbrook,Cranbrook/Canadian Rockies International
+1606,CA,YPR,YPR,Prince Rupert,Prince Rupert
+1607,AU,BUC,BUC,Burketown,Burketown
+1608,US,SLN,SLN,Salina,Salina Regional
+1609,RU,KGP,KGP,Kogalym,Kogalym International
+1610,FR,LDE,LDE,Lourdes,Tarbes–Lourdes–Pyrénées
+1611,PF,RGI,RGI,Rangiroa,Rangiroa
+1612,IS,KEF,REK,Reykjavik,Keflavík International
+1613,RU,GRV,GRV,Grozny,Grozny
+1614,BR,PHB,PHB,Parnaíba,Parnaíba-Prefeito Dr. João Silva Filho International
+1615,CN,NAO,NAO,Nanchong,Nanchong Gaoping
+1616,AU,MCV,MCV,McArthur River zinc mine,McArthur River Mine
+1617,US,OGS,OGS,Ogdensburg,Ogdensburg International
+1618,ES,PMI,PMI,"Palma, Majorca",Palma de Mallorca
+1619,CN,DIG,DIG,Diqing Tibetan Autonomous Prefecture,Diqing Shangri-La
+1620,LK,HRI,HRI,Hambantota,Mattala Rajapaksa International
+1621,CA,YQU,YQU,Grande Prairie,Grande Prairie
+1622,US,DIK,DIK,Dickinson,Dickinson Theodore Roosevelt Regional
+1623,AU,CVQ,CVQ,Carnarvon,Carnarvon
+1624,RU,OLZ,OLZ,Olyokminsk,Olyokminsk
+1625,SE,SDL,SDL,Sundsvall,Sundsvall–Timrå
+1626,IN,TIR,TIR,Tirupati,Tirupati
+1627,TZ,LKY,LKY,Lake Manyara,Lake Manyara
+1628,RU,SGC,SGC,Surgut,Surgut International
+1629,TR,CKZ,CKZ,Çanakkale,Çanakkale
+1630,NZ,WHK,WHK,Whakatane,Whakatane
+1631,SA,DWD,DWD,Dawadmi,Dawadmi Domestic
+1632,PG,MIS,MIS,Misima Island,Misima Island
+1633,CN,SZV,SZV,Suzhou,Guangfu Airport
+1634,US,ORL,ORL,Orlando,Orlando Executive
+1635,NZ,IVC,IVC,Invercargill,Invercargill
+1636,FR,BIQ,BIQ,Biarritz,Biarritz Pays Basque
+1637,MY,LBU,LBU,Labuan,Labuan
+1638,PE,ILQ,ILQ,Ilo,Ilo Airport
+1639,NZ,AKL,AKL,Auckland,Auckland
+1640,CN,BAR,BAR,Qionghai,Qionghai Bo'ao
+1641,DZ,BJA,BJA,Béjaïa,Abane Ramdane
+1642,CO,AXM,AXM,Armenia,El Edén International
+1643,GB,NDY,NDY,"Sanday, Orkney",Sanday
+1644,CA,YXJ,YXJ,Fort St. John,Fort St. John
+1645,MA,TTA,TTA,Tan-Tan,Tan Tan
+1646,PH,TWT,TWT,Tawi-Tawi,Sanga-Sanga
+1647,IN,CDP,CDP,Kadapa,Cuddapah
+1648,JP,TSJ,TSJ,Tsushima,Tsushima
+1649,BR,MAB,MAB,"Marabá, Pará",Marabá
+1650,CL,MHC,WCA,Castro,Mocopulli
+1651,MZ,UEL,UEL,Quelimane,Quelimane
+1652,BR,JOI,JOI,Joinville,Joinville-Lauro Carneiro de Loyola
+1653,US,WYS,WYS,West Yellowstone,Yellowstone
+1654,BR,BEL,BEL,Belém,Val de Cans International
+1655,NG,QRW,QRW,Warri,Warri
+1656,CN,HIA,HIA,Huai an,Huai an Lianshui
+1657,US,TWF,TWF,Twin Falls,Magic Valley Regional
+1658,TZ,DOD,DOD,Dodoma,Dodoma
+1659,US,VQS,VQS,Vieques,Antonio Rivera Rodríguez
+1660,GB,LTN,LON,London,Luton
+1661,SB,GZO,GZO,Gizo,Nusatupe
+1662,AU,OOL,OOL,Gold Coast,Gold Coast
+1663,US,DEC,DEC,Decatur,Decatur
+1664,US,TYR,TYR,Tyler,Tyler Pounds Regional
+1665,KR,KPO,KPO,Pohang,Pohang
+1666,JP,NGO,NGO,Nagoya,Chubu Centrair International
+1667,US,PBI,PBI,West Palm Beach,Palm Beach International
+1668,US,CKB,CKB,Clarksburg,North Central West Virginia
+1669,BR,VIX,VIX,"Vitória, Espírito Santo",Eurico de Aguiar Salles
+1670,NP,BHR,BHR,Bharatpur,Bharatpur
+1671,FK,MPN,MPN,Mount Pleasant,RAF Mount Pleasant
+1672,ID,JOG,JOG,Yogyakarta,Adisutjipto International
+1673,RU,LED,LED,Saint Petersburg,Pulkovo International
+1674,MX,MXL,MXL,Mexicali,Mexicali International
+1675,AF,KBL,KBL,Kabul,Hamid Karzai International
+1676,RU,ROV,ROV,Rostov-on-Don,Platov International Airport
+1677,BR,CFB,CFB,Cabo Frio,Cabo Frio International
+1678,GR,JSY,JSY,Syros,Syros Island National
+1679,PG,TBG,TBG,Tabubil,Tabubil
+1680,CA,YST,YST,St. Theresa Point First Nation,St. Theresa Point
+1681,KE,HKR,MRE,Maasai Mara,Mara North Airport
+1682,GB,BHD,BFS,Belfast,George Best Belfast City
+1683,MN,DLZ,DLZ,Dalanzadgad,Dalanzadgad
+1684,KI,TRW,TRW,Bairiki,Bonriki International
+1685,FR,BVE,BVE,Brive-la-Gaillarde,Brive–Souillac Airport
+1686,ID,KTG,KTG,Ketapang,Ketapang Rahadi Osman
+1687,US,SPS,SPS,Wichita Falls,Wichita Falls Municipal
+1688,KZ,ALA,ALA,Almaty,Almaty International
+1689,FR,DLE,DLE,Dole,Dole–Jura
+1690,FR,FDF,FDF,Fort-de-France,Martinique Aimé Césaire International
+1691,LY,MRA,MRA,Misurata,Misrata
+1692,US,LAX,LAX,Los Angeles,Los Angeles International
+1693,GE,BUS,BUS,Batumi,Batumi International
+1694,DK,AAR,AAR,Aarhus,Aarhus
+1695,GL,UMD,UMD,Uummannaq,Uummannaq Heliport
+1696,CI,MJC,MJC,Man,Man
+1697,GB,HUY,HUY,Kirmington,Humberside
+1698,ES,BJZ,BJZ,Badajoz,Badajoz
+1699,US,BTV,BTV,Burlington,Burlington International
+1700,DE,PAD,PAD,Paderborn,Paderborn Lippstadt
+1701,CA,YGX,YGX,Gillam,Gillam
+1702,VU,SLH,SLH,Sola,Vanua Lava
+1703,ID,PLM,PLM,Palembang,Sultan Mahmud Badaruddin II International
+1704,PF,TIH,TIH,Tikehau,Tikehau
+1705,CA,YBR,YBR,Brandon,Brandon Municipal
+1706,RU,OSW,OSW,Orsk,Orsk
+1707,BR,VAG,VAG,Varginha,Major Brigadeiro Trompowsky
+1708,GD,GND,GND,St George's,Maurice Bishop International
+1709,PT,PXO,PXO,Vila Baleira,Porto Santo
+1710,AU,GFN,GFN,Grafton,Clarence Valley Regional
+1711,IN,LKO,LKO,Lucknow,Chaudhary Charan Singh International
+1712,CA,YIK,YIK,Ivujivik,Ivujivik
+1713,US,ROC,ROC,Rochester,Greater Rochester International
+1714,MZ,VPY,VPY,Chimoio,Chimoio
+1715,GQ,SSG,SSG,Malabo,Malabo International
+1716,EG,ABS,ABS,Abu Simbel,Abu Simbel
+1717,CA,YHP,YHP,Poplar Hill First Nation,Poplar Hill Airport
+1718,CN,FUO,FUO,Foshan,Foshan Shadi
+1719,DZ,LOO,LOO,Laghouat,L Mekrareg
+1720,SE,KRN,KRN,Kiruna,Kiruna
+1721,KZ,PLX,PLX,Semey,Semey
+1722,AU,WOL,WOL,City of Wollongong,Illawarra Regional
+1723,MX,MTY,MTY,Monterrey,Monterrey International
+1724,CA,YYJ,YYJ,Victoria,Victoria International
+1725,US,GSP,GSP,Greenville,Greenville–Spartanburg International
+1726,RU,USR,USR,Ust-Nera,Ust-Nera
+1727,US,OBU,OBU,Kobuk,Kobuk
+1728,VU,AUY,AUY,Aneityum,Anatom
+1729,GR,RHO,RHO,Rhodes,Rhodes International
+1730,US,PIR,PIR,Pierre,Pierre Regional
+1731,US,APN,APN,Alpena,Alpena County Regional
+1732,NO,SVG,SVG,Stavanger,"Stavanger Airport, Sola"
+1733,JP,MSJ,MSJ,Misawa,Misawa
+1734,CL,WPU,WPU,Puerto Williams,Guardiamarina Zañartu
+1735,FR,BZR,BZR,Béziers,Béziers Cap d Agde
+1736,PG,RAB,RAB,Rabaul,Rabaul
+1737,TR,IST,IST,Istanbul,Istanbul Airport
+1738,PT,GRW,GRW,Graciosa,Graciosa
+1739,ES,SPC,SPC,Santa Cruz de La Palma,La Palma
+1740,NO,SOJ,SOJ,Sørkjosen,Sørkjosen
+1741,ZM,MFU,MFU,Mfuwe,Mfuwe
+1742,FR,LYS,LYS,Lyon,Lyon–Saint-Exupéry
+1743,ZM,MNS,MNS,Mansa,Mansa Airport
+1744,US,TYS,TYS,Knoxville,McGhee Tyson
+1745,IT,CIA,ROM,Rome,Ciampino–G. B. Pastine International
+1746,NC,TOU,TOU,Touho,Touho
+1747,CN,HRB,HRB,Harbin,Harbin Taiping International
+1748,RU,MQF,MQF,Magnitogorsk,Magnitogorsk International
+1749,CN,DAT,DAT,Datong,Datong Yungang
+1750,BR,GEL,GEL,Santo Ângelo,Sepé Tiaraju
+1751,NO,HAA,HAA,Hasvik,Hasvik
+1752,US,LBB,LBB,Lubbock,Lubbock Preston Smith International
+1753,MY,JHB,JHB,Johor Bahru,Senai International
+1754,US,MCN,MCN,Macon,Middle Georgia Regional
+1755,UZ,UGC,UGC,Urgench,Urgench International
+1756,ES,OVD,OVD,Asturias,Asturias
+1757,ES,REU,REU,Reus,Reus
+1758,PH,PPS,PPS,Puerto Princesa,Puerto Princesa International
+1759,FJ,ICI,ICI,Cicia,Cicia
+1760,MG,MJN,MJN,Mahajanga,Amborovy
+1761,PY,AGT,AGT,Ciudad del Este,Guaraní International
+1762,FJ,SVU,SVU,Savusavu,Savusavu
+1763,US,SOW,SOW,Show Low,Show Low Regional
+1764,AU,OAG,OAG,Orange,Orange
+1765,US,DUT,DUT,Dutch Harbor,Unalaska
+1766,TC,SLX,SLX,"Salt Cay, Turks Islands",Salt Cay
+1767,US,RUT,RUT,Rutland City,Rutland–Southern Vermont Regional
+1768,CA,YHS,YHS,Sechelt,Sechelt
+1769,SN,ZIG,ZIG,Ziguinchor,Ziguinchor
+1770,CA,YYH,YYH,Taloyoak,Taloyoak
+1771,ID,BUW,BUW,Bau-Bau,Baubau
+1772,PH,ENI,ENI,"El Nido, Palawan",El Nido
+1773,PK,GWD,GWD,Gwadar,Gwadar International
+1774,IE,SNN,SNN,"Shannon, County Clare",Shannon
+1775,GL,GOH,GOH,Nuuk,Nuuk
+1776,CN,WUS,WUS,"Wuyishan, Fujian",Wuyishan
+1777,KE,NYK,NYK,Nanyuki,Nanyuki
+1778,PH,MRQ,MRQ,Marinduque,Marinduque
+1779,CA,YYY,YYY,Mont-Joli,Mont-Joli
+1780,ID,MNA,MNA,Melonguane,Melangguane
+1781,MM,THL,THL,Tachileik,Tachilek
+1782,CN,LFQ,LFQ,Linfen,Linfen Qiaoli
+1783,US,MAZ,MAZ,Mayagüez,Eugenio María de Hostos
+1784,GL,JSU,JSU,Maniitsoq,Maniitsoq
+1785,US,BFL,BFL,Bakersfield,Meadows Field
+1786,NL,RTM,RTM,Rotterdam,Rotterdam The Hague
+1787,AU,DMD,DMD,Doomadgee,Doomadgee
+1788,ID,KDI,KDI,Kendari,Haluoleo
+1789,AR,PRA,PRA,Paraná,General Justo José de Urquiza
+1790,US,CNM,CNM,Carlsbad,Cavern City Air Terminal
+1791,CA,YXH,YXH,Medicine Hat,Medicine Hat
+1792,DE,FMO,FMO,Münster,Münster Osnabrück International
+1793,PK,UET,UET,Quetta,Quetta International
+1794,MM,MOG,MOG,Mong Hsat Township,Monghsat
+1795,GY,GEO,GEO,Georgetown,Cheddi Jagan International
+1796,MX,GYM,GYM,Guaymas,Guaymas International
+1797,IE,CFN,CFN,Donegal,Donegal
+1798,BR,SXO,SXO,São Félix do Araguaia,São Félix do Araguaia Airport
+1799,AU,WIN,WIN,Winton,Winton
+1800,PH,TAC,TAC,Tacloban,Daniel Z. Romualdez
+1801,CN,LLV,LLV,Lüliang,Lüliang
+1802,CN,BAV,BAV,Baotou,Baotou
+1803,US,HIB,HIB,Hibbing,Range Regional
+1804,LA,VTE,VTE,Vientiane,Wattay International
+1805,MM,NYW,NYW,Monywa,Monywa
+1806,MX,TAM,TAM,Tampico,Tampico International
+1807,LC,SLU,SLU,Saint Lucia,George F. L. Charles
+1808,BR,SLZ,SLZ,São Luís,Marechal Cunha Machado International
+1809,CA,XSI,XSI,South Indian Lake,South Indian Lake
+1810,CR,LIO,LIO,Puerto Limón,Limón International
+1811,PT,TER,TER,Terceira Island,Lajes Field
+1812,JP,TAK,TAK,Takamatsu,Takamatsu
+1813,PK,TUK,TUK,Turbat,Turbat International
+1814,US,BQN,BQN,Aguadilla,Aguadilla Rafael Hernandez
+1815,AR,BHI,BHI,Bahía Blanca,Comandante Espora
+1816,US,RDD,RDD,Redding,Redding Municipal
+1817,CN,JXA,JXA,Jixi,Jixi Xingkaihu
+1818,IT,FCO,ROM,Rome,Leonardo da Vinci–Fiumicino Airport
+1819,TR,KFS,KFS,Kastamonu,Kastamonu
+1820,CN,ZHY,ZHY,Zhongwei,Zhongwei Shapotou
+1821,AU,MQL,MQL,Mildura,Mildura
+1822,RU,ABA,ABA,Abakan,Abakan International
+1823,RU,IWA,IWA,Ivanovo,Ivanovo Yuzhny
+1824,RU,YKS,YKS,Yakutsk,Yakutsk
+1825,PH,ILO,ILO,Iloilo City,Iloilo International
+1826,NP,PKR,PKR,Pokhara,Pokhara
+1827,TZ,MUZ,MUZ,Musoma,Musoma
+1828,DZ,IAM,IAM,In Amenas,In Amenas
+1829,DZ,MZW,MZW,Mecheria,Mecheria Airport
+1830,VN,DAD,DAD,Da Nang,Da Nang International
+1831,AU,GOV,GOV,Nhulunbuy,Gove
+1832,CA,YZV,YZV,Sept-Îles,Sept-Îles
+1833,GB,EOI,EOI,Eday,Eday
+1834,RU,ZIX,ZIX,Zhigansk,Zhigansk
+1835,CX,XCH,XCH,Shire of Christmas Island ,Christmas Island
+1836,BR,GYN,GYN,Goiânia,Santa Genoveva
+1837,ET,ABK,ABK,Kebri Dahar,Kabri Dar
+1838,US,DRT,DRT,Del Rio,Del Rio International
+1839,PE,PCL,PCL,Pucallpa,FAP Captain David Abensur Rengifo International
+1840,US,HNM,HNM,Hana,Hana
+1841,NC,MEE,MEE,Mare,Mare Airport
+1842,FR,DNR,DNR,Dinard,Dinard–Pleurtuit–Saint-Malo
+1843,US,AMA,AMA,Amarillo,Rick Husband Amarillo International
+1844,MA,BEM,BEM,Beni Mellal,Beni Mellal
+1845,RU,KPW,KPW,Keperveyem,Keperveyem
+1846,CA,YIV,YIV,"Island Lake, Manitoba",Island Lake
+1847,CN,LHW,LHW,Lanzhou,Lanzhou Zhongchuan International
+1848,FR,CLY,CLY,"Calvi, Haute-Corse",Calvi – Sainte-Catherine
+1849,US,OTH,OTH,North Bend,Southwest Oregon Regional
+1850,ID,TMC,TMC,Tambolaka,Tambolaka
+1851,PK,MUX,MUX,Multan,Multan International
+1852,IL,ETM,ETH,Eilat,Ramon Airport
+1853,CN,KWL,KWL,Guilin,Guilin Liangjiang International
+1854,CN,HKG,HKG,Hong Kong,Hong Kong International
+1855,AO,DUE,DUE,Dundo,Dundo
+1856,PF,PPT,PPT,Tahiti,Fa a ā International
+1857,FR,MRS,MRS,Marseille,Marseille Provence
+1858,ID,NAH,NAH,Naha,Naha
+1859,VU,LPM,LPM,Lamap,Malekoula
+1860,CI,HGO,HGO,Korhogo,Korhogo
+1861,CA,ZTM,ZTM,Shamattawa First Nation,Shamattawa
+1862,BS,ZSA,ZSA,San Salvador Island,San Salvador
+1863,CN,HCJ,HCJ,Hechi,Hechi Jinchengjiang
+1864,US,BNA,BNA,Nashville,Nashville International
+1865,CA,YZF,YZF,Yellowknife,Yellowknife
+1866,CA,YRL,YRL,Red Lake,Red Lake
+1867,DZ,EBH,EBH,El Bayadh,El Bayadh
+1868,KW,KWI,KWI,Kuwait City,Kuwait International
+1869,GB,NCL,NCL,Newcastle upon Tyne,Newcastle
+1870,US,MLI,MLI,Moline,Quad City International
+1871,TZ,JRO,JRO,Mount Kilimanjaro,Kilimanjaro International
+1872,BR,IZA,JDF,Juiz de Fora,Zona da Mata Regional
+1873,CA,YQK,YQK,Kenora,Kenora
+1874,ET,AMH,AMH,Arba Minch,Arba Minch
+1875,UZ,TMJ,TMJ,Termez,Termez
+1876,US,CAK,CAK,Akron,Akron–Canton
+1877,FR,AUR,AUR,Aurillac,Aurillac – Tronquières
+1878,CN,WXN,WXN,Wanzhou District,Wanzhou Wuqiao
+1879,HN,SAP,SAP,San Pedro Sula,Ramón Villeda Morales International
+1880,AU,BQB,BQB,Busselton,Busselton Regional
+1881,PF,UAH,UAH,Ua Huka,Ua Huka
+1882,US,ORD,CHI,Chicago,O Hare International
+1883,US,DVT,PHX,Phoenix,Phoenix Deer Valley Airport
+1884,BR,VDC,VDC,Vitória da Conquista,Vitória da Conquista
+1885,US,HTS,HTS,Huntington,Tri-State
+1886,CL,IPC,IPC,Easter Island,Mataveri International
+1887,US,ILG,ILG,Wilmington,New Castle Airport
+1888,NA,LUD,LUD,Lüderitz,Lüderitz
+1889,RU,ZIA,MOW,Moscow,Zhukovsky International
+1890,GR,AOK,AOK,Karpathos,Karpathos Island National
+1891,GB,INV,INV,Inverness,Inverness
+1892,US,COU,COU,Columbia,Columbia Regional
+1893,RU,VOZ,VOZ,Voronezh,Voronezh International
+1894,US,MWA,MWA,Marion,Williamson County Regional
+1895,ZA,RCB,RCB,Richards Bay,Richards Bay
+1896,MM,KHM,KHM,Khamti,Khamti
+1897,AU,ROK,ROK,Rockhampton,Rockhampton
+1898,BR,VCP,SAO,São Paulo,Viracopos International
+1899,US,SNA,SNA,Santa Ana,John Wayne
+1900,RU,OMS,OMS,Omsk,Omsk Tsentralny
+1901,MC,MCM,MCM,Monte Carlo,Monaco Heliport
+1902,US,BHM,BHM,Birmingham,Birmingham-Shuttlesworth International
+1903,NO,EVE,EVE,Narvik,"Harstad/Narvik Airport, Evenes"
+1904,CA,YKL,YKL,Schefferville,Schefferville
+1905,CN,KRL,KRL,Korla,Korla
+1906,ET,DSE,DSE,Dessie,Combolcha
+1907,EC,MEC,MEC,Manta,Eloy Alfaro International
+1908,CN,KOW,KOW,Ganzhou,Ganzhou Huangjin
+1909,IN,AGR,AGR,Agra,Agra
+1910,AU,HTI,HTI,Hamilton Island,Great Barrier Reef
+1911,FJ,TVU,TVU,Taveuni,Matei
+1912,MK,OHD,OHD,Ohrid,Ohrid  St. Paul the Apostle 
+1913,CN,WGN,WGN,Shaoyang,Shaoyang Wugang
+1914,US,FLL,FLL,Fort Lauderdale,Fort Lauderdale–Hollywood International
+1915,RU,GOJ,GOJ,Nizhny Novgorod,Strigino International
+1916,US,MMH,MMH,Mammoth Lakes,Mammoth Yosemite
+1917,AR,SDE,SDE,Santiago del Estero,Vicecomodoro Ángel de la Paz Aragonés
+1918,US,LRD,LRD,Laredo,Laredo International
+1919,GR,SKG,SKG,Thessaloniki,Thessaloniki International Airport  Macedonia 
+1920,AU,ULP,ULP,Quilpie,Quilpie
+1921,KE,ASV,ASV,Amboseli National Park,Amboseli
+1922,VN,DLI,DLI,Da Lat,Lien Khuong
+1923,CN,HYN,HYN,Taizhou,Taizhou Luqiao
+1924,MX,TSL,TSL,Tamuín,Tamuín National Airport
+1925,PA,BOC,BOC,"Bocas Town, Bocas del Toro",Bocas del Toro  Isla Colón  International
+1926,CN,WEF,WEF,Weifang,Weifang
+1927,SO,BSA,BSA,Bosaso,Bosaso
+1928,US,PHX,PHX,Phoenix,Phoenix Sky Harbor International
+1929,KE,KTL,KTL,Kitale,Kitale
+1930,CN,WNH,WNH,Wenshan City,Wenshan Puzhehei
+1931,CN,LZY,LZY,Nyingchi,Nyingchi Mainling
+1932,TC,GDT,GDT,Cockburn Town,JAGS McCartney International
+1933,CA,XGR,XGR,Kangiqsualujjuaq,Kangiqsualujjuaq (Georges River)
+1934,PH,SWL,SWL,San Vicente,San Vicente Airport
+1935,TJ,TJU,TJU,Kulob,Kulob
+1936,US,SBA,SBA,Santa Barbara,Santa Barbara Municipal
+1937,US,MOT,MOT,Minot,Minot International
+1938,MM,KYP,KYP,Kyaukpyu,Kyaukpyu
+1939,MA,FEZ,FEZ,Fes,Fès–Saïs
+1940,US,MGW,MGW,Morgantown,Morgantown Municipal
+1941,FR,TLS,TLS,Toulouse,Toulouse–Blagnac
+1942,CA,YMO,YMO,Moosonee,Moosonee
+1943,CA,YPL,YPL,Pickle Lake,Pickle Lake Airport
+1944,VN,VDH,VDH,Đồng Hới,Dong Hoi
+1945,BZ,TZA,BZE,Belize City,Belize City Municipal
+1946,US,MEI,MEI,Meridian,Meridian Regional
+1947,IN,DHM,DHM,Dharamshala,Dharamsala airport
+1948,DO,POP,POP,Puerto Plata,Gregorio Luperón International
+1949,CL,CPO,CPO,Copiapó,Chamonate
+1950,EG,RMF,RMF,Marsa Alam,Marsa Alam International
+1951,CN,WUA,WUA,Wuhai,Wuhai
+1952,RU,ONK,ONK,Olenyok,Olenyok
+1953,TR,NOP,NOP,Sinop,Sinop
+1954,US,LWS,LWS,Lewiston,Lewiston–Nez Perce County
+1955,RU,ASF,ASF,Astrakhan,Narimanovo
+1956,ID,KOE,KOE,Kupang,El Tari International
+1957,NG,AKR,AKR,Akure,Akure
+1958,US,FNT,FNT,Flint,Bishop International
+1959,CM,NSI,YAO,Yaoundé,Yaoundé Nsimalen International
+1960,RU,HTA,HTA,Chita,Kadala
+1961,HN,PEU,PEU,Puerto Lempira,Puerto Lempira
+1962,BR,OAL,OAL,Cacoal,Cacoal
+1963,TW,CYI,CYI,Chiayi,Chiayi
+1964,FJ,KDV,KDV,Kadavu Island,Vunisea
+1965,CW,CUR,CUR,Willemstad,Curaçao International
+1966,CA,YOJ,YOJ,High Level,High Level
+1967,AU,MYA,MYA,Moruya,Moruya
+1968,CL,ZOS,ZOS,Osorno,Cañal Bajo Carlos Hott Siebert
+1969,DE,DTM,DTM,Dortmund,Dortmund
+1970,CA,YWG,YWG,Winnipeg,Winnipeg James Armstrong Richardson International
+1971,KE,KEU,MRE,Maasai Mara,Maasai Mara Keekorok
+1972,US,AZA,PHX,Phoenix,Phoenix–Mesa Gateway
+1973,PF,AAA,AAA,Anaa,Anaa
+1974,US,MCK,MCK,McCook,McCook Ben Nelson Regional
+1975,CN,YTY,YTY,Yangzhou,Yangzhou Taizhou International
+1976,IS,RKV,REK,Reykjavik,Reykjavík
+1977,PH,PAG,PAG,Pagadian,Pagadian
+1978,CA,ZAC,ZAC,York Factory First Nation,York Landing
+1979,FR,BES,BES,Brest,Brest Bretagne
+1980,AU,KUG,KUG,Moa Island,Kubin Island
+1981,ET,ASO,ASO,Asosa,Asosa
+1982,BO,CIJ,CIJ,Cobija,Captain Aníbal Arab
+1983,JP,RNJ,RNJ,Yoron,Yoron
+1984,ZZ,DEE,DEE,Yuzhno-Kurilsk,Yuzhno-Kurilsk Mendeleyevo
+1985,CN,WUT,WUT,Xinzhou,Xinzhou Wutaishan
+1986,US,KOA,KOA,Kailua,Kona International
+1987,AU,TMW,TMW,Tamworth,Tamworth
+1988,KH,REP,REP,Siem Reap,Siem Reap International
+1989,KE,HBY,HBY,Homa Bay,Homa Bay Airport
+1990,CA,KIF,KIF,Kingfisher Lake,Kingfisher Lake
+1991,FI,KOK,KOK,Kokkola,Kokkola-Pietarsaari
+1992,AR,CRD,CRD,Comodoro Rivadavia,General Enrique Mosconi International
+1993,CA,YQQ,YQQ,Comox,CFB Comox
+1994,ID,LAH,LAH,Labuha,Oesman Sadik
+1995,JP,KIX,OSA,Osaka,Kansai International
+1996,MG,NOS,NOS,Nosy Be,Fascene
+1997,MA,OZG,OZG,Zagora,Zagora
+1998,ES,SVQ,SVQ,Seville,Seville
+1999,AR,MDZ,MDZ,Mendoza,Governor Francisco Gabrielli International
+2000,CA,YCR,YCR,"Cross Lake, Manitoba",Cross Lake (Charlie Sinclair Memorial)
+2001,IN,MAA,MAA,Chennai,Chennai International
+2002,CN,DLU,DLU,Dali,Dali
+2003,MA,GLN,GLN,Guelmim,Guelmim
+2004,KZ,KOV,KOV,Kokshetau,Kokshetau
+2005,RU,MCX,MCX,Makhachkala,Uytash
+2006,MM,VBA,VBA,Ann,Ann
+2007,US,VEL,VEL,Vernal,Vernal Regional
+2008,PH,BXU,BXU,Butuan,Bancasi
+2009,TH,NNT,NNT,Nan Province,Nan Nakhon
+2010,DZ,HME,HME,Hassi Messaoud,Oued Irara–Krim Belkacem
+2011,CL,PNT,PNT,Puerto Natales,Teniente Julio Gallardo
+2012,CN,WDS,WDS,Shiyan,Shiyan Wudangshan
+2013,CN,HLH,HLH,Ulan Hot,Ulanhot
+2014,US,MSP,MSP,Minneapolis,Minneapolis–Saint Paul International
+2015,MZ,MPM,MPM,Maputo,Maputo International
+2016,FO,FAE,FAE,Sørvágur,Vágar
+2017,ID,MOH,MOH,Bungku,Maleo Airport
+2018,CL,CCP,CCP,Concepción,Carriel Sur International
+2019,CN,NLT,NLT,Xinyuan County,Xinyuan Nalati
+2020,AO,LAD,LAD,Luanda,Quatro de Fevereiro
+2021,CN,YCU,YCU,Yuncheng,Yuncheng Guangong
+2022,ZM,LVI,LVI,Livingstone,Harry Mwanga Nkumbula International
+2023,US,ATY,ATY,Watertown,Watertown Regional
+2024,CR,DRK,DRK,Bahía Drake,Drake Bay
+2025,CA,ZGI,ZGI,Manto Sipi Cree Nation,Gods River
+2026,US,BOI,BOI,Boise,Boise
+2027,SA,TIF,TIF,Ta if,Ta if Regional
+2028,IL,TLV,TLV,Tel Aviv,Ben Gurion
+2029,CO,MZL,MZL,Manizales,La Nubia
+2030,CA,YBG,YBG,Saguenay,CFB Bagotville
+2031,TJ,LBD,LBD,Khujand,Khujand
+2032,CN,BHY,BHY,Beihai,Beihai Fucheng
+2033,PG,TIZ,TIZ,Tari,Tari
+2034,CN,KHG,KHG,Kashgar,Kashi
+2035,MX,UPN,UPN,Uruapan,Uruapan International
+2036,US,GLV,GLV,Golovin,Golovin
+2037,CO,TCO,TCO,Tumaco,La Florida
+2038,RU,RZH,RZH,Preobrazheniye,Preobrazheniye
+2039,NP,RHP,RHP,Ramechhap,Ramechhap Airport
+2040,FR,AJA,AJA,Ajaccio,Ajaccio Napoleon Bonaparte
+2041,KZ,PWQ,PWQ,Pavlodar,Pavlodar
+2042,DE,STR,STR,Stuttgart,Stuttgart
+2043,ZM,SLI,SLI,Solwezi,Solwezi
+2044,TM,ASB,ASB,Ashgabat,Ashgabat International
+2045,CN,HNY,HNY,Hengyang,Hengyang Nanyue
+2046,CN,SJW,SJW,Shijiazhuang,Shijiazhuang Zhengding International
+2047,US,ABY,ABY,Albany,Southwest Georgia Regional
+2048,FM,YAP,YAP,Yap,Yap International
+2049,US,BLD,LAS,Las Vegas,Boulder City Municipal
+2050,DZ,BMW,BMW,Bordj Badji Mokhtar,Bordj Mokhtar
+2051,US,ATL,ATL,Atlanta,Hartsfield–Jackson Atlanta International
+2052,US,RIC,RIC,Richmond,Richmond International
+2053,US,EAU,EAU,Eau Claire,Chippewa Valley Regional
+2054,US,TUL,TUL,Tulsa,Tulsa International
+2055,AU,ABX,ABX,Albury,Albury
+2056,US,GRK,ILE,Killeen,Killeen–Fort Hood Regional
+2057,US,SJU,SJU,San Juan,Luis Muñoz Marín International
+2058,US,GGG,GGG,Longview,East Texas Regional
+2059,CN,CGD,CGD,Changde,Changde Taohuayuan
+2060,KY,GCM,GCM,Grand Cayman,Owen Roberts International
+2061,CN,HLD,HLD,Hailar,Hulunbuir Hailar
+2062,US,SFB,ORL,Orlando,Orlando Sanford International
+2063,CN,JNG,JNG,Jining,Jining Qufu
+2064,AU,BEU,BEU,Bedourie,Bedourie
+2065,US,MKK,MKK,Hoʻolehua,Molokai
+2066,US,SDF,SDF,Louisville,Louisville International
+2067,DZ,TMX,TMX,Timimoun,Timimoun
+2068,IN,VGA,VGA,Vijayawada,Vijayawada
+2069,VU,SWJ,SWJ,South West Bay,South West Bay
+2070,CH,GVA,GVA,Geneva,Geneva
+2071,US,SFO,SFO,San Francisco,San Francisco International
+2072,NO,HOV,HOV,Volda,"Ørsta–Volda Airport, Hovden"
+2073,RU,SLY,SLY,Salekhard,Salekhard
+2074,DE,HHN,FRA,Frankfurt,Frankfurt–Hahn
+2075,LU,LUX,LUX,Luxembourg City,Luxembourg
+2076,IN,RPR,RPR,Raipur,Swami Vivekananda
+2077,TZ,TBO,TBO,Tabora,Tabora
+2078,NO,BJF,BJF,Båtsfjord,Båtsfjord
+2079,CA,YAZ,YAZ,Tofino,Tofino/Long Beach
+2080,US,GTF,GTF,Great Falls,Great Falls International
+2081,JP,UEO,UEO,Kume Island,Kumejima
+2082,AU,AYQ,AYQ,Uluru,Ayers Rock
+2083,BO,ORU,ORU,Oruro,Juan Mendoza
+2084,UY,MVD,MVD,Montevideo,Carrasco International
+2085,US,RHI,RHI,Rhinelander,Rhinelander–Oneida County
+2086,GB,BRS,BRS,Bristol,Bristol
+2087,CN,XUZ,XUZ,Xuzhou,Xuzhou Guanyin International
+2088,US,LNS,LNS,Lancaster,Lancaster
+2089,MV,MLE,MLE,Malé,Velana International
+2090,CN,DDG,DDG,Dandong,Dandong Langtou
+2091,RU,DYR,DYR,Anadyr,Ugolny
+2092,ES,CDT,CDT,Castellón de la Plana,Castellón–Costa Azahar
+2093,US,EYW,EYW,Key West,Key West International
+2094,MX,MEX,MEX,Mexico City,Mexico City International
+2095,FJ,NAN,NAN,Nadi,Nadi International
+2096,NP,DHI,DHI,Dhangadhi,Dhangadhi
+2097,JP,TJH,TJH, Hyogo Prefecture,Toyooka
+2098,US,YUM,YUM,Yuma,Yuma International
+2099,KR,WJU,WJU,Wonju,Wonju
+2100,MY,KUL,KUL,Kuala Lumpur,Kuala Lumpur International
+2101,AF,FBD,FBD,"Fayzabad, Badakhshan",Fayzabad
+2102,CN,JGD,JGD,Jiagedaqi District,Jiagedaqi
+2103,US,TTN,TTN,Trenton,Trenton–Mercer
+2104,AZ,KVD,KVD,Ganja,Ganja International
+2105,ID,TIM,TIM,Timika,Mozes Kilangin International
+2106,PE,JUL,JUL,Juliaca,Inca Manco Cápac International
+2107,MM,KET,KET,Kengtung,Kengtung
+2108,IT,VBS,BRZ,Brescia,Brescia / Montichiari Airport
+2109,GT,FRS,FRS,Flores,Mundo Maya International
+2110,CN,WNZ,WNZ,Wenzhou,Wenzhou Longwan International
+2111,AR,LUQ,LUQ,San Luis,Brigadier Mayor César Raúl Ojeda
+2112,US,ESC,ESC,Escanaba,Delta County
+2113,DZ,TMR,TMR,Tamanrasset,Aguenar – Hadj Bey Akhamok
+2114,US,STT,STT,Saint Thomas,Cyril E. King
+2115,RU,EDN,EDN,Yedinka,Yedinka
+2116,IN,COK,COK,Kochi,Cochin International
+2117,CN,JMU,JMU,Jiamusi,Jiamusi Dongjiao
+2118,DE,FKB,FKB,Karlsruhe,Karlsruhe/Baden-Baden
+2119,CN,URC,URC,Ürümqi,Ürümqi Diwopu International
+2120,FJ,LKB,LKB,Lakeba,Lakeba
+2121,US,LBF,LBF,North Platte,North Platte Regional
+2122,ID,RAQ,RAQ,Raha,Sugimanuru
+2123,SI,LJU,LJU,Ljubljana,Ljubljana Jože Pučnik
+2124,VU,VLI,VLI,Port Vila,Bauerfield International
+2125,CA,YAG,YAG,Fort Frances,Fort Frances Municipal
+2126,US,EVV,EVV,Evansville,Evansville Regional
+2127,BR,CPV,CPV,Campina Grande,Campina Grande
+2128,NO,RRS,RRS,Røros,Røros
+2129,CA,YXS,YXS,Prince George,Prince George
+2130,BW,MUB,MUB,Maun,Maun
+2131,RU,SVO,MOW,Moscow,Sheremetyevo International
+2132,CA,YNO,YNO,North Spirit Lake,North Spirit Lake
+2133,MY,TGG,TGG,Kuala Terengganu,Sultan Mahmud
+2134,VN,VCL,VCL,Chu Lai,Chu Lai International
+2135,US,ORH,ORH,Worcester,Worcester Regional
+2136,CO,CTG,CTG,Cartagena,Rafael Núñez International
+2137,US,CCR,CCR,Concord,Buchanan Field
+2138,TZ,MFA,MFA,Mafia Island,Mafia
+2139,US,CLT,CLT,Charlotte,Charlotte Douglas International
+2140,DE,LBC,LBC,Lubeck,Lubeck Blankensee Airport
+2141,US,SAF,SAF,Santa Fe,Santa Fe Municipal
+2142,CN,TYN,TYN,Taiyuan,Taiyuan Wusu International
+2143,BR,MGF,MGF,Maringá,Maringá Regional
+2144,AU,DGE,DGE,Mudgee,Mudgee
+2145,PF,XMH,XMH,Manihi,Manihi
+2146,MA,AHU,AHU,Al Hoceima,Cherif Al Idrissi
+2147,NZ,GIS,GIS,Gisborne,Gisborne
+2148,US,ITO,ITO,Hilo,Hilo International
+2149,JP,FSZ,FSZ,Shizuoka,Shizuoka
+2150,CA,ZSJ,ZSJ,Sandy Lake,Sandy Lake
+2151,NP,BWA,BWA,Siddharthanagar,Gautam Buddha
+2152,AF,HEA,HEA,Herat,Herat International
+2153,SE,VST,STO,Stockholm,Stockholm Västerås
+2154,LK,TRR,TRR,Trincomalee,China Bay
+2155,US,RIW,RIW,Riverton,Riverton Regional
+2156,US,EAT,EAT,Wenatchee,Pangborn Memorial
+2157,MN,LTI,LTI,Altay,Altai
+2158,BR,REC,REC,Recife,Recife/Guararapes–Gilberto Freyre International
+2159,PH,LAO,LAO,Laoag,Laoag International
+2160,TH,HHQ,HHQ,Hua Hin District,Hua Hin
+2161,TZ,BKZ,BKZ,Bukoba,Bukoba
+2162,CN,ZAT,ZAT,Zhaotong,Zhaotong
+2163,ME,TIV,TIV,Tivat,Tivat
+2164,NG,QOW,QOW,Owerri,Sam Mbakwe
+2165,US,LNK,LNK,Lincoln,Lincoln
+2166,CN,YKH,YKH,Yingkou,Yingkou Lanqi
+2167,CR,FON,FON,"La Fortuna, San Carlos",Fortuna Arenal
+2168,BR,CMG,CMG,Corumbá,Corumbá International
+2169,GB,SEN,LON,London,London Southend
+2170,ES,ZAZ,ZAZ,Zaragoza,Zaragoza
+2171,PE,TYL,TYL,Talara,Capitán FAP Víctor Montes Arias International
+2172,CA,YYE,YYE,Fort Nelson,Fort Nelson
+2173,GR,JNX,JNX,Naxos,Naxos Island National
+2174,SE,BLE,BLE,Borlänge,Dala
+2175,VU,CCV,CCV,Craig Cove,Craig Cove
+2176,AT,KLU,KLU,Klagenfurt,Klagenfurt
+2177,AU,PQQ,PQQ,Port Macquarie,Port Macquarie
+2178,US,SHH,SHH,Shishmaref,Shishmaref
+2179,JP,SDJ,SDJ,Sendai,Sendai
+2180,PK,LHE,LHE,Lahore,Allama Iqbal International
+2181,VN,HUI,HUI,Hue,Phu Bai International
+2182,TR,AJI,AJI,Ağrı,Ağrı
+2183,US,GUM,GUM,Hagåtña,Antonio B. Won Pat International
+2184,ID,TXE,TXE,Takengon,Takengon Rembele
+2185,OM,OHS,OHS,Sohar,Sohar
+2186,GB,WIC,WIC,Wick,Wick
+2187,ZA,PBZ,PBZ,Plettenberg Bay,Plettenberg Bay
+2188,CN,HFE,HFE,Hefei,Hefei Xinqiao International
+2189,BR,RAO,RAO,Ribeirão Preto,Leite Lopes
+2190,CA,YLC,YLC,Kimmirut,Kimmirut
+2191,MX,BJX,BJX,León,Del Bajío International
+2192,US,ABI,ABI,Abilene,Abilene Regional
+2193,CA,CXH,YVR,Vancouver,Vancouver Harbour Flight Centre
+2194,LK,JAF,JAF,Jaffna,Kankesanturai Airport
+2195,US,MCO,ORL,Orlando,Orlando International
+2196,US,ALW,ALW,Walla Walla,Walla Walla Regional
+2197,PH,DPL,DPL,Dipolog,Dipolog
+2198,US,PIA,PIA,Peoria,General Wayne A. Downing Peoria International
+2199,MY,LDU,LDU,Lahad Datu,Lahad Datu
+2200,US,ATW,ATW,Appleton,Appleton International
+2201,BS,FPO,FPO,Freeport,Grand Bahama International
+2202,NZ,WAG,WAG,Whanganui,Whanganui Airport
+2203,CN,GYS,GYS,Guangyuan,Guangyuan Panlong
+2204,PE,TBP,TBP,Tumbes,Cap. FAP Pedro Canga Rodríguez
+2205,CA,YQC,YQC,Quaqtaq,Quaqtaq
+2206,CZ,PRG,PRG,Prague,Václav Havel Airport Prague
+2207,US,PDT,PDT,Pendleton,Eastern Oregon Regional
+2208,JP,NRT,TYO,Tokyo,Narita International
+2209,MX,LOV,LOV,Monclova,Monclova International
+2210,US,KTN,KTN,Ketchikan,Ketchikan International
+2211,IN,IXR,IXR,Ranchi,Birsa Munda
+2212,US,JFK,NYC,New York,John F. Kennedy International
+2213,TW,TTT,TTT,Taitung County,Taitung
+2214,RU,IJK,IJK,Izhevsk,Izhevsk
+2215,AU,WNR,WNR,Windorah,Windorah
+2216,BR,VAL,VAL,"Valença, Bahia",Valença
+2217,US,IMT,IMT,Iron Mountain,Ford
+2218,PE,AYP,AYP,Ayacucho,Coronel FAP Alfredo Mendívil Duarte
+2219,PF,GMR,GMR,Totegegie,Totegegie
+2220,RU,THX,THX,Turukhansk,Turukhansk
+2221,US,SGU,SGU,St. George,St. George Regional
+2222,CA,YUX,YUX,Hall Beach,Hall Beach
+2223,RU,PKC,PKC,Petropavlovsk-Kamchatsky,Petropavlovsk-Kamchatsky
+2224,US,MSS,MSS,Massena,Massena International
+2225,VU,TGH,TGH,Tongoa,Tongoa
+2226,GL,JFR,JFR,Paamiut,Paamiut
+2227,BR,LAJ,LAJ,Lages,Lages
+2228,US,MQT,MQT,Marquette,Sawyer International
+2229,MG,MOQ,MOQ,Morondava,Morondava
+2230,AR,AFA,AFA,San Rafael,San Rafael Airport
+2231,IT,LMP,LMP,Lampedusa,Lampedusa
+2232,GB,BDA,BDA,Bermuda,L.F. Wade International
+2233,US,RSW,FMY,Fort Myers,Southwest Florida International
+2234,US,EXI,EXI,Excursion Inlet,Excursion Inlet Seaplane Base
+2235,US,TBN,TBN,Fort Leonard Wood,Waynesville-St. Robert Regional
+2236,US,FAY,FAY,Fayetteville,Fayetteville Regional
+2237,AU,MGT,MGT,Milingimbi Island,Milingimbi
+2238,IN,VTZ,VTZ,Visakhapatnam,Visakhapatnam
+2239,BS,CRI,CRI,Crooked Island,Colonel Hill
+2240,IN,IXC,IXC,Chandigarh,Chandigarh International
+2241,CN,KWE,KWE,Guiyang,Guiyang Longdongbao International
+2242,US,COS,COS,Colorado Springs,Colorado Springs
+2243,RU,KCK,KCK,Kirensk,Kirensk
+2244,US,OGD,OGD,Ogden,Ogden-Hinckley
+2245,TW,HUN,HUN,Hualien County,Hualien
+2246,UA,IEV,IEV,Kyiv,Kyiv International Airport (Zhuliany)
+2247,MU,MRU,MRU,Mauritius Island,Sir Seewoosagur Ramgoolam International
+2248,RU,UFA,UFA,Ufa,Ufa International
+2249,FR,BIA,BIA,Bastia,Bastia – Poretta
+2250,GH,KMS,KMS,Kumasi,Kumasi
+2251,NO,KSU,KSU,Kristiansund,"Kristiansund Airport, Kvernberget"
+2252,BZ,CZH,CZH,Corozal Town,Corozal
+2253,TW,KHH,KHH,Kaohsiung,Kaohsiung International
+2254,PE,TGI,TGI,Tingo María,Tingo María
+2255,RO,OTP,BUH,Bucharest,Henri Coandă International
+2256,GR,CHQ,CHQ,Chania,Chania International
+2257,US,OKC,OKC,Oklahoma City,Will Rogers World
+2258,CN,GOQ,GOQ,Golmud,Golmud
+2259,DE,FDH,FDH,Friedrichshafen,Friedrichshafen
+2260,ID,TTE,TTE,Ternate City,Babullah
+2261,CF,BGF,BGF,Bangui,Bangui M Poko International
+2262,ID,ENE,ENE,Ende,H. Hasan Aroeboesman
+2263,BE,ANR,BRU,Brussels,Antwerp International
+2264,ES,SLM,SLM,Salamanca,Salamanca
+2265,RU,IGT,IGT,Nazran,Nazran
+2266,CA,YTZ,YTO,Toronto,Billy Bishop Toronto City
+2267,PH,MNL,MNL,Manila,Ninoy Aquino International
+2268,JP,MMJ,MMJ,Matsumoto,Matsumoto
+2269,AR,BRC,BRC,Bariloche,San Carlos de Bariloche
+2270,CA,YHR,YHR,"Chevery, Quebec",Chevery
+2271,PK,BHV,BHV,Bahawalpur,Bahawalpur
+2272,EC,LGQ,LGQ,Lago Agrio Canton,Lago Agrio
+2273,IN,PAT,PAT,Patna,Jay Prakash Narayan International
+2274,VU,DLY,DLY,Dillons Bay,Dillon's Bay
+2275,CA,YHI,YHI,Ulukhaktok,Ulukhaktok/Holman
+2276,CN,JIQ,JIQ,Qianjiang District,Qianjiang Wulingshan
+2277,US,GDV,GDV,Glendive,Dawson Community
+2278,BR,CLV,CLV,Caldas Novas,Caldas Novas
+2279,MY,ODN,ODN,Long Seridan,Long Seridan
+2280,VN,UIH,UIH,Qui Nhơn,Phu Cat
+2281,MX,MLM,MLM,Morelia,Morelia International
+2282,MY,LGK,LGK,Langkawi,Langkawi International
+2283,US,SWF,NYC,New York,New York Stewart International Airport
+2284,CA,YYQ,YYQ,Churchill,Churchill
+2285,CN,FUG,FUG,Fuyang,Fuyang Xiguan
+2286,RU,OHH,OHH,Okha,Okha
+2287,IN,GOP,GOP,Gorakhpur,Mahayogi Gorakhnath
+2288,US,KLW,KLW,Klawock,Klawock
+2289,CN,NTG,NTG,Nantong,Nantong Xingdong
+2290,PT,PRM,PRM,Portimão,Portimão
+2291,IN,BHJ,BHJ,Bhuj,Bhuj
+2292,CO,MDE,MDE,Medellín,José María Córdova International
+2293,MA,OUD,OUD,Oujda,Angads
+2294,US,OME,OME,Nome,Nome
+2295,RU,MMK,MMK,Murmansk,Murmansk
+2296,ID,LLO,LLO,Palopo,Palopo Lagaligo
+2297,BR,ITB,ITB,Itaituba,Itaituba
+2298,US,GSO,GSO,Greensboro,Piedmont Triad International
+2299,PT,FAO,FAO,Faro,Faro
+2300,RU,VKO,MOW,Moscow,Vnukovo International
+2301,SE,GSE,GOT,Gothenburg,Gothenburg City Airport
+2302,BR,PVH,PVH,Porto Velho,Governador Jorge Teixeira de Oliveira International
+2303,MM,VBP,VBP,Bokpyin,Bokpyin
+2304,GR,KIT,KIT,Kythira,Kithira Island National
+2305,US,ALS,ALS,Alamosa,San Luis Valley Regional
+2306,PF,MKP,MKP,Makemo,Makemo
+2307,AZ,NAJ,NAJ,Nakhchivan,Nakhchivan International
+2308,CN,AAT,AAT,Altay Prefecture,Altay
+2309,ES,MLN,MLN,Melilla,Melilla
+2310,NZ,HLZ,HLZ,Hamilton,Hamilton
+2311,US,HPN,HPN,"Westchester County, New York",Westchester County
+2312,PT,CAT,CAT,Cascais Municipality,Cascais Tires
+2313,CN,LYG,LYG,Lianyungang,Lianyungang Baitabu
+2314,US,PLN,PLN,Pellston,Pellston Regional
+2315,US,EGE,EGE,Vail,Eagle County Regional
+2316,GR,JTY,JTY,Astypalaia,Astypalaia Island National
+2317,AU,ZBL,ZBL,Biloela,Thangool
+2318,US,LCH,LCH,Lake Charles,Lake Charles Regional
+2319,DZ,BSK,BSK,Biskra,Biskra
+2320,GB,DSA,DSA,Doncaster,Doncaster Sheffield
+2321,IN,BHU,BHU,Bhavnagar,Bhavnagar
+2322,MM,PBU,PBU,Putao,Putao
+2323,AM,EVN,EVN,Yerevan,Zvartnots International
+2324,SE,GEV,GEV,Gällivare,Gällivare
+2325,TO,TBU,TBU,Nukuʻalofa,Fuaʻamotu International
+2326,AF,MZR,MZR,Mazar-i-Sharif,Mazar-i-Sharif International
+2327,SB,RBV,RBV,Ramata Island,Ramata
+2328,LK,KDW,KDW,Kandy,Victoria Reservoir SPB
+2329,GB,VLY,VLY,Anglesey,Anglesey
+2330,BA,OMO,OMO,Mostar,Mostar
+2331,US,PGD,PGD,Punta Gorda,Punta Gorda
+2332,CA,YQB,YQB,Quebec City,Québec City Jean Lesage International
+2333,US,DEN,DEN,Denver,Denver International
+2334,CA,YOH,YOH,"Oxford House, Manitoba",Oxford House
+2335,AU,LRE,LRE,Longreach,Longreach
+2336,AF,FAH,FAH,Farah,Farah
+2337,AE,AUH,AUH,Abu Dhabi,Abu Dhabi International
+2338,FR,PIS,PIS,Poitiers,Poitiers–Biard
+2339,ES,RGS,RGS,Burgos,Burgos Airport
+2340,DE,SCN,SCN,Saarbrücken,Saarbrücken
+2341,WF,WLS,WLS,Wallis Island,Hihifo
+2342,TH,BFV,BFV,Buriram Province,Buriram
+2343,ID,WNI,WNI,Wangi-wangi Island,Matahora
+2344,US,ELD,ELD,El Dorado,South Arkansas Regional Airport at Goodwin Field
+2345,PE,PIO,PIO,Pisco,Capitán FAP Renán Elías Olivera
+2346,US,BGR,BGR,Bangor,Bangor International
+2347,IQ,BGW,BGW,Baghdad,Baghdad International
+2348,FR,CFE,CFE,Clermont-Ferrand,Clermont-Ferrand Auvergne
+2349,ET,ADD,ADD,Addis Ababa,Addis Ababa Bole International
+2350,ES,MAD,MAD,Madrid,Adolfo Suárez Madrid–Barajas
+2351,EC,UIO,UIO,Quito,Mariscal Sucre International
+2352,SA,MED,MED,Medina,Prince Mohammad bin Abdulaziz
+2353,GB,BHX,BHX,Birmingham,Birmingham
+2354,CA,YGK,YGK,Kingston,Kingston/Norman Rogers
+2355,SB,MUA,MUA,Munda,Munda
+2356,IN,AMD,AMD,Ahmedabad,Sardar Vallabhbhai Patel International
+2357,ES,TFS,TCI,Tenerife,Tenerife–South
+2358,FJ,VBV,VBV,Vanua Balavu,Vanuabalavu
+2359,LR,ROB,MLW,Monrovia,Roberts International
+2360,AL,TIA,TIA,Tirana,Tirana International Airport Nënë Tereza
+2361,US,MSN,MSN,Madison,Dane County Regional
+2362,ZA,CPT,CPT,Cape Town,Cape Town International
+2363,CA,YGW,YGW,Kuujjuarapik,Kuujjuarapik
+2364,MY,KUD,KUD,Kudat,Kudat
+2365,CA,YXN,YXN,"Whale Cove, Nunavut",Whale Cove
+2366,TN,MIR,MIR,Monastir,Monastir Habib Bourguiba International
+2367,US,SBY,SBY,Ocean City,Salisbury–Ocean City–Wicomico Regional
+2368,CN,AKU,AKU,Aksu City,Aksu
+2369,US,DAB,DAB,Daytona Beach,Daytona Beach International
+2370,JP,TTJ,TTJ,Tottori,Tottori
+2371,TR,EZS,EZS,Elazığ,Elazığ
+2372,RU,NOZ,NOZ,Novokuznetsk,Spichenkovo
+2373,MX,OAX,OAX,Oaxaca,Oaxaca International
+2374,US,JBR,JBR,Jonesboro,Jonesboro Municipal
+2375,MX,CTM,CTM,Chetumal,Chetumal International
+2376,GB,LCY,LON,London,London City
+2377,RO,CLJ,CLJ,Cluj-Napoca,Cluj International
+2378,NZ,CHT,CHT,Waitangi,Chatham Islands-Tuuta Airport
+2379,AR,RES,RES,Resistencia,Resistencia International
+2380,NC,GEA,NOU,Nouméa,Nouméa Magenta
+2381,MX,CUN,CUN,Cancún,Cancún International
+2382,NG,QUO,QUO,Uyo,Akwa Ibom
+2383,EC,SCY,SCY,San Cristóbal Island,San Cristóbal
+2384,ID,TJS,TJS,Tanjung Selor,Tanjung Harapan
+2385,RS,BEG,BEG,Belgrade,Belgrade Nikola Tesla
+2386,US,UNK,UNK,Unalakleet,Unalakleet
+2387,DE,KSF,KSF,Kassel,Kassel
+2388,SA,RAH,RAH,Rafha,Rafha Domestic
+2389,RU,JOK,JOK,Yoshkar-Ola,Yoshkar-Ola
+2390,NC,LIF,LIF,Lifou Island,Ouanaham
+2391,AU,PLO,PLO,Port Lincoln,Port Lincoln
+2392,US,GRN,GRN,Gordon,Gordon Municipal
+2393,GB,WRY,WRY,Westray,Westray
+2394,US,TUS,TUS,Tucson,Tucson International
+2395,US,CSG,CSG,Columbus,Columbus Metropolitan
+2396,CD,FBM,FBM,Lubumbashi,Lubumbashi International
+2397,KH,KOS,KOS,Sihanoukville Province,Sihanoukville International
+2398,UZ,SKD,SKD,Samarkand,Samarkand International
+2399,PH,TBH,TBH,Tablas Island,Tugdan
+2400,NO,MOL,MOL,Molde,"Molde Airport, Årø"
+2401,CN,YNZ,YNZ,Yancheng,Yancheng Nanyang International
+2402,PH,CYZ,CYZ,"Cauayan, Isabela",Cauayan
+2403,JP,CTS,SPK,Sapporo,New Chitose
+2404,GB,SYY,SYY,Stornoway,Stornoway
+2405,US,SAT,SAT,San Antonio,San Antonio International
+2406,AO,VPE,VPE,Ondjiva,Ondjiva Pereira
+2407,GR,KGS,KGS,Kos,Kos Island International
+2408,NP,BDP,BDP,"Bhadrapur, Mechi",Bhadrapur
+2409,PE,TCQ,TCQ,Tacna,Coronel FAP Carlos Ciriani Santa Rosa International
+2410,KM,AJN,AJN,Anjouan,Ouani
+2411,FR,CCF,CCF,Carcassonne,Carcassonne
+2412,GB,LHR,LON,London,Heathrow
+2413,RU,GDZ,GDZ,Gelendzhik,Gelendzhik
+2414,PA,BLB,PTY,Panama City,Panamá Pacífico International Airport
+2415,MZ,MNC,MNC,Nacala,Nacala
+2416,BR,MII,MII,Marília,Marília
+2417,RO,BCM,BCM,Bacău,George Enescu International
+2418,AU,BNE,BNE,Brisbane,Brisbane
+2419,RU,TGP,TGP,Podkamennaya Tunguska,Podkamennaya Tunguska
+2420,RU,VOG,VOG,Volgograd,Volgograd International
+2421,ID,MEQ,MEQ,Meulaboh,Cut Nyak Dhien
+2422,RU,STW,STW,Stavropol,Stavropol Shpakovskoye
+2423,NL,AMS,AMS,Amsterdam,Amsterdam Airport Schiphol
+2424,GB,PIK,GLA,Glasgow,Glasgow Prestwick
+2425,NO,ALF,ALF,Alta,Alta
+2426,CN,JSJ,JSJ,Jiansanjiang,Jiansanjiang
+2427,CN,ERL,ERL,Erenhot,Erenhot Saiwusu International
+2428,CA,YEK,YEK,Arviat,Arviat
+2429,ES,ILD,ILD,Lleida,Lleida–Alguaire
+2430,BI,BJM,BJM,Bujumbura,Bujumbura International
+2431,CN,PZI,PZI,Panzhihua,Panzhihua Bao anying
+2432,MK,SKP,SKP,Skopje,Skopje  Alexander the Great 
+2433,PE,CHH,CHH,Chachapoyas,Chachapoyas Airport
+2434,VN,VKG,VKG,Rạch Giá,Rach Gia
+2435,ZA,JNB,JNB,Johannesburg,O. R. Tambo International
+2436,CA,YQR,YQR,Regina,Regina International
+2437,US,MKE,MKE,Milwaukee,General Mitchell International
+2438,GR,GPA,GPA,Patras,Araxos
+2439,IN,JRG,JRG,Jhārsuguda,Jharsuguda Airport
+2440,DE,SXF,BER,Berlin,Berlin Schönefeld
+2441,MX,CUL,CUL,Culiacán,Bachigualato Federal International
+2442,JP,SHM,SHM,Shirahama,Nanki–Shirahama
+2443,SE,BMA,STO,Stockholm,Stockholm Bromma
+2444,SC,PRI,PRI,Praslin,Praslin Island
+2445,IN,TRV,TRV,Thiruvananthapuram,Trivandrum International
+2446,GH,TML,TML,Tamale,Tamale
+2447,SE,KID,KID,Kristianstad,Kristianstad
+2448,LK,KCT,KCT,Koggala,Koggala
+2449,BR,JPR,JPR,Ji-Paraná,Ji-Paraná
+2450,VN,THD,THD,Thanh Hoa Province,Thanh Hoa Tho Xuan
+2451,AU,MEB,MEL,Melbourne,Essendon
+2452,US,LIT,LIT,Little Rock,Clinton National
+2453,MZ,VNX,VNX,Vilankulo,Vilankulo
+2454,BZ,CYD,SQS,San Ignacia,Maya Flats
+2455,BO,CBB,CBB,Cochabamba,Jorge Wilstermann International
+2456,AT,GRZ,GRZ,Graz,Graz
+2457,US,SPN,SPN,Saipan,Saipan International
+2458,ID,SUB,SUB,Surabaya,Juanda International
+2459,US,BUR,BUR,Burbank,Hollywood Burbank
+2460,IN,DMU,DMU,Dimapur,Dimapur
+2461,IN,SHL,SHL,Shillong,Shillong
+2462,DE,LEJ,LEJ,Leipzig,Leipzig/Halle Airport
+2463,CN,ENH,ENH,Enshi City,Enshi Xujiaping
+2464,SN,DSS,DKR,Dakar,Blaise Diagne International Airport
+2465,CN,CIF,CIF,Chifeng,Chifeng Yulong
+2466,RU,REN,REN,Orenburg,Orenburg Tsentralny
+2467,ID,DUM,DUM,Dumai,Pinang Kampai
+2468,CA,YEG,YEA,Edmonton,Edmonton International
+2469,NP,JKR,JKR,Janakpur,Janakpur
+2470,PH,BCD,BCD,Bacolod,Bacolod–Silay
+2471,BZ,BCV,BZE,Belize City,Hector Silva Airstrip
+2472,MX,DGO,DGO,Durango,Durango International
+2473,CN,JUZ,JUZ,Quzhou,Quzhou
+2474,JP,OGN,OGN,Yonaguni,Yonaguni
+2475,US,IPT,IPT,Williamsport,Williamsport Regional
+2476,US,DRO,DRO,Durango,Durango–La Plata County
+2477,AI,AXA,AXA,Anguilla,Clayton J. Lloyd International
+2478,PH,TAG,TAG,Panglao,Bohol-Panglao International
+2479,GR,ZTH,ZTH,Zakynthos Island,Zakynthos International
+2480,TH,CNX,CNX,Chiang Mai,Chiang Mai International
+2481,SB,VAO,VAO,Suavanao,Suavanao
+2482,US,LAR,LAR,Laramie,Laramie Regional
+2483,BR,OPS,OPS,"Sinop, Mato Grosso",Sinop
+2484,CN,XMN,XMN,Xiamen,Xiamen Gaoqi International
+2485,IN,TEZ,TEZ,Tezpur,Tezpur
+2486,CN,NDG,NDG,Qiqihar,Qiqihar Sanjiazi
+2487,US,ABR,ABR,Aberdeen,Aberdeen Regional
+2488,BZ,DGA,DGA,Dangriga,Dangriga
+2489,PF,AHE,AHE,Ahe,Ahe
+2490,PK,KHI,KHI,Karachi,Jinnah International
+2491,GG,GCI,GCI,Saint Peter Port,Guernsey
+2492,BR,GRU,SAO,São Paulo,São Paulo–Guarulhos International
+2493,US,DVL,DVL,Devils Lake,Devils Lake Regional
+2494,MX,SLW,SLW,Saltillo,Plan de Guadalupe International
+2495,RU,KVR,KVR,Kavalerovo,Kavalerovo
+2496,US,HVR,HVR,Havre,Havre City–County
+2497,PF,RFP,RFP,Raiatea,Raiatea
+2498,US,GJT,GJT,Grand Junction,Grand Junction Regional
+2499,ID,KBU,KBU,Kotabaru Regency,Gusti Syamsir Alam
+2500,US,DDC,DDC,Dodge City,Dodge City Regional
+2501,IS,EGS,EGS,Egilsstaðir,Egilsstaðir
+2502,FR,TUF,TUF,Tours,Tours Val de Loire
+2503,MA,AGA,AGA,Agadir,Agadir–Al Massira
+2504,GL,SRK,SRK,Siorapaluk,Siorapaluk Heliport
+2505,RU,SYS,SYS,Saskylakh,Saskylakh
+2506,BR,MAO,MAO,Manaus,Eduardo Gomes International
+2507,PF,RVV,RVV,Raivavae,Raivavae
+2508,CA,YHY,YHY,Hay River,Hay River/Merlyn Carter
+2509,PG,LSA,LSA,Kiriwina,Losuia
+2510,LA,ODY,ODY,Muang Xay,Oudomsay
+2511,MM,MYT,MYT,Myitkyina,Myitkyina
+2512,CA,YPJ,YPJ,Aupaluk,Aupaluk
+2513,CH,ACH,ACH,Thal,St. Gallen–Altenrhein
+2514,ZZ,GIL,GIL,Gilgit,Gilgit
+2515,CN,JDZ,JDZ,Jingdezhen,Jingdezhen Luojia
+2516,NO,TRD,TRD,Trondheim,"Trondheim Airport, Værnes"
+2517,RU,KUF,KUF,Samara,Kurumoch International
+2518,JP,ASJ,ASJ,Amami,Amami
+2519,CN,TXN,TXN,Huangshan City,Huangshan Tunxi International
+2520,CA,YNP,YNP,Natuashish,Natuashish
+2521,BR,UBA,UBA,Uberaba,Uberaba
+2522,HT,PAP,PAP,Port-au-Prince,Toussaint Louverture International
+2523,GR,HER,HER,Heraklion,Heraklion International
+2524,IN,CCJ,CCJ,Kozhikode,Calicut International
+2525,RU,CSY,CSY,Cheboksary,Cheboksary
+2526,US,LUK,CVG,Cincinnati,Cincinnati Municipal Lunken
+2527,ID,ARD,ARD,Alor Island,Alor Island
+2528,ES,BCN,BCN,Barcelona,Barcelona–El Prat
+2529,IN,UDR,UDR,Udaipur,Maharana Pratap
+2530,TT,TAB,TAB,Tobago,Arthur Napoleon Raymond Robinson International
+2531,US,MSO,MSO,Missoula,Missoula International
+2532,US,BET,BET,Bethel,Bethel
+2533,RU,UCT,UCT,Ukhta,Ukhta
+2534,UZ,NVI,NVI,Navoiy,Navoi International
+2535,SR,PBM,PBM,Paramaribo,Johan Adolf Pengel International
+2536,CN,RLK,RLK,Bayannur,Bayannur Tianjitai
+2537,VN,VCS,VCS,Côn Sơn Island,Con Dao
+2538,FR,CFR,CFR,Caen,Caen – Carpiquet
+2539,US,BHB,BHB,Bar Harbor,Hancock County-Bar Harbor
+2540,CA,YVM,YVM,Qikiqtarjuaq,Qikiqtarjuaq
+2541,FI,TMP,TMP,Tampere,Tampere–Pirkkala
+2542,ZZ,EUN,EUN,Laayoune,Hassan I
+2543,MX,PAZ,PAZ,Poza Rica,El Tajín National
+2544,MU,RRG,RRG,Rodrigues,Sir Gaëtan Duval
+2545,ZA,ELS,ELS,East London,East London
+2546,NL,SAB,SAB,Saba,Juancho E. Yrausquin
+2547,US,VLD,VLD,Valdosta,Valdosta Regional
+2548,RU,KVK,KVK,Kirovsk,Kirovsk-Apatity
+2549,US,DLG,DLG,Dillingham,Dillingham
+2550,MM,HOX,HOX,Homalin,Homalin
+2551,AU,NTL,NTL,City of Newcastle,Newcastle
+2552,ID,FLZ,FLZ,Sibolga,Ferdinand Lumban Tobing
+2553,KG,OSS,OSS,Osh,Osh
+2554,DK,BLL,BLL,Billund,Billund
+2555,MX,TLC,TLC,Toluca,Toluca International
+2556,GR,KVA,KVA,Kavala,Kavala International
+2557,US,PNS,PNS,Pensacola,Pensacola International
+2558,MX,CUU,CUU,Chihuahua,Chihuahua International
+2559,NZ,TRG,TRG,Tauranga,Tauranga
+2560,CR,PJM,PJM,Puerto Jiménez,Puerto Jiménez
+2561,FI,KAJ,KAJ,Kajaani,Kajaani
+2562,US,PHL,PHL,Philadelphia,Philadelphia International
+2563,MX,HUX,HUX,Huatulco,Bahías de Huatulco International
+2564,US,MDT,HAR,Harrisburg,Harrisburg International
+2565,NP,BIR,BIR,Biratnagar,Biratnagar
+2566,IN,AGX,AGX,Agatti Island,Agatti Aerodrome
+2567,RU,LPK,LPK,Lipetsk,Lipetsk
+2568,AU,KWM,KWM,Kowanyama,Kowanyama
+2569,IN,KLH,KLH,Kolhapur,Kolhapur Airport
+2570,BD,CXB,CXB,Cox's Bazar,Cox's Bazar
+2571,IN,NDC,NDC,Nanded,Shri Guru Gobind Singh Ji
+2572,PH,CEB,CEB,Cebu,Mactan–Cebu International
+2573,AU,PKE,PKE,Parkes,Parkes
+2574,US,BQK,SSI,Brunswick,Brunswick Golden Isles
+2575,CL,PMC,PMC,Puerto Montt,El Tepual International
+2576,CY,LCA,LCA,Larnaca,Larnaca International
+2577,ZA,MQP,NLP,Nelspruit,Kruger Mpumalanga International
+2578,IN,IXA,IXA,Agartala,Agartala
+2579,CN,JIC,JIC,Jinchang,Jinchang Jinchuan
+2580,KH,PNH,PNH,Phnom Penh,Phnom Penh International
+2581,US,BIL,BIL,Billings,Billings Logan International
+2582,FR,BOD,BOD,Bordeaux,Bordeaux–Mérignac
+2583,RU,RGK,RGK,Gorno-Altaysk,Gorno-Altaysk
+2584,AU,MRZ,MRZ,Moree,Moree
+2585,BR,JDO,JDO,Juazeiro do Norte,Juazeiro do Norte
+2586,BR,PET,PET,Pelotas,Pelotas International
+2587,AR,TUC,TUC,San Miguel de Tucumán,Teniente General Benjamín Matienzo International
+2588,FR,ETZ,ETZ,Metz,Metz–Nancy–Lorraine
+2589,VN,PQC,PQC,Phú Quốc,Phu Quoc International Airport
+2590,CN,SHF,SHF,Shihezi,Shihezi Huayuan
+2591,US,BKW,BKW,Beckley,Raleigh County Memorial
+2592,NE,NIM,NIM,Niamey,Diori Hamani International
+2593,RO,SCV,SCV,Suceava,Suceava International
+2594,SB,RNL,RNL,Rennell Island,Rennell/Tingoa
+2595,US,ILM,ILM,Wilmington,Wilmington International
+2596,IR,LRR,LRR,Lar,Larestan International
+2597,US,CAE,CAE,Columbia,Columbia Metropolitan
+2598,MX,PDS,PDS,Piedras Negras,Piedras Negras International
+2599,BF,BOY,BOY,Bobo-Dioulasso,Bobo Dioulasso
+2600,CV,SID,SID,Sal,Amílcar Cabral International
+2601,ES,ALC,ALC,Alicante,Alicante–Elche
+2602,ID,BMU,BMU,Bima,Sultan Muhammad Salahudin
+2603,MY,MUR,MUR,Marudi,Marudi
+2604,IN,IDR,IDR,Indore,Devi Ahilya Bai Holkar
+2605,ZA,BFN,BFN,Bloemfontein,Bloemfontein
+2606,IN,CNN,CNN,Kannur,Kannur International Airport
+2607,IT,OLB,OLB,Olbia,Olbia Costa Smeralda
+2608,US,TPA,TPA,Tampa,Tampa International
+2609,CD,MJM,MJM,Mbuji-Mayi,Mbuji Mayi
+2610,RO,IAS,IAS,Iași,Iași International
+2611,GR,EFL,EFL,Cephalonia,Kephalonia International
+2612,AU,LDH,LDH,Lord Howe Island,Lord Howe Island
+2613,PG,WWK,WWK,Wewak,Wewak
+2614,DE,HDF,HDF,Heringsdorf,Heringsdorf
+2615,IT,PMF,PMF,Parma,Parma
+2616,US,MYR,MYR,Myrtle Beach,Myrtle Beach International
+2617,US,ECP,ECP,Panama City,Northwest Florida Beaches International
+2618,ID,WGP,WGP,Waingapu,Umbu Mehang Kunda
+2619,IN,SXR,SXR,Srinagar,Srinagar International
+2620,SA,AHB,AHB,Abha,Abha Regional
+2621,NO,TOS,TOS,Tromsø,"Tromsø Airport, Langnes"
+2622,ID,HLP,JKT,Jakarta,Halim Perdanakusuma International
+2623,AU,LST,LST,City of Launceston,Launceston
+2624,NI,MGA,MGA,Managua,Augusto C. Sandino International
+2625,RU,NGK,NGK,Nogliki,Nogliki
+2626,ID,PSU,PSU,Putussibau,Pangsuma
+2627,CI,BYK,BYK,Bouaké,Bouaké
+2628,JP,HKD,HKD,Hakodate,Hakodate
+2629,JP,IZO,IZO,Izumo,Izumo
+2630,PH,IAO,IAO,Del Carmen,Sayak
+2631,CA,YHM,YHM,Hamilton,John C. Munro Hamilton International
+2632,CN,RKZ,RKZ,Shigatse,Shigatse Peace
+2633,TW,MFK,MFK,Matsu Islands,Matsu Beigan
+2634,AU,TCA,TCA,Tennant Creek,Tennant Creek
+2635,US,CDV,CDV,Cordova,Merle K. (Mudhole) Smith
+2636,JP,SYO,SYO,Shonai,Shonai
+2637,US,CRW,CRW,Charleston,Yeager
+2638,IS,IFJ,IFJ,Ísafjörður,Ísafjörður
+2639,SA,EAM,EAM,Najran,Najran Regional Airport
+2640,CN,DSN,DSN,Ordos City,Ordos Ejin Horo
+2641,TR,BGG,BGG,Bingöl,Bingöl
+2642,PG,KVG,KVG,Kavieng,Kavieng
+2643,UA,CWC,CWC,Chernivtsi,Chernivtsi International
+2644,CA,XTL,XTL,Tadoule Lake,Tadoule Lake
+2645,IN,JDH,JDH,Jodhpur,Jodhpur
+2646,CR,TMU,TMU,Tambor,Tambor
+2647,US,JLN,JLN,Joplin,Joplin Regional
+2648,US,MFE,MFE,McAllen,McAllen Miller International
+2649,GB,SOY,SOY,Stronsay,Stronsay
+2650,BR,SSA,SSA,Salvador,Deputado Luís Eduardo Magalhães International
+2651,BR,UDI,UDI,Uberlândia,Uberlandia
+2652,CA,YYC,YYC,Calgary,Calgary International
+2653,JP,FUK,FUK,Fukuoka,Fukuoka
+2654,CH,BSL,EAP,Basel,EuroAirport Basel Mulhouse Freiburg
+2655,IN,CCU,CCU,Kolkata,Netaji Subhas Chandra Bose International
+2656,SA,WAE,WAE,Wadi ad-Dawasir,Wadi al-Dawasir Domestic
+2657,US,HHH,HHH,Hilton Head Island,Hilton Head
+2658,US,MGM,MGM,Montgomery,Montgomery Regional
+2659,CN,SWA,SWA,Shantou,Jieyang Chaoshan International
+2660,CA,YHU,YMQ,Montreal,Montreal Saint-Hubert Longueuil
+2661,IT,PEG,PEG,Perugia,San Francesco d Assisi
+2662,CN,BFJ,BFJ,Bijie,Bijie Feixiong
+2663,CN,MFM,MFM,Macau,Macau International
+2664,RU,TLK,TLK,"Vitim, Sakha Republic",Talakan
+2665,BR,AFL,AFL,Alta Floresta,Alta Floresta
+2666,RU,PYJ,PYJ,Udachny,Polyarny
+2667,US,BRO,BRO,Brownsville,Brownsville/South Padre Island International
+2668,VN,PXU,PXU,Pleiku,Pleiku
+2669,US,MAF,MAF,Midland,Midland International Air and Space Port
+2670,RU,KZN,KZN,Kazan,Kazan International
+2671,MY,LWY,LWY,Lawas,Lawas
+2672,TH,SNO,SNO,Sakon Nakhon,Sakon Nakhon
+2673,RU,DKS,DKS,Dikson,Dikson
+2674,EG,MUH,MUH,Mersa Matruh,Mersa Matruh Airport
+2675,FR,XCR,PAR,Paris,Châlons Vatry
+2676,RW,KGL,KGL,Kigali,Kigali International
+2677,AR,SFN,SFN,Santa Fe,Sauce Viejo
+2678,DZ,GHA,GHA,Ghardaïa,Noumérat – Moufdi Zakaria
+2679,PG,TFI,TFI,Tufi,Tufi
+2680,MN,ULN,ULN,Ulaanbaatar,Chinggis Khaan International
+2681,BR,IOS,IOS,Ilhéus,Ilhéus Jorge Amado
+2682,CO,IBE,IBE,Ibagué,Perales
+2683,BR,MEA,MEA,Macaé,Macaé Airport
+2684,US,SIG,SJU,San Juan,Fernando Luis Ribas Dominicci
+2685,US,ORF,ORF,Norfolk,Norfolk International
+2686,US,LCK,CMH,Columbus,Rickenbacker International
+2687,CN,KGT,KGT,Kangding,Kangding
+2688,PE,PEM,PEM,Puerto Maldonado,Padre Aldamiz International
+2689,BS,RSD,RSD,Rock Sound,Rock Sound International
+2690,CV,RAI,RAI,Praia,Nelson Mandela International
+2691,US,CDR,CDR,Chadron,Chadron Municipal
+2692,AU,ARM,ARM,Armidale,Armidale
+2693,US,CMH,CMH,Columbus,John Glenn Columbus International
+2694,KE,ANA,MRE,Maasai Mara,Maasai Mara Angama
+2695,QA,DOH,DOH,Doha,Hamad International
+2696,CA,YXU,YXU,London,London International
+2697,RU,ULK,ULK,Lensk,Lensk
+2698,IN,IXM,IXM,Madurai,Madurai
+2699,PH,RXS,RXS,"Roxas, Capiz",Roxas
+2700,US,TKE,TKE,Tenakee Springs,Tenakee Seaplane Base
+2701,AU,BQL,BQL,Boulia,Boulia
+2702,MX,TGZ,TGZ,Tuxtla Gutiérrez,Tuxtla Gutiérrez International
+2703,CN,GMQ,GMQ,Golog Tibetan Autonomous Prefecture,Golog Maqin
+2704,CN,AVA,AVA,Anshun,Anshun Huangguoshu
+2705,ID,LBJ,LBJ,Labuan Bajo,Komodo
+2706,IE,ORK,ORK,Cork,Cork
+2707,US,HOU,HOU,Houston,William P. Hobby
+2708,DE,MUC,MUC,Munich,Munich
+2709,CA,YCG,YCG,Castlegar,West Kootenay Regional
+2710,TH,UTP,UTP,Pattaya,U-Tapao International
+2711,TH,KBV,KBV,Krabi,Krabi
+2712,FR,LPY,LPY,Le Puy-en-Velay,Le Puy – Loudes
+2713,IT,PMO,PMO,Palermo,Falcone–Borsellino
+2714,CN,DAX,DAX,Dazhou,Dazhou Heshi
+2715,LK,BTC,BTC,Batticaloa,Batticaloa
+2716,CA,YPM,YPM,Pikangikum First Nation,Pikangikum
+2717,NG,LOS,LOS,Lagos,Murtala Muhammed International
+2718,ID,SQG,SQG,Sintang Regency,Sintang
+2719,CA,YMN,YMN,Makkovik,Makkovik
+2720,US,MBS,MBS,Saginaw,MBS International
+2721,BR,SJK,SJK,Sao Jose Dos Campos,Aeroporto Internacional de São José dos Campos
+2722,CA,YFH,YFH,Eabametoong First Nation,Fort Hope Airport
+2723,KZ,CIT,CIT,Shymkent,Shymkent International
+2724,ZA,GRJ,GRJ,George,George
+2725,SB,BAS,BAS,Balalae Island,Balalae
+2726,BS,GHB,GHB,Governor's Harbour,Governor's Harbour
+2727,RU,SKX,SKX,Saransk,Saransk
+2728,SA,TUI,TUI,Turaif,Turaif Domestic
+2729,US,EAR,EAR,Kearney,Kearney Regional
+2730,RU,MJZ,MJZ,Mirny,Mirny
+2731,BZ,SPR,SPR,San Pedro Town,San Pedro
+2732,CO,UIB,UIB,Quibdó,El Caraño
+2733,GR,ATH,ATH,Athens,Athens International
+2734,ID,DOB,DOB,Dobo,Dobo
+2735,MG,DIE,DIE,Antsiranana,Arrachart
+2736,RU,VYI,VYI,Vilyuysk,Vilyuysk
+2737,US,GRB,GRB,Green Bay,Green Bay–Austin Straubel International
+2738,BR,GIG,RIO,Rio de Janeiro,Rio de Janeiro–Galeão International
+2739,SA,ABT,ABT,Al Bahah,Al-Baha Domestic
+2740,RU,ZKP,ZKP,"Zyryanka, Sakha Republic",Zyryanka West
+2741,ID,YIA,JOG,Yogyakarta,Yogyakarta International Airport
+2742,BR,PNZ,PNZ,Petrolina,Petrolina
+2743,MX,VER,VER,Veracruz,Veracruz International
+2744,ET,JIM,JIM,Jimma,Aba Segud
+2745,JP,ONJ,ONJ,Odate,Odate–Noshiro
+2746,NZ,NSN,NSN,Nelson,Nelson
+2747,ID,CGK,JKT,Jakarta,Soekarno–Hatta International
+2748,LY,BEN,BEN,Benghazi,Benina International
+2749,BH,BAH,BAH,Bahrain Island,Bahrain International
+2750,GL,CNP,OBY,Ittoqqortoormiit,Nerlerit Inaat
+2751,AR,AEP,BUE,Buenos Aires,Aeroparque Jorge Newbery
+2752,JP,OKA,OKA,Okinawa Island,Naha
+2753,MX,CVM,CVM,Ciudad Victoria,Ciudad Victoria International
+2754,RU,URS,URS,Kursk,Kursk Vostochny
+2755,US,SHD,SHD,"Staunton, Virginia",Shenandoah Valley Regional
+2756,RU,KEJ,KEJ,Kemerovo,Kemerovo International
+2757,IN,MYQ,MYQ,Mysore,Mysore
+2758,HR,PUY,PUY,Pula,Pula
+2759,CA,YGR,YGR,"Les Îles-de-la-Madeleine, Quebec",Îles-de-la-Madeleine
+2760,MX,CPE,CPE,Campeche,Campeche International
+2761,MV,DRV,DRV,Dharavandhoo,Dharavandhoo
+2762,KZ,DZN,DZN,Jezkazgan,Zhezkazgan
+2763,RU,NYA,NYA,Nyagan,Nyagan
+2764,JP,MMD,MMD,Minamidaito,Minami-Daito
+2765,IT,TRN,TRN,Turin,Turin
+2766,US,AUG,AUG,Augusta,Augusta State
+2767,GR,IOA,IOA,Ioannina,Ioannina National
+2768,ID,BDJ,BDJ,Banjarmasin,Syamsudin Noor International
+2769,VU,NUS,NUS,Norsup,Norsup
+2770,CA,YEV,YEV,Inuvik,Inuvik (Mike Zubko)
+2771,SE,NYO,STO,Stockholm,Stockholm Skavsta
+2772,JP,IWJ,IWJ,Masuda,Iwami
+2773,ID,LWE,LWE,Lewoleba,Wonopito
+2774,CA,YWP,YWP,Webequie First Nation,Webequie Airport
+2775,TW,LZN,LZN,"Nangan, Lienchiang",Matsu Nangan
+2776,MX,CLQ,CLQ,Colima,Colima
+2777,NZ,PMR,PMR,Palmerston North,Palmerston North
+2778,ID,MKQ,MKQ,Merauke,Mopah International
+2779,WF,FUT,FUT,Futuna,Pointe Vele
+2780,US,LGB,LGB,Long Beach,Long Beach
+2781,ID,LMU,LMU,Jemaja Island,Letung Airport
+2782,AO,MSZ,MSZ,Namibe,Namibe
+2783,TC,PLS,PLS,Providenciales,Providenciales International
+2784,NO,TRF,OSL,Oslo,"Sandefjord Airport, Torp"
+2785,RO,SBZ,SBZ,Sibiu,Sibiu International
+2786,BR,TXF,TXF,Teixeira de Freitas,Teixeira de Freitas
+2787,PY,ASU,ASU,Asunción,Silvio Pettirossi International
+2788,AR,CNQ,CNQ,Corrientes,Doctor Fernando Piragine Niveyro International
+2789,US,CNY,CNY,Moab,Canyonlands Field
+2790,DK,CPH,CPH,Copenhagen,Airport Copenhagen
+2791,ID,KNO,MES,Medan,Kualanamu International
+2792,SO,GGR,GGR,Garoe,Garowe
+2793,TV,FUN,FUN,Funafuti,Funafuti International
+2794,US,SBP,SBP,San Luis Obispo,San Luis Obispo County Regional
+2795,AU,MIM,MIM,Merimbula,Merimbula
+2796,FR,ZSE,ZSE,Saint-Pierre,Pierrefonds
+2797,US,MFR,MFR,Medford,Rogue Valley International–Medford
+2798,PG,GUR,GUR,Alotau,Gurney
+2799,US,PDX,PDX,Portland,Portland International
+2800,CA,KEW,KEW,Keewaywin,Keewaywin
+2801,GL,SFJ,SFJ,Kangerlussuaq,Kangerlussuaq
+2802,AF,KHT,KHT,Khost,Khost Airport
+2803,TZ,MWZ,MWZ,Mwanza,Mwanza
+2804,RU,ULV,ULY,Ulyanovsk,Ulyanovsk Baratayevka
+2805,CA,YUY,YUY,Rouyn-Noranda,Rouyn-Noranda
+2806,VG,EIS,TOV,Tortola,Terrance B. Lettsome International
+2807,RU,NUX,NUX,Novy Urengoy,Novy Urengoy
+2808,FR,NTE,NTE,Nantes,Nantes Atlantique
+2809,KN,SKB,SKB,Saint Kitts,Robert L. Bradshaw International
+2810,CN,TGO,TGO,Tongliao,Tongliao
+2811,PK,LYP,LYP,Faisalabad District,Faisalabad International
+2812,CR,TNO,TNO,Tamarindo,Tamarindo
+2813,ID,MDC,MDC,Manado,Sam Ratulangi International
+2814,IN,IXT,IXT,Pasighat,Pasighat Airport
+2815,TR,ISE,ISE,Isparta,Isparta Süleyman Demirel
+2816,CN,HSN,HSN,Zhoushan,Zhoushan Putuoshan
+2817,UA,IFO,IFO,Ivano-Frankivsk,Ivano-Frankivsk International
+2818,ZZ,KDU,KDU,Skardu,Skardu
+2819,US,PBG,PBG,Plattsburgh,Plattsburgh International
+2820,US,PGV,PGV,Greenville,Pitt–Greenville
+2821,GR,JTR,JTR,Santorini,Santorini (Thira) National
+2822,FI,KTT,KTT,Kittilä,Kittilä
+2823,CD,FIH,FIH,Kinshasa,N djili
+2824,SA,GIZ,GIZ,Jizan,Jazan
+2825,IN,JSA,JSA,Jaisalmer,Jaisalmer
+2826,IN,IXZ,IXZ,Port Blair,Veer Savarkar International
+2827,PH,VRC,VRC,"Virac, Catanduanes",Virac
+2828,IT,BRI,BRI,Bari,Bari Karol Wojtyła
+2829,NG,YOL,YOL,Yola,Yola
+2830,CL,SCL,SCL,Santiago de Chile,Comodoro Arturo Merino Benítez International
+2831,US,MRY,MRY,Monterey,Monterey Regional
+2832,RU,VHV,VHV,Verkhnevilyuysk,Verkhnevilyuysk
+2833,RU,MRV,MRV,Mineralnye Vody,Mineralnye Vody
+2834,FR,AGF,AGF,Agen,Agen La Garenne
+2835,ID,BWX,BWX,Banyuwangi,Blimbingsari
+2836,ZA,HLA,JNB,Johannesburg,Lanseria International
+2837,CH,BRN,BRN,Bern,Bern
+2838,US,SVC,SVC,Silver City,Grant County
+2839,BR,JPA,JPA,"João Pessoa, Paraíba",Presidente Castro Pinto International
+2840,TJ,KQT,KQT,Qurghonteppa,Qurghonteppa International
+2841,HN,UII,UII,Útila,Útila
+2842,CA,YHO,YHO,Hopedale,Hopedale
+2843,US,OLF,OLF,Wolf Point,L. M. Clayton
+2844,RU,UKX,UKX,Ust-Kut,Ust-Kut
+2845,TH,USM,USM,Ko Samui,Samui
+2846,GL,AOQ,AOQ,Aappilattoq,Aappilattoq-Upernavik Heliport
+2847,DO,AZS,AZS,Samaná,Samaná El Catey International
+2848,MX,TRC,TRC,Torreón,Torreón International
+2849,US,GPT,GPT,Gulfport,Gulfport–Biloxi International
+2850,CN,LLB,LLB,Libo County,Libo
+2851,NC,ILP,ILP,Isle of Pines,Île des Pins
+2852,MM,MNU,MNU,Mawlamyine,Mawlamyine
+2853,JP,GAJ,GAJ,Yamagata,Yamagata
+2854,US,SMF,SAC,Sacramento,Sacramento International
+2855,UY,PDP,PDP,Punta del Este,Capitán de Corbeta Carlos A. Curbelo International
+2856,PK,CJL,CJL,Chitral,Chitral
+2857,LK,WRZ,WRZ,Weerawila,Weerawila
+2858,US,ASE,ASE,Aspen,Aspen–Pitkin County
+2859,US,PIH,PIH,Pocatello,Pocatello Regional
+2860,US,INL,INL,International Falls,Falls International
+2861,PL,LCJ,LCJ,Łódź,Łódź Władysław Reymont
+2862,AU,CPD,CPD,Coober Pedy,Coober Pedy
+2863,PF,RMT,RMT,Rimatara,Rimatara
+2864,BR,BSB,BSB,Brasília,Brasília International
+2865,CZ,UHE,UHE,Uherske Hradiste,Kunovice Airport
+2866,PT,CVU,CVU,Corvo Island,Corvo
+2867,CA,YQY,YQY,Sydney,Sydney/J.A. Douglas McCurdy
+2868,MY,IPH,IPH,Ipoh,Sultan Azlan Shah
+2869,KE,LOK,LOK,Lodwar,Lodwar
+2870,PF,BOB,BOB,Bora Bora,Bora Bora
+2871,CN,YNJ,YNJ,Yanji,Yanji Chaoyangchuan International
+2872,GR,CFU,CFU,Corfu,Corfu International
+2873,US,MCI,MKC,Kansas City,Kansas City International
+2874,JP,KKX,KKX,Kikai,Kikai
+2875,RU,DHG,DHG,Dalnegorsk,Dalnegorsk
+2876,EG,DBB,DBB,El Dabaa,El Alamein International
+2877,GN,CKY,CKY,Conakry,Conakry International
+2878,IN,HBX,HBX,Hubli,Hubli
+2879,RU,INA,INA,Inta,Inta Airport
+2880,AU,ONG,ONG,Mornington Island,Mornington Island
+2881,IN,NAG,NAG,Nagpur,Dr. Babasaheb Ambedkar International
+2882,BR,PGZ,PGZ,Ponta Grossa,Ponta Grossa A.Amilton Beraldo
+2883,US,FOD,FOD,Fort Dodge,Fort Dodge Regional
+2884,MY,SBW,SBW,Sibu,Sibu
+2885,CN,ACX,ACX,"Xingyi, Guizhou",Xingyi Wanfenglin
+2886,TN,TOE,TOE,Tozeur,Tozeur–Nefta International
+2887,AO,NOV,NOV,Huambo,Albano Machado
+2888,PT,SMA,SMA,Santa Maria Island,Santa Maria
+2889,US,JHM,JHM,Kapalua,Kapalua
+2890,ES,VLL,VLL,Valladolid,Valladolid
+2891,TR,DIY,DIY,Diyarbakır,Diyarbakır
+2892,TH,HGN,HGN,Mae Hong Son Province,Mae Hong Son
+2893,BY,MSQ,MSQ,Minsk,Minsk National
+2894,PL,GDN,GDN,Gdańsk,Gdańsk Lech Wałęsa
+2895,ZA,PZB,PZB,Pietermaritzburg,Pietermaritzburg
+2896,PH,KLO,KLO,Kalibo,Kalibo International
+2897,IT,CUF,CUF,Cuneo,Cuneo International
+2898,US,AOO,AOO,Altoona,Altoona–Blair County
+2899,RU,UUD,UUD,Ulan-Ude,Baikal International
+2900,CN,NKG,NKG,Nanjing,Nanjing Lukou International
+2901,VU,MWF,MWF,Maewo,Maewo-Naone
+2902,ZW,BUQ,BUQ,Bulawayo,Joshua Mqabuko Nkomo International
+2903,BR,CZS,CZS,Cruzeiro do Sul,Cruzeiro do Sul International
+2904,ID,PNK,PNK,Pontianak,Supadio International
+2905,RU,SEK,SEK,Srednekolymsk,Srednekolymsk
+2906,PT,LIS,LIS,Lisbon,Lisbon Portela
+2907,NZ,TIU,TIU,Timaru,Timaru
+2908,ES,FUE,FUE,Fuerteventura,Fuerteventura
+2909,US,CID,CID,Cedar Rapids,The Eastern Iowa
+2910,VU,LOD,LOD,Longana,Longana
+2911,NO,SSJ,SSJ,Sandnessjøen,"Sandnessjøen Airport, Stokka"
+2912,TR,VAN,VAN,Van,Van Ferit Melen
+2913,GL,KUS,KUS,Kulusuk,Kulusuk
+2914,MT,MLA,MLA,Malta,Malta International
+2915,ID,BEJ,BEJ,Tanjung Redeb,Kalimarau
+2916,NO,SDN,SDN,Sandane,"Sandane Airport, Anda"
+2917,CK,MHX,MHX,Manihiki Island,Manihiki Island Airport
+2918,FR,CDG,PAR,Paris,Charles de Gaulle Airport
+2919,GL,JQA,JQA,Qaarsut,Qaarsut
+2920,AE,DXB,DXB,Dubai,Dubai International
+2921,US,ANC,ANC,Anchorage,Ted Stevens Anchorage International
+2922,US,MCE,MCE,Merced,Merced Regional
+2923,GL,OBY,OBY,Ittoqqortoormiit,Ittoqqortoormiit Heliport
+2924,TZ,TKQ,TKQ,Kigoma,Kigoma
+2925,TH,PRH,PRH,Phrae Province,Phrae
+2926,PG,UNG,UNG,Kiunga,Kiunga
+2927,PE,PIU,PIU,Piura,FAP Captain Guillermo Concha Iberico International
+2928,RW,KME,KME,Cyangugu,Kamembe
+2929,US,MCW,MCW,Mason City,Mason City Municipal
+2930,DK,AAL,AAL,Aalborg,Aalborg
+2931,TZ,KBH,KBH,Kahama,Kahama Buzwagi
+2932,CA,YKF,YKF,Waterloo,Region of Waterloo International
+2933,KR,ICN,SEL,Seoul,Incheon International
+2934,CN,CWJ,CWJ,Cangyuan Va Autonomous County,Cangyuan Washan
+2935,MM,MGZ,MGZ,"Myeik, Myanmar",Myeik
+2936,TH,DMK,BKK,Bangkok,Don Mueang International
+2937,CN,YYA,YYA,Yueyang,Yueyang Sanhe Airport
+2938,IN,PNY,PNY,Pondicherry,Pondicherry
+2939,BR,MCZ,MCZ,Maceió,Zumbi dos Palmares International
+2940,US,ACK,ACK,Nantucket,Nantucket Memorial
+2941,US,HGR,HGR,Hagerstown,Hagerstown Regional
+2942,CN,NNY,NNY,Nanyang,Nanyang Jiangying
+2943,CN,WEH,WEH,Weihai,Weihai Dashuibo
+2944,IN,IXD,IXD,Allahabad,Allahabad
+2945,GB,LPL,LPL,Liverpool,Liverpool John Lennon
+2946,DK,EBJ,EBJ,Esbjerg,Esbjerg
+2947,AR,EPA,BUE,Buenos Aires,El Palomar
+2948,IN,PNQ,PNQ,Pune,Pune
+2949,VU,AWD,AWD,Aniwa Island,Aniwa
+2950,US,PVU,PVU,Provo,Provo Municipal
+2951,AU,PHE,PHE,Port Hedland,Port Hedland International
+2952,JP,OKE,OKE,Okinoerabujima,Okinoerabu
+2953,US,SCC,SCC,Prudhoe Bay,Deadhorse
+2954,SZ,SHO,MTS,Manzini,King Mswati III International
+2955,ES,GRO,GRO,Girona,Girona–Costa Brava
+2956,PG,DAU,DAU,Daru,Daru
+2957,MY,MZV,MZV,Gunung Mulu National Park,Mulu
+2958,GL,THU,THU,Pituffik,Thule Air Base
+2959,KY,CYB,CYB,Cayman Brac,Charles Kirkconnell International
+2960,ID,BDO,BDO,Bandung,Husein Sastranegara International
+2961,CZ,OSR,OSR,Ostrava,Leoš Janáček Airport Ostrava
+2962,CA,YCS,YCS,"Chesterfield Inlet, Nunavut",Chesterfield Inlet
+2963,IN,BUP,BUP,Bathinda,Bhatinda
+2964,SB,RNA,RNA,Arona,Ulawa
+2965,IN,RJA,RJA,Rajahmundry,Rajahmundry
+2966,ID,GTO,GTO,Gorontalo,Jalaluddin
+2967,CA,YGO,YGO,"Gods Lake Narrows, Manitoba",Gods Lake Narrows
+2968,SA,YNB,YNB,Yanbu,Yanbu
+2969,JP,MYJ,MYJ,Matsuyama,Matsuyama
+2970,KG,FRU,FRU,Bishkek,Manas International
+2971,CK,MOI,MOI,Mitiaro Island,Mitiaro Island Airport
+2972,KE,VPG,VPG,Kikambala,Vipingo
+2973,VN,SGN,SGN,Ho Chi Minh City,Tan Son Nhat International
+2974,BR,RBR,RBR,"Rio Branco, Acre",Rio Branco International
+2975,ES,SCQ,SCQ,Santiago de Compostela,Santiago de Compostela
+2976,PL,WAW,WAW,Warsaw,Warsaw Chopin
+2977,ID,NNX,NNX,Nunukan,Nunukan
+2978,MM,LSH,LSH,Lashio,Lashio
+2979,CA,YUD,YUD,Umiujaq,Umiujaq
+2980,US,ACT,ACT,Waco,Waco Regional
+2981,SN,CSK,CSK,Cap Skiring,Cap Skirring
+2982,CA,YHZ,YHZ,Halifax,Halifax Stanfield International
+2983,DE,CGN,CGN,Cologne,Cologne Bonn Airport
+2984,KR,KWJ,KWJ,Gwangju,Gwangju
+2985,US,SUX,SUX,Sioux City,Sioux Gateway
+2986,US,RST,RST,Rochester,Rochester International
+2987,MX,TPQ,TPQ,Tepic,Tepic International
+2988,ES,VIT,VIT,Vitoria-Gasteiz,Vitoria
+2989,NZ,KKE,KKE,Kerikeri,Kerikeri
+2990,ZW,VFA,VFA,Victoria Falls,Victoria Falls International
+2991,MN,HVD,HVD,Hovd,Khovd
+2992,TD,NDJ,NDJ,N Djamena,N Djamena International
+2993,CN,DOY,DOY,Dongying,Dongying Shengli
+2994,CC,CCK,CCK,Home Island,Cocos (Keeling) Islands
+2995,IN,PBD,PBD,Porbandar,Porbandar
+2996,ZA,MGH,MGH,"Margate, KwaZulu-Natal",Margate
+2997,PG,MAS,MAS,Manus Island,Momote
+2998,BO,TJA,TJA,Tarija,Capitan Oriel Lea Plaza
+2999,CA,YXX,YXX,Abbotsford,Abbotsford International
+3000,US,SGY,SGY,Skagway,Skagway
+3001,ID,AMQ,AMQ,"Ambon, Maluku",Pattimura
+3002,US,GLH,GLH,Greenville,Mid Delta Regional
+3003,MY,TGC,TGC,Tanjung Manis,Tanjung Manis
+3004,JM,KIN,KIN,Kingston,Norman Manley International
+3005,FR,RDZ,RDZ,Rodez,Rodez–Aveyron
+3006,US,CVN,CVN,Clovis,Clovis Municipal
+3007,CO,NVA,NVA,"Neiva, Huila",Benito Salas
+3008,US,PWM,PWM,Portland,Portland International Jetport
+3009,CZ,BRQ,BRQ,Brno,Brno–Tuřany
+3010,AR,IGR,IGR,Puerto Iguazú,Cataratas del Iguazú International
+3011,BR,NAT,NAT,Natal,Greater Natal International Airport
+3012,PL,RZE,RZE,Rzeszów,Rzeszów–Jasionka
+3013,KZ,DMB,DMB,Taraz,Taraz
+3014,IN,KUU,KUU,Kullu,Kullu–Manali
+3015,FR,DCM,DCM,Castres,Castres–Mazamet
+3016,US,JAN,JAN,Jackson,Jackson–Evers International
+3017,MX,SLP,SLP,San Luis Potosí,San Luis Potosí International
+3018,MW,LIX,LIX,Likoma Island,Likoma
+3019,GB,NRL,NRL,North Ronaldsay,North Ronaldsay
+3020,US,ADK,ADK,Adak Island,Adak
+3021,FI,LPP,LPP,Lappeenranta,Lappeenranta
+3022,PT,VSE,VSE,Viseu,Viseu
+3023,JP,ISG,ISG,"Ishigaki, Okinawa",Ishigaki
+3024,KR,MWX,MWX,Muan County,Muan International
+3025,IT,SUF,SUF,Lamezia Terme,Lamezia Terme International
+3026,CN,HET,HET,Hohhot,Hohhot Baita International
+3027,ID,LUW,LUW,Luwuk,Bubung
+3028,EE,TLL,TLL,Tallinn,Tallinn
+3029,US,OAK,OAK,Oakland,Oakland International
+3030,ET,HUE,HUE,Humera,Humera
+3031,JP,KIJ,KIJ,Niigata,Niigata
+3032,HR,SPU,SPU,Split,Split
+3033,CN,KCA,KCA,Kuqa County,Kuqa Qiuci
+3034,JP,MMY,MMY,Miyakojima,Miyako
+3035,CN,YIW,YIW,Yiwu,Yiwu
+3036,AU,LSY,LSY,Lismore,Lismore
+3037,CO,PSO,PSO,Pasto,Antonio Nariño
+3038,BS,LGI,LGI,Deadman's Cay Settlement,Deadman's Cay
+3039,MZ,BEW,BEW,Beira,Beira
+3040,TH,NST,NST,Nakhon Si Thammarat Province,Nakhon Si Thammarat
+3041,CN,JGN,JGN,Jiayuguan City,Jiayuguan
+3042,CA,QBC,QBC,Bella Coola,Bella Coola
+3043,PK,SKT,SKT,Sialkot,Sialkot International
+3044,MG,SMS,SMS,Île Sainte-Marie,Sainte Marie
+3045,ZA,DUR,DUR,Durban,Durban International
+3046,RU,EZV,EZV,"Beryozovo, Khanty-Mansi Autonomous Okrug",Berezovo
+3047,ET,JIJ,JIJ,Jijiga,Jijiga
+3048,BR,LEC,LEC,Lençóis,Lençóis
+3049,BG,SOF,SOF,Sofia,Sofia
+3050,TT,POS,POS,Port of Spain,Piarco International
+3051,TR,SXZ,SXZ,Siirt,Siirt
+3052,US,AUS,AUS,Austin,Austin–Bergstrom International
+3053,DZ,QSF,QSF,Sétif,Ain Arnat
+3054,TR,MLX,MLX,Malatya,Malatya Erhaç
+3055,ES,VDE,VDE,Valverde,El Hierro
+3056,CA,YGG,YGG,British Columbia,Ganges Harbor
+3057,CA,YVZ,YVZ,Deer Lake,Deer Lake
+3058,CA,YYD,YYD,Smithers,Smithers
+3059,RU,OVS,OVS,Sovetsky,Sovetsky
+3060,AF,KDH,KDH,Kandahar,Kandahar International
+3061,GM,BJL,BJL,Banjul,Banjul International
+3062,BD,CGP,CGP,Chittagong,Shah Amanat International
+3063,ID,SOC,SOC,Surakarta,Adisumarmo International
+3064,JO,AQJ,AQJ,Aqaba,King Hussein International
+3065,KE,KIS,KIS,Kisumu,Kisumu International
+3066,KR,TAE,TAE,Daegu,Daegu International
+3067,CA,YVP,YVP,Kuujjuaq,Kuujjuaq
+3068,BR,IPN,IPN,Ipatinga,Usiminas
+3069,SA,URY,URY,Qurayyat,Gurayat Domestic
+3070,US,IAD,WAS,"Washington, D.C.",Washington Dulles International
+3071,ID,TRK,TRK,"Tarakan, North Kalimantan",Juwata International
+3072,BR,TGQ,TGQ,Tangará da Serra,Tangará da Serra Airport
+3073,FR,NCE,NCE,Nice,Nice Côte d Azur International
+3074,BR,PPB,PPB,"Presidente Prudente, São Paulo",Presidente Prudente
+3075,SK,TAT,TAT,Poprad,Poprad–Tatry
+3076,FI,TKU,TKU,Turku,Turku
+3077,RU,KLF,KLF,Kaluga,Kaluga (Grabtsevo)
+3078,US,FAT,FAT,Fresno,Fresno Yosemite International
+3079,PF,FAC,FAC,Faaite,Faaite
+3080,MM,NYT,NYT,Naypyidaw,Naypyidaw
+3081,RU,NJC,NJC,Nizhnevartovsk,Nizhnevartovsk
+3082,MY,KTE,KTE,Kerteh,Kerteh
+3083,SA,ELQ,ELQ,Al-Qassim Region,Prince Nayef bin Abdulaziz Regional
+3084,US,CHS,CHS,Charleston,Charleston International
+3085,MM,KMV,KMV,Kalay,Kalaymyo
+3086,DZ,CFK,CFK,Chlef,Chlef International
+3087,CA,YLL,YLL,Lloydminster,Lloydminster
+3088,AR,RHD,RHD,Termas de Río Hondo,Las Termas
+3089,ID,TSY,TSY,Tasikmalaya,Tasikmalaya Wiriadinata
+3090,US,SWO,SWO,Stillwater,Stillwater Regional
+3091,DZ,GJL,GJL,Jijel,Jijel Ferhat Abbas
+3092,CA,ZGS,ZGS,"La Romaine, Quebec",La Romaine
+3093,TW,MZG,MZG,Magong,Magong
+3094,ET,GOB,GOB,Goba,Robe Airport
+3095,CN,JZH,JZH,Jiuzhaigou County,Jiuzhai Huanglong
+3096,CA,YOW,YOW,Ottawa,Ottawa Macdonald–Cartier International
+3097,JP,TNE,TNE,Tanegashima,New Tanegashima
+3098,CA,YCO,YCO,Kugluktuk,Kugluktuk
+3099,AU,EPR,EPR,Esperance,Esperance
+3100,CA,YTE,YTE,Cape Dorset,Cape Dorset
+3101,MG,TNR,TNR,Antananarivo,Ivato International
+3102,GR,JSH,JSH,Sitia,Sitia Public
+3103,IN,TRZ,TRZ,Tiruchirappalli,Tiruchirappalli International
+3104,CN,HUZ,HUZ,Huizhou,Huizhou Pingtan
+3105,PH,SJI,SJI,"San Jose, Occidental Mindoro",San Jose
+3106,BD,SPD,SPD,Saidpur,Saidpur
+3107,US,MLB,MLB,Melbourne,Orlando Melbourne International
+3108,US,AGS,AGS,Augusta,Augusta Regional
+3109,BR,PMW,PMW,Palmas,Palmas
+3110,DZ,DJG,DJG,Djanet,Tiska
+3111,CN,LNJ,LNJ,Lincang,Lincang
+3112,ID,BTJ,BTJ,Banda Aceh,Sultan Iskandar Muda International
+3113,DE,BER,BER,Berlin,Berlin Brandenburg
+3114,US,STL,STL,St. Louis,St. Louis Lambert International
+3115,US,BLI,BLI,Bellingham,Bellingham International
+3116,US,TRI,TRI,Bristol,Tri-Cities Regional
+3117,CA,YAB,YAB,Arctic Bay,Arctic Bay
+3118,MX,PQM,PQM,Palenque,Palenque International
+3119,RU,BGN,BGN,"Belaya Gora, Sakha Republic",Belaya Gora
+3120,KZ,AKX,AKX,Aktobe,Aktobe
+3121,RU,CEE,CEE,Cherepovets,Cherepovets
+3122,RU,ODO,ODO,Bodaybo,Bodaybo
+3123,CN,TAO,TAO,Qingdao,Qingdao Liuting International
+3124,US,AKN,AKN,King Salmon,King Salmon
+3125,JP,KUH,KUH,Kushiro,Kushiro
+3126,TR,TZX,TZX,Trabzon,Trabzon
+3127,DO,JBQ,SDQ,Santo Domingo,La Isabela International
+3128,IN,IXI,IXI,Lakhimpur district,Lilabari
+3129,AU,CTL,CTL,Charleville,Charleville
+3130,IN,KNU,KNU,Kanpur,Kanpur
+3131,PH,LGP,LGP,Legazpi,Legazpi
+3132,AU,DPO,DPO,Devonport,Devonport
+3133,CA,YQX,YQX,Gander,Gander International
+3134,PL,BZG,BZG,Bydgoszcz,Bydgoszcz Ignacy Jan Paderewski
+3135,PG,KIE,KIE,Kieta,Aropa
+3136,CN,KRY,KRY,Karamay,Karamay
+3137,GR,JIK,JIK,Icaria,Ikaria Island National
+3138,RU,NNM,NNM,Naryan-Mar,Naryan-Mar
+3139,IN,ISK,ISK,Nashik,Gandhinagar Airport
+3140,CR,PMZ,PMZ,Palmar Sur,Palmar Sur
+3141,CN,CTU,CTU,Chengdu,Chengdu Shuangliu International
+3142,NG,KAN,KAN,Kano,Mallam Aminu Kano International
+3143,CN,DYG,DYG,Zhangjiajie,Zhangjiajie Hehua International
+3144,US,IWD,IWD,Ironwood,Gogebic–Iron County
+3145,CA,YYB,YYB,North Bay,North Bay/Jack Garland
+3146,PE,CJA,CJA,Cajamarca,Mayor General FAP Armando Revoredo Iglesias
+3147,MN,MXV,MXV,Moron,Mörön
+3148,BD,BZL,BZL,Barisal,Barisal
+3149,AT,INN,INN,Innsbruck,Innsbruck
+3150,CG,PNR,PNR,Pointe-Noire,Pointe Noire
+3151,BR,MVF,MVF,Mossoro,Mossoro
+3152,AR,FMA,FMA,Formosa,Formosa International
+3153,TR,AOE,ESK,Eskişehir,Anadolu
+3154,NL,GRQ,GRQ,Groningen,Groningen Airport Eelde
+3155,US,PSC,PSC,Pasco,Tri-Cities
+3156,PH,GES,GES,General Santos,General Santos International
+3157,RU,IKT,IKT,Irkutsk,International Airport Irkutsk
+3158,LV,RIX,RIX,Riga,Riga International
+3159,BR,CGR,CGR,Campo Grande,Campo Grande International
+3160,TH,THS,THS,Sukhothai Province,Sukhothai
+3161,CN,FOC,FOC,Fuzhou,Fuzhou Changle International
+3162,CN,WUH,WUH,Wuhan,Wuhan Tianhe International
+3163,US,SUN,SUN,Sun Valley,Friedman Memorial
+3164,IT,AHO,AHO,Alghero,Alghero-Fertilia
+3165,AF,CCN,CCN,Chaghcharan,Chaghcharan
+3166,MX,CJS,CJS,Ciudad Juárez,Ciudad Juárez International
+3167,SB,HIR,HIR,Honiara,Honiara International
+3168,NG,BNI,BNI,Benin City,Benin
+3169,ID,LNU,LNU,Malinau City,Robert Atty Bessing Airport
+3170,ZZ,IXJ,IXJ,Jammu,Jammu
+3171,ID,LLJ,LLJ,Lubuklinggau,Silampari Airport
+3172,PE,AQP,AQP,Arequipa,Rodríguez Ballón International
+3173,GH,ACC,ACC,Accra,Kotoka International
+3174,SK,KSC,KSC,Košice,Košice International
+3175,BR,FEN,FEN,Fernando de Noronha,Fernando De Noronha
+3176,VN,HAN,HAN,Hanoi,Noi Bai International
+3177,ZA,NGL,NGL,Ngala,Ngala Airport
+3178,AU,SYD,SYD,Sydney,Sydney
+3179,US,VGT,LAS,Las Vegas,North Las Vegas Airport
+3180,GR,KZI,KZI,Kozani,Kozani National
+3181,AU,AUU,AUU,Aurukun,Aurukun
+3182,RU,NEI,NEI,Terney,Terney Airport
+3183,IR,MHD,MHD,Mashhad,Mashhad International
+3184,TR,AYT,AYT,Antalya,Antalya
+3185,US,STX,STX,Saint Croix,Henry E. Rohlsen
+3186,TH,CJM,CJM,Chumphon Province,Chumphon
+3187,US,BRW,BRW,Barrow,Wiley Post–Will Rogers Memorial
+3188,MW,CMK,CMK,Club Makokola,Club Makokola
+3189,VN,CAH,CAH,Ca Mau Province,Cà Mau
+3190,PH,DGT,DGT,Dumaguete,Sibulan
+3191,US,BJI,BJI,Bemidji,Bemidji Regional
+3192,GI,GIB,GIB,Gibraltar,Gibraltar International
+3193,RU,GSV,RTW,Saratov,Saratov Gagarin Airport
+3194,RU,SUK,SUK,Batagay-Alyta,Sakkyryr
+3195,TR,VAS,VAS,Sivas,Sivas
+3196,US,TEX,TEX,Telluride,Telluride Regional
+3197,IN,IXY,IXY,Kandla,Kandla
+3198,MA,UAR,UAR,Bouarfa,Bouarfa Airport
+3199,CA,YQZ,YQZ,Quesnel,Quesnel
+3200,AU,SGO,SGO,St George,St George
+3201,AU,JCK,JCK,Julia Creek,Julia Creek
+3202,IN,ATQ,ATQ,Amritsar,Sri Guru Ram Dass Jee International
+3203,KZ,NQZ,TSE,Nur-Sultan,Nursultan Nazarbayev International Airport
+3204,TR,GZP,GZP,Gazipaşa,Gazipaşa
+3205,NO,HAU,HAU,Haugesund,"Haugesund Airport, Karmøy"
+3206,DZ,VVZ,VVZ,Illizi,Takhamalt
+3207,RU,ETL,NEI,Terney,Svetlaya
+3208,OM,MCT,MCT,Muscat,Muscat International
+3209,PF,HUH,HUH,Huahine,Huahine – Fare
+3210,CO,BGA,BGA,Bucaramanga,Palonegro International
+3211,BZ,PND,PND,Punta Gorda,Punta Gorda
+3212,MM,KAW,KAW,Kawthaung Township,Kawthaung
+3213,IN,GWL,GWL,Gwalior,Gwalior
+3214,AU,CBR,CBR,Canberra,Canberra
+3215,TR,ADF,ADF,Adıyaman,Adıyaman
+3216,KE,LAU,LAU,Lamu,Manda
+3217,IN,CJB,CJB,Coimbatore,Coimbatore International
+3218,NO,BDU,BDU,Andselv,Bardufoss
+3219,NO,VDS,VDS,Vadsø,Vadsø
+3220,RU,CEK,CEK,Chelyabinsk,Chelyabinsk
+3221,US,YKM,YKM,Yakima,Yakima Air Terminal
+3222,NA,WDH,WDH,Windhoek,Hosea Kutako International
+3223,AU,EDR,EDR,Pormpuraaw,Edward River
+3224,GB,KOI,KOI,Kirkwall,Kirkwall
+3225,US,DLH,DLH,Duluth,Duluth International
+3226,ID,PUM,PUM,Pomalaa,Kolaka Pomala
+3227,ET,BCO,BCO,Jinka,Baco
+3228,EG,ATZ,ATZ,Asyut,Assiut
+3229,RU,PKV,PKV,Pskov,Pskov
+3230,FJ,KXF,KXF,Koro Island,Koro Island Airport
+3231,PG,GKA,GKA,Goroka,Goroka
+3232,PG,MXH,MXH,Iagifu Ridge Camp,Moro
+3233,US,CEZ,CEZ,Cortez,Cortez Municipal
+3234,AR,COR,COR,Córdoba,Ingeniero Aeronáutico Ambrosio L.V. Taravella International
+3235,US,FSM,FSM,Fort Smith,Fort Smith Regional
+3236,NO,SRP,SRP,Stord,"Stord Airport, Sørstokken"
+3237,GL,SVR,SVR,Savissivik,Savissivik Heliport
+3238,BS,NAS,NAS,Nassau,Lynden Pindling International
+3239,SE,SFT,SFT,Skellefteå,Skellefteå
+3240,PH,MPH,MPH,Caticlan,Godofredo P. Ramos
+3241,BR,JJD,JJD,"Cruz, Ceará",Cruz Jericoacoara
+3242,CI,SPY,SPY,"San-Pédro, Ivory Coast",San Pédro
+3243,US,MTJ,MTJ,Montrose,Montrose Regional
+3244,PG,LNV,LNV,Lihir Group,Lihir Island
+3245,NO,FRO,FRO,Florø,Florø
+3246,CA,ZMT,ZMT,Masset,Masset
+3247,MY,PEN,PEN,Penang,Penang International
+3248,CN,XIY,SIA,Xi'an,Xi an Xianyang International
+3249,MA,ESU,ESU,Essaouira,Essaouira-Mogador
+3250,US,LWB,LWB,Lewisburg,Greenbrier Valley
+3251,MH,MAJ,MAJ,Majuro,Marshall Islands International
+3252,AU,BWT,BWT,Burnie,Burnie
+3253,RU,PEZ,PEZ,Penza,Penza
+3254,CN,TVS,TVS,Tangshan,Tangshan Sannühe
+3255,CO,ADZ,ADZ,San Andrés,Gustavo Rojas Pinilla International
+3256,ID,BPN,BPN,Balikpapan,Sultan Aji Muhammad Sulaiman
+3257,AU,GET,GET,Geraldton,Geraldton
+3258,LV,LPX,LPX,Liepāja,Liepāja International
+3259,ID,BTW,BTW,Batulicin,Batu Licin
+3260,EC,IBB,IBB,Isabela,General Villamil Airport
+3261,VU,WLH,WLH,Walaha,Walaha
+3262,ID,TNJ,TNJ,Tanjung Pinang,Raja Haji Fisabilillah International
+3263,BW,GBE,GBE,Gaborone,Sir Seretse Khama International
+3264,CN,LXA,LXA,Lhasa,Lhasa Gonggar
+3265,US,SGF,SGF,Springfield,Springfield-Branson National
+3266,DZ,TGR,TGR,Touggourt,Sidi Mahdi
+3267,AU,GFF,GFF,Griffith,Griffith
+3268,DE,FRA,FRA,Frankfurt,Frankfurt International Airport
+3269,CN,CKG,CKG,Chongqing,Chongqing Jiangbei International
+3270,VU,ZGU,ZGU,Gaua,Gaua
+3271,EE,TAY,TAY,Tartu,Tartu
+3272,KR,RSU,RSU,Yeosu,Yeosu
+3273,CK,MGS,MGS,Mangaia Island,Mangaia Island Airport
+3274,AU,RCM,RCM,Richmond,Richmond
+3275,US,DSI,DSI,Destin,Destin Executive
+3276,TR,SAW,IST,Istanbul,Sabiha Gökçen International
+3277,RU,EGO,EGO,Belgorod,Belgorod International
+3278,CA,YAA,YAA,Anahim Lake,Anahim Lake
+3279,CO,VUP,VUP,Valledupar,Alfonso López Pumarejo
+3280,ZA,HDS,HDS,"Hoedspruit, Limpopo",Air Force Base Hoedspruit
+3281,AU,WEI,WEI,Weipa,Weipa
+3282,CA,YSB,YSB,Greater Sudbury,Sudbury
+3283,VE,CCS,CCS,Caracas,Simón Bolívar International
+3284,MX,LAP,LAP,La Paz,La Paz International
+3285,SS,JUB,JUB,Juba,Juba International
+3286,IQ,EBL,EBL,Erbil,Erbil International
+3287,RO,SUJ,SUJ,Satu Mare,Satu Mare International
+3288,US,GRR,GRR,Grand Rapids,Gerald R. Ford International
+3289,RU,BAX,BAX,Barnaul,Barnaul
+3290,KR,KUV,KUV,Gunsan,Gunsan
+3291,MX,ZCL,ZCL,Zacatecas,Zacatecas International
+3292,FR,LRT,LRT,Lorient,Lorient South Brittany
+3293,AT,VIE,VIE,Vienna,Vienna International Airport
+3294,RU,SCW,SCW,Syktyvkar,Syktyvkar
+3295,MM,BMO,BMO,Bhamo,Bhamo
+3296,CA,ZEL,ZEL,Bella Bella,Bella Bella (Campbell Island)
+3297,MA,ERH,ERH,Errachidia,Moulay Ali Cherif
+3298,VN,CXR,NHA,Nha Trang,Cam Ranh International
+3299,AE,RKT,RKT,Ras al-Khaimah,Ras Al Khaimah International
+3300,RU,OVB,OVB,Novosibirsk,Tolmachevo
+3301,AT,SZG,SZG,Salzburg,Salzburg
+3302,AU,BKQ,BKQ,Blackall,Blackall
+3303,MY,BTU,BTU,Bintulu,Bintulu
+3304,NA,NDU,NDU,Rundu,Rundu
+3305,RU,PEX,PEX,Pechora,Pechora
+3306,CA,ZPB,ZPB,Sachigo Lake,Sachigo Lake
+3307,JP,KMI,KMI,Miyazaki,Miyazaki
+3308,US,PSE,PSE,Ponce,Mercedita
+3309,IN,JGA,JGA,Jamnagar,Jamnagar
+3310,CN,SHE,SHE,Shenyang,Shenyang Taoxian International
+3311,BZ,CUK,CUK,Caye Caulker,Caye Caulker
+3312,CA,YXE,YXE,Saskatoon,Saskatoon John G. Diefenbaker International
+3313,AR,MDQ,MDQ,Mar del Plata,Astor Piazzolla International
